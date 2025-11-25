@@ -20,13 +20,13 @@ highlighter: rouge
 permalink: pretty
 
 # Theme
-remote_theme: just-the-docs/just-the-docs@v0.8.2
+remote_theme: just-the-docs/just-the-docs
 
 # Just the Docs Configuration
 color_scheme: custom
 
 logo: "/assets/images/logo.svg"
-favicon_ico: "/assets/images/favicon.ico"
+#favicon_ico: "/assets/images/favicon.ico"
 
 # Search
 search_enabled: true
