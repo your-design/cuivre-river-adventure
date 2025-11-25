@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50">
+  <defs>
+    <linearGradient id="mountainGrad" x1="0%" y1="100%" x2="0%" y2="0%">
+      <stop offset="0%" style="stop-color:#4a5568"/>
+      <stop offset="100%" style="stop-color:#2d3748"/>
+    </linearGradient>
+    <linearGradient id="waterGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#3182ce"/>
+      <stop offset="100%" style="stop-color:#2b6cb0"/>
+    </linearGradient>
+  </defs>
+  
+  <!-- Mountains -->
+  <polygon points="0,35 20,15 40,35" fill="url(#mountainGrad)"/>
+  <polygon points="25,35 50,10 75,35" fill="url(#mountainGrad)"/>
+  <polygon points="55,35 75,18 95,35" fill="url(#mountainGrad)"/>
+  
+  <!-- Water -->
+  <ellipse cx="47" cy="40" rx="50" ry="8" fill="url(#waterGrad)" opacity="0.8"/>
+  
+  <!-- Text -->
+  <text x="105" y="28" font-family="Georgia, serif" font-size="14" font-weight="bold" fill="#2d3748">Eleven Mile</text>
+  <text x="105" y="42" font-family="Georgia, serif" font-size="10" fill="#4a5568">Adventure Guide</text>
+</svg>

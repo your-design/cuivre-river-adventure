@@ -1,33 +1,114 @@
-# Site settings
-title: "Family Adventure: Eleven Mile State Park, Colorado"
-description: "Professional adventure guide for Eleven Mile State Park, Colorado"
-author: "Kevin J. Smith"
-baseurl: "" # Leave empty for GitHub Pages
-url: "https://eleven-mile-state-park.your-design.app" # Will be set by GitHub Pages
+# Eleven Mile State Park Family Adventure
+# A comprehensive guide for multi-generational wilderness camping
 
-# Theme
-theme: jekyll-theme-cayman
-# Alternative themes: minima, jekyll-theme-minimal, jekyll-theme-architect
+title: "Eleven Mile Adventure"
+author: "Kevin J. Smith"
+tagline: "A Multi-Generational Colorado Wilderness Experience"
+description: >-
+  Your complete guide to disconnecting from city life and reconnecting with family
+  at Eleven Mile State Park, Colorado. From grandparents to grandchildren,
+  this adventure has something for everyone.
+
+# Site Settings
+baseurl: ""
+url: "https://eleven-mile-state-park.your-design.app" # Will be set by GitHub Pages
+repository: "https://github.com/your-design/eleven-mile-state-park"
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
+permalink: pretty
 
-# Plugins
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
+# Theme
+remote_theme: just-the-docs/just-the-docs@v0.8.2
 
-# Social (optional)
-github_username: kevin-j-smith
-# twitter_username: your-twitter
+# Just the Docs Configuration
+color_scheme: custom
+
+logo: "/assets/images/logo.svg"
+favicon_ico: "/assets/images/favicon.ico"
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Navigation
+nav_sort: case_sensitive
+nav_external_links:
+  - title: Eleven Mile State Park (Official)
+    url: https://cpw.state.co.us/state-parks/eleven-mile-state-park
+  - title: CPW Camping Reservations
+    url: https://www.cpwshop.com/camping/eleven-mile-state-park/r/campgroundDetails.page?parkID=50024
+  - title: Colorado Fishing Regulations
+    url: https://cpw.state.co.us/thingstodo/Pages/Fishing.aspx
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer
+footer_content: "Family Adventure Guide &copy; 2026. Created with love for wilderness exploration."
+
+# Collections for organized content
+collections:
+  activities:
+    output: true
+    permalink: /:collection
+    #permalink: /:collection/:name
+  guides:
+    output: true
+    permalink: /:collection
+    #permalink: /:collection/:name
+  day_trips:
+    output: true
+    permalink: /:collection
+    #permalink: /:collection/:name
+  itinerary:
+    output: true
+    permalink: /:collection
+    #permalink: /:collection/:name
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "activities"
+    values:
+      layout: "default"
+      nav_exclude: false
+  - scope:
+      path: ""
+      type: "guides"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "day_trips"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "itinerary"
+    values:
+      layout: "default"
 
 # Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
-  - node_modules
+  - README.md
   - vendor
-  - .sass-cache/
-  - .jekyll-cache/
+  - .bundle
+
