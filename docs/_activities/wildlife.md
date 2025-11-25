@@ -387,4 +387,4 @@ Report significant sightings:
 ---
 
 [← Back: Backpacking](/activities/backpacking){: .btn }
-[Next: Day Trips →](/day_trips/){: .btn .btn-primary }
+[Next: Day Trips →](/day-trips/){: .btn .btn-primary }
