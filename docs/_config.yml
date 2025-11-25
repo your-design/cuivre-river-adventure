@@ -1,0 +1,33 @@
+# Site settings
+title: "Family Adventure: Eleven Mile State Park, Colorado"
+description: "Professional adventure guide for Eleven Mile State Park, Colorado"
+author: "Kevin J. Smith"
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://eleven-mile-state-park.your-design.app" # Will be set by GitHub Pages
+
+# Theme
+theme: jekyll-theme-cayman
+# Alternative themes: minima, jekyll-theme-minimal, jekyll-theme-architect
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Social (optional)
+github_username: kevin-j-smith
+# twitter_username: your-twitter
+
+# Exclude from build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache/
+  - .jekyll-cache/
