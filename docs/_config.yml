@@ -60,20 +60,20 @@ footer_content: "Family Adventure Guide &copy; 2026. Created with love for wilde
 collections:
   activities:
     output: true
-    permalink: /:collection
-    #permalink: /:collection/:name
+    #permalink: /:collection
+    permalink: /:collection/:name
   guides:
     output: true
-    permalink: /:collection
-    #permalink: /:collection/:name
+    #permalink: /:collection
+    permalink: /:collection/:name
   day_trips:
     output: true
-    permalink: /:collection
-    #permalink: /:collection/:name
+    #permalink: /:collection
+    permalink: /:collection/:name
   itinerary:
     output: true
-    permalink: /:collection
-    #permalink: /:collection/:name
+    #permalink: /:collection
+    permalink: /:collection/:name
 
 # Default front matter
 defaults:
