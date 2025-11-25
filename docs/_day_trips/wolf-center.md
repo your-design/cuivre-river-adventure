@@ -272,4 +272,4 @@ After visiting the Wolf Center, tie the experience to your time at the park:
 ---
 
 [← Back: Cripple Creek](/day_trips/cripple-creek){: .btn }
-[Return to Day Trips →](/day_trips/){: .btn .btn-primary }
+[Return to Day Trips →](/day-trips/){: .btn .btn-primary }
