@@ -27,7 +27,7 @@ book. Use it when shopping, when a kid is being picky, or when planning next tim
 ---
 
 ## Zuelke Family
-*2 adults*
+*2 adults, 2 kids*
 
 - PB&J sandwiches (grape **and** strawberry)
 - Hot dogs
@@ -79,7 +79,7 @@ anchors the everyday breakfasts and kid snacks.
 ---
 
 ## Older Smiths
-*2 adults, 1 kid*
+*2 adults*
 
 - Hamburgers · brats/hot dogs · chicken thighs
 - **Pulled pork** · beans
@@ -99,7 +99,7 @@ hosts **Spaghetti Night (Sun)**.
 ---
 
 ## Younger Smiths
-*2 adults, 2 kids*
+*2 adults, 1 kid*
 
 **The signature trick:** pre-cooked meats **vacuum-sealed in sauce**, finished the
 last 10–20% after thawing — steak, chicken, pork in **Mexican, tikka masala, Korean,

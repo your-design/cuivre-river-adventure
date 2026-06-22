@@ -37,10 +37,10 @@ options for the grown-ups.
 
 | Family | People | A few of their must-haves |
 |:-------|:-------|:--------------------------|
-| **Zuelke** | 2 adults | Brats, bacon & eggs, sweet corn, honeycrisp apples |
+| **Older Smiths** | 2 adults | Pulled pork, burgers, spaghetti, chicken thighs |
 | **Harris** | 1 adult, 2 kids | Cereal, bagels, PB&J, mac & cheese, fruit |
-| **Older Smiths** | 2 adults, 1 kid | Pulled pork, burgers, spaghetti, chicken thighs |
-| **Younger Smiths** | 2 adults, 2 kids | Pre-seasoned meats + rice, pancakes, biscuits & gravy |
+| **Younger Smiths** | 2 adults, 1 kid | Pre-seasoned meats + rice, pancakes, biscuits & gravy |
+| **Zuelke** | 2 adults, 2 kids | Brats, bacon & eggs, sweet corn, honeycrisp apples |
 
 Full lists on the [Family Preferences](/meals/family-preferences) page.
 

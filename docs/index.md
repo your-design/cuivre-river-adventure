@@ -37,10 +37,10 @@ Four families, twelve people, ages **1 to adult**:
 
 | Family | Group |
 |:-------|:------|
-| Zuelke | 2 adults |
+| Older Smiths | 2 adults |
 | Harris | 1 adult, 2 kids |
-| Older Smiths | 2 adults, 1 kid |
-| Younger Smiths | 2 adults, 2 kids |
+| Younger Smiths | 2 adults, 1 kid |
+| Zuelke | 2 adults, 2 kids |
 
 That's **7 adults and 5 kids** (ages 1–12). Everyone's bringing something to the
 table—literally (see the [Food Plan](/meals/)) and figuratively. Some of us paddle,
