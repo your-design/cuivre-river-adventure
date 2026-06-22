@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Complete Packing List
-parent: Guides
-nav_order: 2
+title: Packing Lists
+parent: Plan & Prepare
+nav_order: 4
 ---
 
-# Complete Packing List
+# Packing Lists
 {: .no_toc }
 
-Organized by category, priority, and who needs what.
+By category, plus a per-family checklist so nobody double-packs (or forgets the tent poles).
 {: .fs-6 .fw-300 }
 
 ---
@@ -21,385 +21,166 @@ Organized by category, priority, and who needs what.
 
 ---
 
-## The Golden Rule of Packing
+## How to Use This
 
-At 8,600 feet, 40 miles from the nearest store, you're largely on your own. Forget something critical and your options are limited. This list errs on the side of over-preparation—better to have it and not need it.
+Some things every family brings **for itself** (clothes, sleep gear, toiletries).
+Other big items only need **one or two for the whole group** (canopies, water jugs,
+group first-aid). Split the shared list at your [planning meeting](/guides/preparation)
+so we don't show up with four of everything and zero of something.
 
-That said, you're in an RV, not backpacking. Use the space. Comfort matters when you're spending seven nights outside.
+🟦 = bring your own · 🟩 = assign to ONE family for the group
+
+---
+
+## Shelter & Sleep (🟦 per family)
+
+- Tent + stakes + **poles** (check the bag!) and a footprint/tarp, **or** camper/RV
+- Sleeping bags or bedding (summer-weight; a light blanket for cooler nights)
+- Sleeping pads / air mattress + pump
+- Pillows
+- Extra tarp + paracord (rain fly, ground cover, shade)
+- Mallet for stakes
+- Headlamp/flashlight per person
+
+## Camp Comfort
+
+- 🟦 Camp chairs (one+ per person)
+- 🟩 **Canopy / shade shelter** (1–2 for the group HQ site)
+- 🟩 Folding tables (2–3 shared)
+- 🟩 Outdoor rug / mat
+- 🟦 Hammock
+- 🟩 String/lantern lights for the group area
+- 🟦 Battery packs + charging cables
+- 🟩 Box fan (electric sites) — July is hot
 
 ---
 
 ## Camp Kitchen
 
-### Essential Cooking Gear
+### Shared (🟩 split across families)
+- Camp stove(s) + fuel
+- Griddle and/or cast-iron skillet, large pot, tongs/spatula/ladle
+- 🟩 **Big water cooler / jug** (5–7 gal) + drink dispenser
+- Coolers (plan 2–3 total; one for drinks, others for food)
+- Dish tubs, biodegradable soap, sponges, dish towels
+- Trash bags + a few extra (heavy duty)
+- Foil (heavy duty), zip bags, plastic wrap, paper towels
+- Cutting boards (separate for raw meat), sharp knife, can opener
+- Lighter/matches, fire gloves
+- Coffee maker (percolator or pour-over) — see the [coffee crowd](/meals/family-preferences)
 
-| Item | Quantity | Notes |
-|:-----|:---------|:------|
-| Camp stove (backup to RV) | 1 | Propane, with windscreen |
-| Cast iron skillet, 12" | 1 | Nothing beats it for campfire cooking |
-| Large pot with lid | 1 | Pasta, soup, boiling water |
-| Griddle | 1 | Pancakes, bacon, grilled sandwiches |
-| Dutch oven | 1 | Optional but magical for stews and bread |
-| Coolers | 2–3 | One for drinks (opens often), others for food |
-| Cutting boards | 2 | One for meat, one for everything else |
-| Sharp knives | 3 | Chef's knife, paring knife, serrated |
-| Can opener | 1 | Manual, not electric |
-| Bottle opener/corkscrew | 1 | Don't forget this |
-| Measuring cups/spoons | 1 set | If baking or following recipes |
-| Mixing bowls | 2–3 | Nesting for storage |
-| Colander | 1 | Draining pasta, washing produce |
-| Spatula, tongs, ladle | 1 each | Long handles for fire cooking |
-| Aluminum foil | 3 rolls | Heavy duty. You'll use more than expected |
-| Plastic wrap | 1 roll | Covering leftovers |
-| Zip-lock bags | 2 boxes | Various sizes. Infinitely useful |
-| Paper towels | 4 rolls | Can't have too many |
-| Dish soap | 1 bottle | Biodegradable preferred |
-| Sponges/scrubbers | 4 | They get gross fast |
-| Dish towels | 6 | Drying, pot holders, general use |
-| Trash bags | 1 box | Heavy duty 30-gallon |
+### Per family (🟦)
+- Plates, bowls, cups/mugs, utensils
+- Reusable water bottles (one+ per person)
+- Personal snacks and drinks (see [Food Plan](/meals/))
 
-### Per-Person Dinnerware
-
-| Item | Per Person |
-|:-----|:-----------|
-| Plate | 1 |
-| Bowl | 1 |
-| Cup/mug | 2 |
-| Fork, knife, spoon | 1 each |
-| Water bottle | 1 (32 oz minimum) |
-
-Use durable camping dishes—melamine or enamelware. Paper plates are fine for some meals but generate waste.
-
-### Food Storage
-
-- Bear-resistant containers (required for backcountry camping)
-- Cooler locks if car camping in loops with wildlife activity
-- Dry storage bins for pantry items
+See [Camp Cooking](/guides/cooking) and the [Meal Prep guide](/meals/meal-prep).
 
 ---
 
-## Clothing (Per Person)
+## Clothing (🟦 per person)
 
-### The Layering System
+Missouri July = **hot, humid days; warm nights; afternoon thunderstorms.**
 
-High altitude means dramatic temperature swings—40°F mornings, 80°F afternoons, storms that drop temperatures 20 degrees in minutes. Layer everything.
+- T-shirts / tanks (one per day + spares)
+- 1–2 long-sleeve shirts (sun, bugs, cool evenings)
+- Shorts + 1 pair long pants (trails, bugs, campfire)
+- Swimsuit (×2 — one's always drying) + quick-dry towel
+- Light rain jacket or poncho
+- Light hoodie/fleece for evenings
+- Underwear & socks (one per day + spares)
+- Sun hat / ball cap
+- **Closed-toe shoes** for trails + **water shoes/sandals** for the beach and creek
+- Sleepwear
 
-| Layer | Purpose | Items |
-|:------|:--------|:------|
-| Base | Moisture wicking | Synthetic or merino wool shirts/underwear |
-| Mid | Insulation | Fleece jacket, down vest |
-| Outer | Weather protection | Rain jacket, windbreaker |
-
-### Daily Wear
-
-| Item | Quantity | Notes |
-|:-----|:---------|:------|
-| T-shirts/short sleeves | 4 | Moisture-wicking preferred |
-| Long-sleeve shirts | 2 | Sun protection, cool evenings |
-| Shorts | 3 | Quick-dry material |
-| Long pants | 2 | One for hiking, one for camp |
-| Fleece/light jacket | 1 | Essential for mornings |
-| Rain jacket | 1 | Afternoon storms are common |
-| Warm jacket | 1 | For cold nights—down or synthetic |
-| Underwear | 7 | Enough for the week |
-| Socks | 7 pairs | Wool blend for hiking, cotton for camp |
-| Sleepwear | 2 sets | Layers for cold nights |
-
-### Footwear
-
-| Type | Purpose |
-|:-----|:--------|
-| Hiking boots | Ankle support, rocky trails |
-| Water shoes/sandals | Reservoir, camp showers |
-| Camp shoes | Comfortable around site |
-| Warm socks | Sleeping if feet get cold |
-
-### Accessories
-
-- Sun hat with brim (everyone)
-- Warm beanie (yes, even in July)
-- Sunglasses with UV protection
-- Bandana/buff (dust, sun, sweat)
-- Gloves (for cold mornings and campfire management)
-
-### For Kids: Extra Items
-
-- Extra complete outfit (accidents happen)
-- Rain boots if under 8
-- Glow sticks/reflective gear for visibility after dark
+### Kids — extra
+- **Extra full outfits** (creek + mud + spills = guaranteed)
+- Water shoes that stay on (creek bottoms are rocky)
+- A warm layer for the little ones at night
 
 ---
 
-## Sleeping Gear
+## Water & Beach
 
-### In the RV
+- 🟦 **Kayaks / canoes** (we're bringing our own) + paddles
+- 🟦 **PFDs / life jackets** — required for kids on any boat; one that fits each child
+- Dry bag for phone/keys/wallet
+- Beach towels, sand toys for the little kids
+- Goggles
+- 🟩 Floating cooler or beach shade (optional)
 
-- Fitted sheets for all beds
-- Blankets (nights drop to 40s)
-- Extra blankets for kids who kick them off
-- Pillows (sleeping on bad pillows ruins trips)
+## Bikes
 
-### For Backcountry/Overflow
+- 🟦 **Bikes** (we're bringing our own) + **helmets for everyone**
+- Basic repair: pump, spare tube, multi-tool, patch kit
+- Bike lights if riding at dusk
 
-| Item | Per Person | Notes |
-|:-----|:-----------|:------|
-| Sleeping bag | 1 | Rated to 30°F minimum |
-| Sleeping pad | 1 | R-value 3+ for insulation |
-| Tent (if backcountry) | Per needs | 3-season minimum |
-| Pillow | 1 | Compressible camping pillow |
+## Fishing
 
----
-
-## Personal Care
-
-### For Everyone
-
-| Item | Notes |
-|:-----|:------|
-| Toothbrush + toothpaste | Bring backups |
-| Biodegradable soap | For body and hair |
-| Shampoo/conditioner | Biodegradable |
-| Deodorant | You're with family for 7 days |
-| Razor | If needed |
-| Sunscreen SPF 50+ | 2 bottles minimum |
-| Lip balm with SPF | 2 per person |
-| Insect repellent | DEET or picaridin based |
-| Hand sanitizer | Multiple bottles |
-| Medications | All prescriptions + OTC basics |
-| First aid kit | See medical section |
-| Feminine hygiene products | As needed |
-| Contact lens supplies | Plus backup glasses |
-| Prescription glasses | Plus backup pair |
-| Small mirror | For contact lens users |
-
-### Nice to Have
-
-- Baby wipes (everyone uses these, not just babies)
-- Dry shampoo
-- Nail clippers
-- Tweezers
-- Small scissors
+- 🟦 Rods & reels (one per angler; kid rods for the little ones)
+- Tackle: hooks, bobbers, split shot, small jigs/spinners
+- Bait (worms/nightcrawlers; pick up locally) — see [Fishing](/activities/fishing)
+- Pliers/hook remover, line clippers, small net
+- **Missouri fishing permits** (adults — buy before the trip)
+- Bucket/stringer, small cooler for any keepers
 
 ---
 
-## Medical & First Aid
+## Bug, Sun & First Aid
 
-### The Complete Kit
-
-**Wound Care:**
-- Assorted bandages (lots)
-- Gauze pads (4x4)
-- Medical tape
-- Butterfly closures
-- Antiseptic wipes
-- Antibiotic ointment
-- Moleskin (for blisters—critical)
-
-**Medications:**
-- Ibuprofen
-- Acetaminophen
-- Antihistamine (Benadryl)
-- Anti-diarrheal
-- Antacid
-- Hydrocortisone cream
-- Aloe vera gel
-
-**Tools:**
-- Tweezers (splinters, ticks)
-- Small scissors
-- Safety pins
-- Thermometer
-- CPR mask
-- Elastic bandage (ace wrap)
-- Instant cold packs
-
-**Altitude & Environment:**
-- Electrolyte packets
-- Glucose tablets
-- Sunburn relief spray
-- Eye drops (altitude dries eyes)
-
-**Emergency:**
-- EpiPen (if prescribed)
-- Inhaler (if prescribed)
-- Emergency contact list on waterproof paper
-- Insurance cards (photocopies)
+- 🟦 Insect repellent (DEET or picaridin) + **permethrin** for clothing
+- 🟦 Sunscreen **SPF 50+** and lip balm with SPF
+- Aloe / after-sun
+- 🟩 **Group first-aid kit:** bandages, gauze, tape, antiseptic, antibiotic ointment,
+  tweezers (ticks/splinters), moleskin, ibuprofen/acetaminophen, antihistamine
+  (Benadryl), hydrocortisone, anti-diarrheal, antacid, electrolyte packets, thermometer
+- 🟦 Personal meds + any **EpiPens/inhalers** (tell the group where they are)
+- Hand sanitizer & baby wipes (everyone uses these)
+- Tick-removal tool
 
 ---
 
-## Fishing Gear
+## Tools, Documents & Extras
 
-See the [Fishing Guide](/activities/fishing) for detailed recommendations. Essentials:
-
-| Item | Notes |
-|:-----|:------|
-| Rods | 1 per angler (medium action for reservoir) |
-| Reels | Spinning reels, 6-8 lb line |
-| Tackle box | Organized with essentials |
-| Bait | Powerbait, worms, salmon eggs |
-| Lures | See fishing guide for specifics |
-| Fishing licenses | Required for 16+, buy online before |
-| Net | Landing net for larger fish |
-| Stringer/cooler | For keeping catch |
-| Pliers | Hook removal |
-| Line cutter | Or small scissors |
-| Polarized sunglasses | See through surface glare |
-
----
-
-## Water Activities
-
-| Item | Notes |
-|:-----|:------|
-| Kayak/canoe | Rentals available at marina |
-| Life jackets | Required for all watercraft |
-| Paddle | Sized appropriately |
-| Dry bag | For phones, keys, wallet |
-| Water shoes | Reservoir bottom is rocky |
-| Towels | At least 2 per person |
-| Swimsuits | Water-contact sports prohibited, but useful |
-
-{: .warning }
-> **Note:** Swimming, water skiing, tubing, wading, and jet skis are prohibited at Eleven Mile Reservoir. Kayaking and boating are permitted.
-
----
-
-## Camp Comfort
-
-### Furniture & Shelter
-
-| Item | Notes |
-|:-----|:------|
-| Camp chairs | 1+ per person, including backups |
-| Folding table | Extra prep/eating surface |
-| Canopy/shade structure | Midday sun is intense |
-| Hammock | Relaxation game-changer |
-| Outdoor rug | Keeps dirt out of RV |
-
-### Lighting
-
-| Item | Quantity |
-|:-----|:---------|
-| Headlamp | 1 per person |
-| Lantern | 2–3 for camp |
-| String lights | Nice for ambiance |
-| Flashlight | Backup, always |
-| Extra batteries | Lots |
-
-### Fire Supplies
-
-| Item | Notes |
-|:-----|:------|
-| Firewood | Buy at marina or bring (no local collection) |
-| Fire starters | Commercial or DIY |
-| Matches/lighters | Multiple, in waterproof container |
-| Fire gloves | For managing logs |
-| Bucket | Water for extinguishing |
+- 🟩 Multi-tool, duct tape, zip ties, work gloves, small tool kit
+- 🟩 Broom/whisk + dustpan (camper floors), leveling blocks (RV)
+- Waterproof pouch with: IDs, reservation confirmations, insurance, **fishing permits**,
+  emergency contacts, some **cash**
+- Paper park map (signal can be spotty)
+- Trash/recycling bags, clothesline + clips
+- Star app + plant/animal ID apps **downloaded offline**
 
 ---
 
 ## Entertainment
 
-### For Everyone
-
-- Playing cards (multiple decks)
-- Board games (travel versions)
-- Books/e-readers
-- Journals and pens
+- Cards & travel board games
 - Binoculars (wildlife, stargazing)
-- Camera
-
-### For Kids
-
-- Coloring books and crayons
-- Nature scavenger hunt lists
-- Bug catchers and magnifying glass
-- Kid-friendly binoculars
-- Glow sticks
-- Fishing gear sized for kids
-- Comfort item from home
-
-### For Teens
-
-- Hammock with book
-- Photography gear
-- Sketchbook
-- Frisbee/football
-- Trail mix ingredients (let them make their own)
-
-### For Grandparents
-
-- Comfortable reading glasses
-- Crossword/sudoku books
-- Knitting/handwork
-- Birding field guide
-- Quality binoculars
-
-### Offline Digital
-
-Download before leaving cell service:
-- Star map app (SkyView, Star Walk)
-- Plant/animal identification apps
-- Podcasts and audiobooks
-- Music playlists
-- Movies/shows (for rainy days in RV)
-- This guide as PDF
+- Soccer ball / frisbee / football
+- Books, journals, sketchpads
+- 🟦 Kids' stuff: scavenger-hunt sheets, bug catcher, glow sticks, camp craft supplies
+  — print the [Kids at Camp](/kids) packet before you leave!
 
 ---
 
-## Tools & Repair
+## Per-Family Quick Checklist
 
-| Item | Use |
-|:-----|:----|
-| Multi-tool | Everything |
-| Duct tape | Repairs anything |
-| Paracord (50 ft) | Hanging, securing, emergency |
-| Zip ties (assorted) | Quick fixes |
-| Basic tool kit | Screwdrivers, pliers, wrench |
-| RV-specific tools | Sewer hose repair, leveling blocks |
-| Tire repair kit | For vehicles |
-| Jumper cables | Dead batteries happen |
-| Tow strap | For soft sand/mud |
+Print this and tape it inside a cabinet or cooler lid:
 
----
-
-## Important Documents
-
-Pack in waterproof bag:
-- Driver's licenses
-- Vehicle registration and insurance
-- RV rental agreement (if renting)
-- Camping reservation confirmations
-- Fishing licenses
-- State park pass
-- Emergency contact list
-- Medical information for family members
-- Cash ($200+ small bills)
-- Credit cards
-- Park map (paper backup)
+- [ ] Shelter (tent + **poles** / camper) and bedding
+- [ ] Clothes + rain layer + swimsuits + **water shoes**
+- [ ] Camp chairs + headlamps
+- [ ] Your kitchen items + water bottles
+- [ ] Your **bikes + helmets**
+- [ ] Your **kayak + PFDs**
+- [ ] Your **fishing gear + permits**
+- [ ] Bug spray + sunscreen + personal meds
+- [ ] Your assigned **🟩 group item(s)**
+- [ ] Your part of the [grocery list](/meals/shopping-list)
+- [ ] Phone chargers / battery packs
+- [ ] Printed [kids' activity packet](/kids)
 
 ---
 
-## Final Packing Tips
-
-**One Week Before:**
-Lay everything out. Check against this list. Make shopping list for gaps.
-
-**Three Days Before:**
-Load heavy/bulky items into vehicles. Don't overload one side.
-
-**Day Before:**
-Load perishables into coolers. Freeze water bottles for ice. Final walkthrough of house.
-
-**Morning Of:**
-Take photos of house (stove off, doors locked). Final loading of fragile items.
-
----
-
-{: .note }
-> **The Forgotten Item:** No matter how carefully you pack, you'll forget something. Lake George has a small general store. The 11 Mile Marina sells basics. Colorado Springs is an hour away if you need something specific. Don't let a forgotten item ruin the trip.
-
----
-
-[← Back: Preparation](/guides/preparation){: .btn }
-[Next: Reservation Strategy →](/guides/reservations){: .btn .btn-primary }
+[Back: The Drive](/guides/drive){: .btn }
+[Next: Camp Setup →](/guides/camp-setup){: .btn .btn-primary }

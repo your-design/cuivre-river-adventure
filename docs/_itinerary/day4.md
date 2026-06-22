@@ -1,153 +1,63 @@
 ---
 layout: default
-title: "Day 4: Day Trip"
-parent: 7-Day Itinerary
+title: "Day 4 — Sat, Jul 4 🎆"
+parent: Daily Itinerary
 nav_order: 4
 ---
 
-# Day 4: Day Trip
+# Day 4 — Saturday, July 4 🎆
 {: .no_toc }
 
-Garden of the Gods, Manitou Springs, and world-class scenery.
+Independence Day at camp. The centerpiece of the week: a big BBQ feast and a great fire.
 {: .fs-6 .fw-300 }
 
 ---
 
-## The Day at a Glance
+## At a Glance
 
-| Time | Activity |
-|:-----|:---------|
-| 7:00–8:00 | Early breakfast |
-| 8:00 | Depart for Garden of the Gods |
-| 9:00 | Arrive at Garden of the Gods |
-| 9:00–12:00 | Explore formations, trails, Visitor Center |
-| 12:00–1:30 | Lunch in Manitou Springs |
-| 1:30–3:30 | Explore Manitou Springs or optional Manitou Incline (fit teens/adults only) |
-| 4:00 | Depart for Eleven Mile |
-| 5:00 | Arrive back at camp |
-| 5:30–7:00 | Easy dinner at camp |
-| 7:30+ | Relaxed evening, early bed |
+| Block | Plan |
+|:------|:-----|
+| Morning | Festive pancakes & bacon; lazy start |
+| Late morning | Beach / paddle / fishing — pick your fun |
+| Midday | Shade, naps, prep the feast |
+| Afternoon | All-hands BBQ cook |
+| Evening | 🎆 Independence Day feast + campfire celebration |
 
 ---
 
-## Why This Day Trip
+## Morning — Festive & Slow
 
-Garden of the Gods is:
-- Iconic Colorado (can't miss it)
-- Free admission
-- Accessible for all ages
-- Stunning scenery
-- Midweek break from camp routine
+- **Pancakes & Bacon** breakfast (go red-white-blue with berries). ([Schedule](/meals/meal-schedule).)
+- Easy fun: a morning **paddle**, **beach** time, or **bank fishing**—dealer's choice.
 
-See [Garden of the Gods Guide](/day_trips/garden-gods) for complete details.
+## Midday — Rest & Prep
 
----
+- Hot part of the day: shade, water, naps.
+- Start the **feast prep**: pulled pork reheating, BBQ chicken thighs on, beans and
+  mac & cheese going, corn ready, watermelon chilling. (Older Smiths coordinate.)
 
-## Morning at Garden of the Gods
+## Evening — The Feast 🎆
 
-### Getting There
+- **Dinner: Independence Day BBQ** — pulled pork, BBQ chicken, baked beans, mac & cheese,
+  sweet corn, watermelon, salad, rolls.
+- **Dessert:** s'mores + a red-white-blue treat (berry trifle or flag cake).
+- Big group campfire, songs, glow sticks for the kids.
 
-- 1-hour drive from Eleven Mile
-- Arrive by 9 AM for best parking
-- Start at Visitor Center for orientation
-
-### What to Do
-
-**All abilities:** Walk the paved Perkins Central Garden Trail (1.5 mi)
-**More ambitious:** Add the Ridge Trail or Siamese Twins
-**Photography focus:** Hit all the major formations
-
-### Group Management
-
-If your group has varied interests/abilities:
-- Set a meeting point and time
-- Let faster hikers do longer trails
-- Keep young kids and grandparents on easy paths
-- Reunite for lunch
+{: .important }
+> **Fireworks:** Personal fireworks are generally **not permitted in Missouri state
+> parks** (fire risk). Confirm at the office. Plan on **glow sticks, flashlight tag, and
+> a great campfire** instead—and if you want a real show, ask the office or
+> [check nearby towns](/day-trips/) for a community fireworks display.
 
 ---
 
-## Lunch in Manitou Springs
+## Make It Special
 
-Manitou Springs is 5 minutes from Garden of the Gods and offers:
-- Multiple restaurants (various cuisines)
-- Quirky downtown atmosphere
-- Natural mineral springs
-- Eclectic shops
-
-Take 90 minutes to eat, wander, and enjoy.
+- A quick **"what we're grateful for / favorite moment so far"** lap around the fire.
+- Group photo before dinner while everyone's clean-ish.
+- Let the kids run a **flashlight/firefly hunt** after dark.
 
 ---
 
-## Afternoon Options
-
-### Option A: More Manitou Springs
-
-- Continue exploring downtown
-- Try the mineral springs (each tastes different)
-- Browse shops
-- Get ice cream
-- Relax before the drive back
-
-### Option B: Manitou Incline (Fit Participants Only)
-
-If you have teens or adults who want the challenge AND are properly acclimatized:
-- Split the group
-- Incline climbers: 2–3 hour commitment
-- Others: Continue exploring Manitou Springs
-- Reunite after descent
-
-See [Manitou Incline Guide](/day_trips/manitou-incline) for details.
-
-**Only attempt if:**
-- 4+ days acclimated
-- Physically prepared
-- Weather is clear
-- No afternoon storms forecast
-
-### Option C: Colorado Springs Attractions
-
-Alternatively, visit:
-- Cheyenne Mountain Zoo
-- Olympic Training Center
-- Cave of the Winds
-
----
-
-## Return to Camp
-
-### Timing
-
-Leave Colorado Springs area by 4 PM to:
-- Avoid rush hour
-- Return before dinner time
-- Beat potential afternoon storms
-- Have a relaxed evening
-
-### Evening at Camp
-
-After a day trip, keep the evening low-key:
-- Simple dinner (pre-planned easy meal)
-- Campfire without ambitious activities
-- Early bedtime
-- Recharge for Day 5
-
----
-
-## Alternative Day Trip Options
-
-If Garden of the Gods doesn't appeal, Day 4 could be:
-- [Florissant Fossil Beds](/day_trips/florissant) – closer, more educational
-- [Colorado Wolf Center](/day_trips/wolf-center) + Florissant combo
-- [Leadville](/day_trips/leadville) – historic, different direction
-- Camp day with [Eleven Mile Canyon](/day_trips/canyon) fishing
-
----
-
-{: .note }
-> **Midweek Break:** Day 4 is strategically placed. By now, everyone's acclimated but may be tiring of camp routine. A day trip provides variety and new scenery. Tomorrow you'll appreciate camp again.
-
----
-
-[← Day 3](/itinerary/day3){: .btn }
+[Back: Day 3](/itinerary/day3){: .btn }
 [Next: Day 5 →](/itinerary/day5){: .btn .btn-primary }

@@ -1,120 +1,61 @@
 ---
 layout: default
-title: Activities
-nav_order: 3
+title: Things to Do
+nav_order: 4
 has_children: true
 ---
 
-# Activities at Eleven Mile
+# Things to Do
 {: .no_toc }
 
-Something for everyone—from grandparents to grandchildren.
+Paddling, biking, fishing, swimming, hiking, and wildlife—something for every age in the group.
 {: .fs-6 .fw-300 }
 
 ---
 
 ## Activity Overview
 
-Eleven Mile State Park and surrounding areas offer activities for all ages, abilities, and interests. Mix and match throughout your week to keep everyone engaged.
+| Activity | Best for | Effort | Where |
+|:---------|:---------|:-------|:------|
+| [Kayaking & Canoeing](/activities/kayaking) | All ages (with PFDs) | Easy–Moderate | Lake Lincoln, rivers |
+| [Biking](/activities/biking) | Kids–Adults | Easy–Intermediate | Park roads, MTB trails |
+| [Fishing](/activities/fishing) | All ages | Easy | Lake, creeks |
+| [Swimming & the Beach](/activities/swimming) | All ages | Easy | Lake Lincoln beach |
+| [Hiking](/activities/hiking) | All ages | Easy–Challenging | 45 mi of trails |
+| [Wildlife & Nature](/activities/wildlife) | All ages | Easy | Everywhere + amphitheater |
 
-| Activity | Best For | Difficulty | Time Required |
-|:---------|:---------|:-----------|:--------------|
-| [Fishing](/activities/fishing) | All ages | Easy–Moderate | 2 hrs – all day |
-| [Hiking](/activities/hiking) | All ages | Easy–Challenging | 1–6 hours |
-| [Kayaking](/activities/kayaking) | Ages 5+ | Easy–Moderate | 1–4 hours |
-| [Backpacking](/activities/backpacking) | Teens/Adults | Moderate–Challenging | 1–3 days |
-| [Wildlife Watching](/activities/wildlife) | All ages | Easy | 30 min – all day |
+We're bringing our **own kayaks and bikes**, and fishing is a group favorite—so the
+water and the trails are the heart of this trip.
 
 ---
 
 ## By Age Group
 
-### For Young Children (Under 6)
-- Shoreline exploring
-- Fishing with adult help
-- Wildlife scavenger hunts
-- Rock skipping
-- Nature art (leaf rubbings, etc.)
-- Stargazing (early nights)
+### Little kids (1–5)
+Beach time, sand toys, creek wading (held hands), short flat strolls, bug-and-firefly
+hunting, "helping" fish, and the [kids' craft packet](/kids).
 
-### For Kids (6–12)
-- Fishing (with own gear)
-- Easy hikes
-- Kayaking (tandem with adult)
-- Wildlife journaling
-- Campfire cooking
-- Night sky exploration
+### Kids (6–12)
+Bank fishing, tandem kayaking, beginner bike trails, the short bluff hikes, the
+scavenger hunt, and evening [naturalist programs](/activities/wildlife).
 
-### For Teens (13–19)
-- Challenging hikes
-- Solo kayaking
-- Backcountry camping
-- Photography
-- Fishing independence
-- Day trip adventures
+### Teens & adults
+The mountain-bike trails (Blackhawk Point, Old Schoolhouse), longer hikes to
+Frenchman's Bluff, solo paddling, river floats, and early/late fishing.
 
-### For Adults
-- All activities
-- Day trips to nearby attractions
-- Quiet fishing mornings
-- Evening relaxation
-
-### For Grandparents
-- Shoreline walks
-- Fishing from comfortable spots
-- Wildlife watching from camp
-- Card games and reading
-- Stargazing
-- Supervising young kids
+### Grandparents & take-it-easy folks
+Shoreline fishing from a chair, the Lakeside stroll, wildlife watching from camp,
+beach supervising, and a sunset by the lake.
 
 ---
 
-## Daily Activity Planning
+## A Note on Permits & Safety
 
-### Morning Options
-- Fishing (best bite)
-- Wildlife watching (most active)
-- Hiking (before heat/storms)
-- Kayaking (calm water)
-
-### Midday Options
-- Rest and reading
-- Camp games
-- Swimming (just kidding—not allowed)
-- Food prep
-- Short explorations
-
-### Afternoon Options
-- Storm watching (safely from shelter)
-- Napping
-- Card games
-- Easy walks after storms pass
-
-### Evening Options
-- Fishing (second best bite)
-- Campfire cooking
-- Stargazing
-- Wildlife listening (coyotes)
-- Family time
+- **Fishing:** adults 16–64 need a [Missouri permit](https://mdc.mo.gov/buy-permits); kids under 16 free.
+- **Boating:** Lake Lincoln is **electric-motor-only**; **PFDs required for kids.**
+- **Swimming:** **only** at the designated beach during posted hours (8 a.m.–8 p.m.).
+- **Heat & storms:** plan active time for morning/evening; off the water at the first thunder.
 
 ---
 
-## Equipment Available
-
-### At the Park (Marina Rentals)
-- Kayaks
-- Canoes
-- SUPs
-- Fishing boats
-- Basic fishing gear
-
-### You Should Bring
-- Personal fishing gear
-- Hiking boots
-- Binoculars
-- Star map/apps (downloaded offline)
-- Camera
-
----
-
-[Start with Fishing →](/activities/fishing){: .btn .btn-primary }
+[Start with Kayaking →](/activities/kayaking){: .btn .btn-primary }

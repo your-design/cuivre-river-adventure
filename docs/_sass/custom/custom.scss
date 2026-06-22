@@ -1,13 +1,27 @@
-// Custom color scheme for Eleven Mile Adventure Guide
+// Custom tweaks for the Cuivre River Adventure guide
 
-$body-background-color: #f7f7f7;
-$sidebar-color: #27374D;
-$body-text-color: #2d3339;
-$body-heading-color: #1a202c;
-$nav-child-link-color: #27374D;
-$link-color: #2e5c8a;
-$btn-primary-color: #2e5c8a;
-$search-background-color: #fff;
-$table-background-color: #fff;
-$code-background-color: #f1f3f5;
-$feedback-color: #27374D;
+// Hero image on the home page
+.site-header + * img,
+img {
+  border-radius: 8px;
+}
+
+// Make the home hero feel like a banner
+img[alt^="Bluffs"],
+img[alt^="Swimmers"],
+img[alt^="Lake Lincoln"] {
+  width: 100%;
+  height: auto;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+  margin: 0.5rem 0 1rem;
+}
+
+// Slightly warmer table header tint
+.main-content table thead th {
+  background-color: #eef3ec;
+}
+
+// Emoji-friendly headings keep their spacing
+h2, h3 {
+  scroll-margin-top: 5rem;
+}

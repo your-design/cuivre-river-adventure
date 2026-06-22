@@ -1,32 +1,34 @@
-# Eleven Mile State Park Family Adventure
-# A comprehensive guide for multi-generational wilderness camping
+# Cuivre River State Park Family Adventure
+# A comprehensive guide for a multi-family summer camping trip
 
-title: "Eleven Mile Adventure"
+title: "Cuivre River Adventure"
 author: "Kevin J. Smith"
-tagline: "A Multi-Generational Colorado Wilderness Experience"
+tagline: "A Four-Family Summer Camping Trip in the Lincoln Hills"
 description: >-
-  Your complete guide to disconnecting from city life and reconnecting with family
-  at Eleven Mile State Park, Colorado. From grandparents to grandchildren,
-  this adventure has something for everyone.
+  Your complete guide to a week of camping, paddling, biking, and fishing at
+  Cuivre River State Park near Troy, Missouri. Four families, twelve people,
+  one unforgettable July week.
 
 # Site Settings
+# Served from a custom domain (see docs/CNAME), so baseurl is the site root.
+# The GitHub Actions build injects the correct base_path automatically, so this
+# also works if you disable the custom domain and use a project page.
 baseurl: ""
-url: "https://eleven-mile-state-park.your-design.app" # Will be set by GitHub Pages
-repository: "https://github.com/your-design/eleven-mile-state-park"
+url: "https://cuivre-river-adventure.your-design.app"
+repository: "your-design/cuivre-river-adventure"
 
 # Build settings
 markdown: kramdown
 highlighter: rouge
 permalink: pretty
 
-# Theme
-remote_theme: just-the-docs/just-the-docs
+# Theme (gem-based — works for local serving and GitLab Pages CI)
+theme: just-the-docs
 
 # Just the Docs Configuration
 color_scheme: custom
 
-logo: "/assets/images/logo.svg"
-#favicon_ico: "/assets/images/favicon.ico"
+logo: "/assets/images/cuivre-logo.png"
 
 # Search
 search_enabled: true
@@ -42,37 +44,36 @@ search:
 # Navigation
 nav_sort: case_sensitive
 nav_external_links:
-  - title: Eleven Mile State Park (Official)
-    url: https://cpw.state.co.us/state-parks/eleven-mile-state-park
-  - title: CPW Camping Reservations
-    url: https://www.cpwshop.com/camping/eleven-mile-state-park/r/campgroundDetails.page?parkID=50024
-  - title: Colorado Fishing Regulations
-    url: https://cpw.state.co.us/thingstodo/Pages/Fishing.aspx
+  - title: Cuivre River State Park (Official)
+    url: https://mostateparks.com/park/cuivre-river-state-park
+  - title: Reserve a Campsite (Missouri State Parks)
+    url: https://icampmo1.usedirect.com/MoStateParksWeb/
+  - title: Missouri Fishing Permits (MDC)
+    url: https://mdc.mo.gov/buy-permits
 
 # Back to top link
 back_to_top: true
 back_to_top_text: "Back to top"
 
 # Footer
-footer_content: "Family Adventure Guide &copy; 2026. Created with love for wilderness exploration."
+footer_content: "Cuivre River Family Adventure &copy; 2026. Made for four families and the summer we spent outside."
 
 # Collections for organized content
 collections:
-  activities:
-    output: true
-    #permalink: /:collection
-    permalink: /:collection/:name
   guides:
     output: true
-    #permalink: /:collection
     permalink: /:collection/:name
-  day_trips:
+  activities:
     output: true
-    #permalink: /:collection
+    permalink: /:collection/:name
+  meals:
+    output: true
     permalink: /:collection/:name
   itinerary:
     output: true
-    #permalink: /:collection
+    permalink: /:collection/:name
+  day_trips:
+    output: true
     permalink: /:collection/:name
 
 # Default front matter
@@ -84,18 +85,17 @@ defaults:
       layout: "default"
   - scope:
       path: ""
-      type: "activities"
-    values:
-      layout: "default"
-      nav_exclude: false
-  - scope:
-      path: ""
       type: "guides"
     values:
       layout: "default"
   - scope:
       path: ""
-      type: "day_trips"
+      type: "activities"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "meals"
     values:
       layout: "default"
   - scope:
@@ -103,12 +103,16 @@ defaults:
       type: "itinerary"
     values:
       layout: "default"
+  - scope:
+      path: ""
+      type: "day_trips"
+    values:
+      layout: "default"
 
 # Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
-  - README.md
   - vendor
   - .bundle
-
+  - README.md

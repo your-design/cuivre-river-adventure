@@ -2,55 +2,80 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Eleven Mile State Park Family Adventure - A complete guide for multi-generational camping in the Colorado high country."
+description: "Cuivre River State Park Family Adventure — a complete guide for four families camping together near Troy, Missouri, July 1–7, 2026."
 permalink: /
 ---
 
-# Eleven Mile State Park
+# Cuivre River Adventure
 {: .fs-9 }
 
-A Multi-Generational Colorado Wilderness Experience
+Four families. Twelve people. One week of summer in the Lincoln Hills.
 {: .fs-6 .fw-300 }
 
----
-
-## Escape the City, Embrace the Wild
-
-Seven nights under star-filled skies at 8,600 feet. No cell towers. No traffic. Just mountains, water, family, and the kind of quiet that reminds you what matters.
-
-This guide is your complete companion for planning an unforgettable family adventure at Eleven Mile State Park—whether you're a grandparent seeking peaceful mornings by the reservoir, a parent looking to share the outdoors with your kids, a teenager wanting some real adventure, or a little one about to catch their first fish.
+![Bluffs above the river valley at Cuivre River State Park](/assets/images/cuivre-hero.png)
 
 ---
 
-## The Destination
+## July 1–7, 2026 · Cuivre River State Park · Troy, Missouri
 
-Eleven Mile State Park sits in South Park, an expansive high-altitude grassland basin in central Colorado. The park is bordered on two sides by Pike National Forest, with views of Pikes Peak, the Tarryall Range, and the snow-capped Continental Divide.
+Six nights of tents and campers, paddles and bikes, fishing lines and campfires—
+just 90 minutes from Columbia in one of Missouri's largest and most rugged parks.
+The week wraps a **Fourth of July** cookout right in the middle of it.
 
-The 3,400-acre reservoir has surrendered some of the largest fish ever caught in Colorado. The surrounding 7,572 acres of land offer everything from easy shoreline walks to backcountry camping adventures.
+This guide is the shared brain for the whole group: where we're going, how to get
+there, what to pack, what everyone's eating, and how to keep twelve people—five of
+them kids—happy and busy for a week outdoors.
 
-**Elevation:** 8,600 feet  
-**Location:** Lake George, Colorado (about 1.5 hours from Colorado Springs)  
-**Season:** June–July (peak summer)
+[Get the Game Plan](/guides/preparation){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[See the Daily Itinerary](/itinerary/){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-## What Makes This Trip Special
+## The Crew
 
-### For Grandparents
-{: .text-purple-000 }
-Comfortable RV camping with electrical hookups, flush toilets, and hot showers. Morning coffee watching the sunrise over the reservoir. Afternoon naps while the grandkids explore. Evening card games under the awning. And maybe, just maybe, landing a trophy trout.
+Four families, twelve people, ages **1 to adult**:
 
-### For Parents
+| Family | Group |
+|:-------|:------|
+| Zuelke | 2 adults |
+| Harris | 1 adult, 2 kids |
+| Older Smiths | 2 adults, 1 kid |
+| Younger Smiths | 2 adults, 2 kids |
+
+That's **7 adults and 5 kids** (ages 1–12). Everyone's bringing something to the
+table—literally (see the [Food Plan](/meals/)) and figuratively. Some of us paddle,
+some pedal, some fish, and some are mostly here for the s'mores.
+
+---
+
+## What We Came to Do
+
+### 🛶 Paddle
 {: .text-blue-000 }
-The chance to show your children what life looks like without screens. Campfire cooking, stargazing, teaching them to bait a hook or read a trail. Plus enough planned activities to keep everyone engaged—and enough downtime to actually relax.
+We're bringing our own kayaks and canoes. **55-acre Lake Lincoln** is calm,
+no-gas-motor water—perfect for a relaxed family paddle. The Cuivre River and Big
+Sugar Creek offer moving-water floats for the more adventurous.
+[Paddling guide →](/activities/kayaking)
 
-### For Teens & Young Adults
+### 🚵 Bike
 {: .text-green-000 }
-Real challenges: the Manitou Incline's 2,744 steps, backcountry camping, kayaking across the reservoir, and catching fish that fight back. Instagram-worthy landscapes and the kind of stories you'll tell for years.
+Bring the bikes. The park has two dedicated mountain-bike trails—**Blackhawk Point
+(5.75 mi, easy–intermediate)** and **Old Schoolhouse (3.85 mi, intermediate)** with a
+view over the lake—plus quiet park roads for the little ones.
+[Biking guide →](/activities/biking)
 
-### For Kids
+### 🎣 Fish
 {: .text-yellow-000 }
-Catching tadpoles, skipping rocks, roasting marshmallows, spotting wildlife, playing in the dirt, and staying up past bedtime to see the Milky Way for the first time.
+Lake Lincoln and the creeks hold **bass, catfish, bluegill, sunfish, and crappie**.
+Easy bank fishing for the kids; quiet mornings for the grown-ups.
+[Fishing guide →](/activities/fishing)
+
+### 🏖️ Swim, Hike & Explore
+{: .text-purple-000 }
+A real **swimming beach** on Lake Lincoln, hiking to the 120-foot **Frenchman's
+Bluff**, evening **naturalist programs** at the amphitheater, and miles of woods to
+get lost in (the good way).
+[All activities →](/activities/)
 
 ---
 
@@ -58,14 +83,16 @@ Catching tadpoles, skipping rocks, roasting marshmallows, spotting wildlife, pla
 
 | Detail | Information |
 |:-------|:------------|
-| **Trip Duration** | 7 nights / 8 days |
-| **Best Season** | June–July |
-| **Elevation** | 8,600 feet |
-| **Campsites** | 326 total (RV sites with electric available) |
-| **Max per Site** | 6 people, 2 vehicles |
-| **Quiet Hours** | 10 PM – 6 AM |
-| **Nearest Town** | Lake George (5 min) |
-| **Nearest Hospital** | Woodland Park (40 miles east) |
+| **Dates** | Wed, July 1 – Tue, July 7, 2026 (6 nights) |
+| **Park** | Cuivre River State Park, 678 State Route 147, Troy, MO 63379 |
+| **From** | Columbia, MO — about 90 miles / 1.5 hours |
+| **Group** | 4 families · 12 people (7 adults, 5 kids ages 1–12) |
+| **Lake** | 55-acre Lake Lincoln (electric motors only) |
+| **Swimming beach** | Open seasonally, 8 a.m.–8 p.m. |
+| **Day-use hours** | 6 a.m.–10 p.m. |
+| **Entrance fee** | None — Missouri State Parks are free to enter |
+| **Park office** | (636) 528-7247 |
+| **Holiday** | July 4 (Saturday) falls mid-trip 🎆 |
 
 ---
 
@@ -73,39 +100,35 @@ Catching tadpoles, skipping rocks, roasting marshmallows, spotting wildlife, pla
 
 <div class="code-example" markdown="1">
 
-**Planning Phase** (2–3 months before)
-- Read [Pre-Trip Preparation](/guides/preparation) for altitude acclimation and packing
-- Review [Reservation Strategy](/guides/reservations) and book campsites
-- Check [What to Bring](/guides/packing-list) for complete gear lists
+**Before we go**
+- [Pre-Trip Game Plan](/guides/preparation) — timeline and who-does-what
+- [Reservations](/guides/reservations) — campsites and permits
+- [Packing Lists](/guides/packing-list) — gear by category and by family
+- [Food Plan](/meals/) — meal schedule, prep, and the master shopping list
 
-**Road Trip**
-- Use [Road Trip Entertainment](/guides/road-trip) to survive the drive with all ages
+**Getting there**
+- [The Drive from Columbia](/guides/drive) — route, stops, and the last grocery run
 
-**At the Park**
-- Follow the [7-Day Itinerary](/itinerary/) for a balanced schedule
-- Dive into activity guides for [Fishing](/activities/fishing), [Hiking](/activities/hiking), [Kayaking](/activities/kayaking), and more
+**At camp**
+- [Camp Setup](/guides/camp-setup) and [Camp Cooking](/guides/cooking)
+- [Daily Itinerary](/itinerary/) — a loose day-by-day plan
+- [Activities](/activities/) — paddling, biking, fishing, hiking, swimming, wildlife
 
-**Day Trips**
-- Explore [Manitou Incline](/day_trips/manitou-incline), [Garden of the Gods](/day_trips/garden-gods), and other nearby adventures
+**Keeping kids happy**
+- [Kids at Camp](/kids) — boredom-busters plus **free printables** to bring along
+
+**Beyond the park**
+- [Day Trips](/day-trips/) — Hannibal, St. Charles, St. Louis, and local stops
 
 </div>
 
 ---
 
-## The Bottom Line
-
-This isn't a vacation. It's a week of living differently—waking with the sun, eating food that tastes better because you're hungry and outside, solving problems without Google, and talking to each other without competing with notifications.
-
-Your kids might complain about the lack of WiFi. Your parents might worry about being far from a hospital. You might wonder if it's worth the effort.
-
-It is.
-
----
-
 {: .note }
-> **Reservation Alert:** Campsites at Eleven Mile book up fast for summer weekends. For a 7-night stay requiring multiple RV sites, begin booking 6 months in advance through [CPW Shop](https://www.cpwshop.com/camping/eleven-mile-state-park/r/campgroundDetails.page?parkID=50024).
+> **Reservations:** Cuivre River's 68-site campground books up for July—especially the
+> Fourth. Reserve early through [Missouri State Parks](https://icampmo1.usedirect.com/MoStateParksWeb/)
+> and try to group our sites together. See the [Reservation guide](/guides/reservations).
 
 ---
 
-[Get Started with Planning](/guides/preparation){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View the Itinerary](/itinerary/){: .btn .fs-5 .mb-4 .mb-md-0 }
+*Photo: Lake Lincoln and the Cuivre River valley. See [Park Info](/park-info) for the full rundown.*

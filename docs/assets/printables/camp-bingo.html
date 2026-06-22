@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Campsite Bingo — Printable</title>
+<style>
+  :root { --ink:#2d3339; --green:#2f5d3a; --tan:#b9935a; --blue:#2e5c8a; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; background:#f3f1ea; }
+  .sheet { max-width: 8.0in; margin: 0 auto; padding: 0.6in 0.7in; background:#fff; }
+  header { text-align:center; border-bottom: 4px solid var(--tan); padding-bottom: 10px; margin-bottom: 14px; }
+  h1 { font-size: 26px; margin: 0 0 4px; color: var(--green); }
+  .sub { color: var(--tan); font-weight: 700; letter-spacing: .5px; text-transform: uppercase; font-size: 12px; }
+  table { width: 100%; border-collapse: collapse; margin-top: 10px; }
+  td { border: 2px solid var(--blue); width: 20%; height: 1.25in; text-align: center; vertical-align: middle;
+       font-size: 13px; padding: 4px; line-height: 1.2; }
+  td .e { display:block; font-size: 24px; margin-bottom: 3px; }
+  .free { background: #eef4ee; color: var(--green); font-weight: 800; }
+  .free .e { font-size: 26px; }
+  .how { margin-top: 14px; font-size: 12.5px; color:#444; background:#f5f7f2; border-left: 4px solid var(--green); padding: 8px 12px; }
+  .print-btn { display:block; width: 220px; margin: 14px auto; padding: 10px; background: var(--green);
+               color:#fff; border:0; border-radius: 8px; font-size: 15px; cursor:pointer; }
+  @media print {
+    body { background:#fff; } .sheet { box-shadow:none; max-width:none; padding: 0.4in; }
+    .print-btn { display:none; }
+    td, .free { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+  <button class="print-btn" onclick="window.print()">🖨️ Print this card</button>
+  <div class="sheet">
+    <header>
+      <div class="sub">Cuivre River State Park · July 2026</div>
+      <h1>🎲 Campsite Bingo</h1>
+      <div class="sub" style="color:#888">Mark a square when you spot it</div>
+    </header>
+    <table>
+      <tr>
+        <td><span class="e">🔥</span>A campfire</td>
+        <td><span class="e">🐿️</span>A squirrel</td>
+        <td><span class="e">⛺</span>A tent</td>
+        <td><span class="e">🪵</span>Stacked firewood</td>
+        <td><span class="e">🐦</span>A red bird</td>
+      </tr>
+      <tr>
+        <td><span class="e">🛶</span>A kayak or canoe</td>
+        <td><span class="e">🎣</span>Someone fishing</td>
+        <td><span class="e">🦋</span>A butterfly</td>
+        <td><span class="e">🐕</span>A dog on a leash</td>
+        <td><span class="e">🍳</span>Camp breakfast</td>
+      </tr>
+      <tr>
+        <td><span class="e">🌳</span>A really tall tree</td>
+        <td><span class="e">🚲</span>A bike</td>
+        <td class="free"><span class="e">⭐</span>FREE<br>SPACE</td>
+        <td><span class="e">🦌</span>A deer</td>
+        <td><span class="e">🪨</span>A big rock or bluff</td>
+      </tr>
+      <tr>
+        <td><span class="e">🌅</span>A sunrise or sunset</td>
+        <td><span class="e">🐢</span>A turtle</td>
+        <td><span class="e">🍫</span>A s'more</td>
+        <td><span class="e">🥾</span>Hiking boots</td>
+        <td><span class="e">🦆</span>A duck or goose</td>
+      </tr>
+      <tr>
+        <td><span class="e">✨</span>A firefly</td>
+        <td><span class="e">🌼</span>A wildflower</td>
+        <td><span class="e">☁️</span>A funny cloud</td>
+        <td><span class="e">🐸</span>A frog</td>
+        <td><span class="e">🌙</span>The moon</td>
+      </tr>
+    </table>
+    <div class="how"><strong>How to win:</strong> Get five in a row — across, down, or corner-to-corner.
+      Feeling bold? Try to <strong>black out the whole card</strong> by the end of the week!</div>
+  </div>
+</body>
+</html>

@@ -1,118 +1,59 @@
 ---
 layout: default
-title: "Day 3: Water Day"
-parent: 7-Day Itinerary
+title: "Day 3 — Fri, Jul 3"
+parent: Daily Itinerary
 nav_order: 3
 ---
 
-# Day 3: Water Day
+# Day 3 — Friday, July 3
 {: .no_toc }
 
-Kayaking, fishing, and exploring the reservoir.
+Paddle & bike day. Put the kayaks and bikes we hauled to good use.
 {: .fs-6 .fw-300 }
 
 ---
 
-## The Day at a Glance
+## At a Glance
 
-| Time | Activity |
-|:-----|:---------|
-| 6:00–7:00 | Early fishing (optional) |
-| 7:30–8:30 | Breakfast |
-| 9:00–12:00 | Kayaking/boating on reservoir |
-| 12:00–1:00 | Picnic lunch at day-use area |
-| 1:00–3:00 | Rest, swimming (wait—no swimming), relaxation |
-| 3:30–5:30 | Afternoon fishing or shoreline exploration |
-| 6:00–7:30 | Fish fry dinner (if successful) or backup meal |
-| 8:00–10:00 | Campfire, stargazing |
+| Block | Plan |
+|:------|:-----|
+| Morning | Glassy-water paddle on Lake Lincoln |
+| Midday | Beach + lunch in the shade |
+| Afternoon | Mountain biking (Old Schoolhouse / Blackhawk Point) |
+| Evening | Taco night + walking tacos |
 
 ---
 
-## Morning: On the Water
+## Morning — Paddle
 
-Today's focus is the reservoir itself. See [Kayaking Guide](/activities/kayaking) for complete details.
+- **Early kayak/canoe on Lake Lincoln** while it's calm and cool. Paddle the shoreline,
+  spot turtles and herons, maybe troll a line. ([Kayaking guide](/activities/kayaking).)
+- **PFDs on every kid.** Tandem-paddle the youngest.
 
-### Kayak Options
+## Midday — Beach + Lunch
 
-**Bring your own:** Launch from North Shore or other access points
-**Rent:** 11 Mile Marina offers kayak, canoe, and SUP rentals
+- Pull up at the **swim beach** to cool off; **Grilled Cheese** lunch in the shade.
 
-### Morning Paddle Plan
+## Afternoon — Bike
 
-**8:30 AM:** Pick up rentals or prepare personal boats
-**9:00 AM:** Launch from calm water area
-**9:00–11:30 AM:** Explore coves, shoreline, enjoy views
-**11:30 AM:** Return boats, dry off
+- Confident riders take **Old Schoolhouse Trail** (3.85 mi, intermediate) for the Lake
+  Lincoln view, or **Blackhawk Point** (5.75 mi, easy–intermediate) for a mellower ride.
+- Little kids cruise the **campground loops/park road**. **Helmets for everyone.**
+  ([Biking guide](/activities/biking).)
 
-### Safety Reminders
+## Evening — Taco Night
 
-- Everyone wears PFDs
-- Stay aware of wind conditions
-- Morning is calmest—don't push into afternoon
-- Stay together as a group
-- Watch for afternoon storm buildup
-
-### For Non-Paddlers
-
-Not everyone has to kayak. Options:
-- Shore fishing during paddle time
-- Reading at day-use area
-- Easy shoreline walk
-- Photography from shore
+- **Dinner: Taco Bar / Walking Tacos** (Younger Smiths host) using the pre-seasoned
+  meats. Crush-the-chip-bag walking tacos are a kid favorite.
+- Campfire and games; early-ish night—tomorrow's the big one.
 
 ---
 
-## Midday
-
-### Picnic Lunch
-
-Pack a cooler lunch and eat at a day-use area near the water:
-- Sandwiches made at camp
-- Fresh fruit and snacks
-- Cold drinks
-
-Enjoy the view. Let the morning activity settle.
-
-### Rest Period
-
-Standard rest period applies. Water activities are tiring at altitude.
+{: .warning }
+> **Check the sky before paddling or riding.** Afternoon storms build fast; have a
+> rain/shade plan and be ready to pivot to camp games.
 
 ---
 
-## Afternoon: Fishing Focus
-
-After rest, afternoon fishing (post-storm if applicable):
-- Try different spots than morning
-- Evening bite often excellent
-- Kids more successful with guidance
-- Teens can try independence nearby
-
-### Evening Fishing Tips
-
-- Fish move shallow as water cools
-- Topwater can work at dusk
-- Watch for rising fish
-- Be patient—evening bite can be magic
-
----
-
-## Evening: Camp Cooking
-
-### If Fishing Was Successful
-
-Fish fry night! See [Fishing Guide](/activities/fishing) for cleaning and [Camp Cooking](/guides/cooking) for prep.
-
-### If Fishing Was Not Successful
-
-No worries—planned backup meal. The fish were optional; the experience wasn't.
-
----
-
-## Day 3 Notes
-
-Today marks the shift from acclimation to activity. Your body has adjusted enough for more exertion. But don't overdo it—pace yourself through the week.
-
----
-
-[← Day 2](/itinerary/day2){: .btn }
-[Next: Day 4 →](/itinerary/day4){: .btn .btn-primary }
+[Back: Day 2](/itinerary/day2){: .btn }
+[Next: Day 4 — July 4th →](/itinerary/day4){: .btn .btn-primary }

@@ -3,6 +3,19 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+docs/_site/
+docs/.jekyll-cache/
+
+# Ruby / Bundler
+docs/vendor/
+docs/.bundle/
+vendor/
+.bundle/
+Gemfile.lock
+
+# Build output / scratch
+public/
+tmp/
 
 # macOS
 .DS_Store

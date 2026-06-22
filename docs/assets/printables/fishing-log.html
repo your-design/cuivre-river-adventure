@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Fishing Log — Printable</title>
+<style>
+  :root { --ink:#2d3339; --green:#2f5d3a; --tan:#b9935a; --blue:#2e5c8a; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; background:#f3f1ea; }
+  .sheet { max-width: 8.0in; margin: 0 auto; padding: 0.55in 0.7in; background:#fff; }
+  header { text-align:center; border-bottom: 4px solid var(--blue); padding-bottom: 8px; margin-bottom: 12px; }
+  h1 { font-size: 25px; margin: 0 0 2px; color: var(--blue); }
+  .sub { color: var(--tan); font-weight: 700; letter-spacing: .5px; text-transform: uppercase; font-size: 11px; }
+  .row { display:flex; gap: 14px; margin: 8px 0 12px; font-size: 13px; }
+  .row span { flex:1; border-bottom: 1.5px solid #999; padding-bottom: 2px; }
+  table { width:100%; border-collapse: collapse; margin-top: 6px; font-size: 13px; }
+  th { background:#eaf0f5; color: var(--blue); border:1.5px solid #9bb3c7; padding:7px 5px; }
+  td { border:1.5px solid #c2cfd9; height: 38px; padding: 3px 5px; }
+  .who { width: 22%; } .what { width: 26%; } .size { width: 16%; } .where { width: 20%; } .bait { width: 16%; }
+  .fun { margin-top: 14px; font-size: 12.5px; color:#444; background:#eef4f8; border-left: 4px solid var(--blue); padding: 8px 12px; }
+  .species { margin-top:10px; font-size:12.5px; color:#555; }
+  .species b { color: var(--green); }
+  .print-btn { display:block; width: 220px; margin: 14px auto; padding: 10px; background: var(--blue);
+               color:#fff; border:0; border-radius: 8px; font-size: 15px; cursor:pointer; }
+  @media print {
+    body { background:#fff; } .sheet { box-shadow:none; max-width:none; padding: 0.4in; }
+    .print-btn { display:none; }
+    th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+  <button class="print-btn" onclick="window.print()">🖨️ Print the fishing log</button>
+  <div class="sheet">
+    <header>
+      <div class="sub">Lake Lincoln &amp; Big Sugar Creek · July 2026</div>
+      <h1>🎣 My Fishing Log</h1>
+    </header>
+    <div class="row"><span>Angler:</span><span>Permit # (if 16+):</span></div>
+    <table>
+      <tr>
+        <th class="who">Day</th>
+        <th class="what">What I caught</th>
+        <th class="size">How big?</th>
+        <th class="where">Where</th>
+        <th class="bait">Bait/lure</th>
+      </tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+      <tr><td></td><td></td><td></td><td></td><td></td></tr>
+    </table>
+    <div class="species">🐟 <b>Fish you might catch here:</b> bluegill, sunfish, largemouth bass,
+      channel catfish, crappie — plus carp and suckers in the creek.</div>
+    <div class="fun"><strong>Angler's honor:</strong> Wet your hands before holding a fish, release it gently,
+      and <strong>pack out all your line and hooks</strong> — they can hurt animals. Tally at the end of the week:
+      Who caught the most? The biggest? The smallest? The funniest-looking?</div>
+  </div>
+</body>
+</html>

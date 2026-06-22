@@ -1,71 +1,58 @@
 ---
 layout: default
-title: Guides
-nav_order: 2
+title: Plan & Prepare
+nav_order: 3
 has_children: true
 ---
 
-# Planning & Preparation Guides
+# Plan & Prepare
 {: .no_toc }
 
-Everything you need to know before and during your trip.
+Everything to sort out before we go—and how to run a smooth camp once we're there.
 {: .fs-6 .fw-300 }
 
 ---
 
-## Pre-Trip Planning
+## Before the Trip
 
-These guides cover everything from booking campsites to packing gear:
-
-| Guide | What's Covered |
+| Guide | What's covered |
 |:------|:---------------|
-| [Pre-Trip Preparation](/guides/preparation) | Altitude acclimation, health considerations, timeline |
-| [Complete Packing List](/guides/packing-list) | Comprehensive gear lists by category |
-| [Reservation Strategy](/guides/reservations) | Booking multiple sites, passes, fees |
-| [Road Trip Survival](/guides/road-trip) | Entertainment for all ages, stops, snacks |
+| [Pre-Trip Game Plan](/guides/preparation) | Timeline, who-does-what, group coordination |
+| [Reservations](/guides/reservations) | Booking sites for four families, permits, passes |
+| [The Drive from Columbia](/guides/drive) | Route, stops, and the last grocery run |
+| [Packing Lists](/guides/packing-list) | Gear by category, plus a per-family checklist |
 
 ## At Camp
 
-Once you arrive, these guides help you thrive:
-
-| Guide | What's Covered |
+| Guide | What's covered |
 |:------|:---------------|
-| [Camp Setup & Living](/guides/camp-setup) | Site arrangement, routines, weather |
-| [Camp Cooking](/guides/cooking) | Meal plans, recipes, altitude adjustments |
-| [Stargazing Guide](/guides/stargazing) | What to see, how to see it, teaching kids |
+| [Camp Setup & Living](/guides/camp-setup) | Site layout, routines, weather, bugs, safety |
+| [Camp Cooking](/guides/cooking) | Stoves, fire, coordination, and the meal-prep link |
+| [Savvy Camper & RV Tips](/guides/savvy-camper) | Eco-friendly pest control, campfire cooking, knots, RV know-how |
 
 ---
 
 ## Quick Reference
 
-### Key Phone Numbers
+### Key Contacts
 
 | Contact | Number |
 |:--------|:-------|
-| Eleven Mile State Park | (719) 748-3401 |
-| Camping Reservations | 1-800-244-5613 |
-| Park Address | 4229 County Road 92, Lake George, CO 80827 |
+| Park office | (636) 528-7247 |
+| Naturalist / programs | (636) 528-7427 |
+| Camping reservations | [icampmo1.usedirect.com](https://icampmo1.usedirect.com/MoStateParksWeb/) |
+| Nearest hospital | Mercy Hospital Lincoln, Troy (~10 min) |
 | Emergency | 911 |
 
 ### Nearest Services
 
 | Service | Location | Distance |
 |:--------|:---------|:---------|
-| Gas & Groceries | Lake George | 5 min |
-| Medical (basic) | Woodland Park | 40 mi east |
-| Medical (hospital) | Colorado Springs | 60 mi |
-| Supplies (11 Mile Marina) | North Shore Boat Ramp | In park |
-
-### Park Rules Quick List
-
-- Quiet hours: 10 PM – 6 AM
-- Max 6 people per campsite
-- Max 2 vehicles per site
-- Pets on leash (6 ft max)
-- Fires in rings only
-- No swimming, tubing, or water skiing
-- Display valid pass on all vehicles
+| Gas, Walmart, groceries | Troy, MO | ~10–15 min |
+| Last big grocery from Columbia | Wentzville/Warrenton | On the drive |
+| Hospital | Troy (Mercy Lincoln) | ~10 min |
+| Pharmacy | Troy | ~10–15 min |
 
 ---
 
-[Start with Preparation →](/guides/preparation){: .btn .btn-primary }
+[Start with the Game Plan →](/guides/preparation){: .btn .btn-primary }

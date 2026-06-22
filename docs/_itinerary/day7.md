@@ -1,215 +1,64 @@
 ---
 layout: default
-title: "Day 7: Final Full Day"
-parent: 7-Day Itinerary
+title: "Day 7 — Tue, Jul 7"
+parent: Daily Itinerary
 nav_order: 7
 ---
 
-# Day 7: Final Full Day
+# Day 7 — Tuesday, July 7
 {: .no_toc }
 
-Last adventures, celebration dinner, and farewell stargazing.
+Pack up, leave it better than we found it, and drive home.
 {: .fs-6 .fw-300 }
 
 ---
 
-## The Day at a Glance
+## At a Glance
 
-| Time | Activity |
-|:-----|:---------|
-| 6:00–7:00 | Sunrise (optional but memorable) |
-| 7:30–8:30 | Breakfast |
-| 9:00–12:00 | Final activity: choice |
-| 12:00–1:00 | Lunch |
-| 1:00–3:00 | Begin departure prep, pack what you can |
-| 3:00–5:00 | Final free time |
-| 5:30–7:30 | Celebration farewell dinner |
-| 8:00–10:00 | Final campfire, last stargazing |
-| 10:30+ | Early bed (departure tomorrow) |
+| Time | Plan |
+|:-----|:-----|
+| Morning | Pack-up breakfast; teardown |
+| Mid-morning | Final site sweep; load up |
+| Midday | Check out; drive home (~1.5 hr) |
 
 ---
 
-## Morning: One Last Adventure
+## Morning — Eat Down & Tear Down
 
-### Final Activity Options
+- **Pack-Up Breakfast:** cereal, bagels, yogurt, fruit, the last of the milk—**eat down
+  the leftovers** so less goes home. ([Schedule](/meals/meal-schedule).)
+- Teardown order: bedding → tents/awnings → kitchen last (coffee stays out until the end).
+- **RV/camper:** run the [departure circle](/guides/savvy-camper#breaking-camp)—slides,
+  awning, jacks, hookups, chocks, lights.
 
-**Sunrise at the Reservoir:**
-- Wake early one last time
-- Walk to best vantage point
-- Watch the sun come up over the water
-- Coffee in hand, silence all around
+## Final Site Sweep (Leave No Trace)
 
-**Final Fishing Trip:**
-- Last chance to catch "the big one"
-- Morning bite often excellent
-- Fish with whoever you haven't fished with yet
-- Catch and release—leave the fish for next time
+- [ ] **Fire is cold** — drown, stir, feel
+- [ ] All trash & recycling packed out; **micro-trash** picked up (bottle caps, twist ties, fishing line)
+- [ ] Coolers drained; food sealed for the drive
+- [ ] Nothing left in the bathhouse / on the line
+- [ ] Walk every site once more — leave it cleaner than we found it
+- [ ] Bikes & boats strapped and **re-checked** before the highway
 
-**Paddling the Reservoir:**
-- One more morning on the water
-- Visit a cove you haven't explored
-- Enjoy the calm before wind builds
+## Drive Home
 
-**Hike to Favorite Spot:**
-- Return to a place that meant something this week
-- Take photos you meant to take
-- Say goodbye to specific locations
-
-### Last Chance Activities
-
-Anything you wanted to do but didn't:
-- Visit a specific spot in the park
-- Take a particular photo
-- Spend time with a specific family member
-- Complete a personal challenge
+- Check out per the campground's posted time.
+- Top off ice for any cold leftovers; **gas in Troy**.
+- Reverse the [drive](/guides/drive): Route 147 → US-61 south → I-70 west to Columbia.
 
 ---
 
-## Midday
+## Before You Forget
 
-### Lunch
+- Swap **photos** to the group chat/album.
+- Note **what to do differently next time** (gear, food amounts, sites) while it's fresh.
+- Say thanks around the group—four families pulled this off together.
 
-Use up remaining perishables. Simple is fine.
-
-### Begin Departure Prep
-
-Use afternoon to start breaking camp:
-- Pack items you won't need tonight
-- Organize what stays out vs. goes in
-- Clean interior of RV
-- Sort trash vs. take-home
-
-**What to leave out:**
-- Sleeping gear (beds made until morning)
-- Tomorrow's breakfast items
-- Toiletries
-- Clothes for evening and morning
-- Campfire supplies
+{: .important }
+> **Until next time.** Sandy feet, tired kids, a cooler full of "we should've bought
+> less ham," and a week's worth of stories. That's a successful trip.
 
 ---
 
-## Afternoon: Final Free Time
-
-### For Everyone
-
-Last hours to:
-- Walk a favorite path one more
-- Sit in favorite chair looking at the view
-- Journal about the trip
-- Have conversations you've been putting off
-- Simply exist in this place
-
-### Gratitude Practice
-
-Consider going around with:
-- One thing you're grateful for about this trip
-- One thing you learned
-- One thing you want to remember
-- One thing you want to do next time
-
----
-
-## Evening: Farewell Dinner
-
-### Make It Special
-
-This is the last meal together at camp. Options:
-
-**Option A: Best Meal of the Trip**
-Pull out the stops:
-- Steaks, fresh sides
-- Dutch oven dessert
-- Whatever requires effort (you have time)
-
-**Option B: Meaningful Meal**
-Something with significance:
-- Recipe from a grandparent's past
-- Family traditional dish
-- Favorite meal as voted during the week
-
-**Option C: Collaborative Meal**
-Everyone contributes:
-- Each person/family responsible for one component
-- Potluck style assembly
-- Everyone's hands in the meal
-
-### During Dinner
-
-- Photos of the group at the table
-- Toasts and acknowledgments
-- Memory sharing
-- Thanks to whoever organized the trip
-- Anticipation of next time
-
----
-
-## Final Campfire
-
-### Building the Fire
-
-Let someone who hasn't done it build tonight's fire:
-- Kid teaching opportunity
-- Passing of knowledge
-- Symbolic for closing the trip
-
-### Around the Fire
-
-**Structured (optional):**
-- Each person shares a trip highlight
-- Funny moment awards
-- Most improved (fishing, hiking, card games)
-- Biggest surprise
-
-**Unstructured:**
-- Let conversation flow
-- Tell stories
-- Sit in silence together
-- Let the fire speak
-
-### When to Extinguish
-
-Don't stay up too late:
-- Departure tomorrow requires energy
-- But don't rush either
-- Let it end naturally
-
-**Extinguish completely:** Water, stir, water again. Leave no trace.
-
----
-
-## Final Stargazing
-
-One last look up.
-
-### What to Notice
-
-- Which constellations you can now find easily
-- How the sky has become familiar
-- The Milky Way you'll remember
-- The silence you'll miss
-
-### What to Say
-
-Nothing, maybe. Just look.
-
----
-
-## Tonight's Checklist
-
-- [ ] Packing well underway
-- [ ] Morning departure plan clear
-- [ ] What time leaving?
-- [ ] Who's doing what tomorrow?
-- [ ] Fire completely out
-- [ ] Alarms set
-- [ ] One last look at the stars
-
----
-
-{: .highlight }
-> **The Last Night:** Tomorrow you'll be in transit, then home. Tonight is the last night of this particular adventure. There will never be another exactly like it—this group, this place, this week, this moment. Be present for it.
-
----
-
-[← Day 6](/itinerary/day6){: .btn }
-[Next: Day 8 (Departure) →](/itinerary/day8){: .btn .btn-primary }
+[Back: Day 6](/itinerary/day6){: .btn }
+[Back to the Itinerary](/itinerary/){: .btn .btn-primary }

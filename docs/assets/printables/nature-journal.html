@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Camp Nature Journal — Printable</title>
+<style>
+  :root { --ink:#2d3339; --green:#2f5d3a; --tan:#b9935a; --blue:#2e5c8a; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; background:#f3f1ea; }
+  .sheet { max-width: 8.0in; margin: 0 auto; padding: 0.55in 0.7in; background:#fff; }
+  header { text-align:center; border-bottom: 4px solid var(--green); padding-bottom: 8px; margin-bottom: 12px; }
+  h1 { font-size: 24px; margin: 0 0 2px; color: var(--green); }
+  .sub { color: var(--tan); font-weight: 700; letter-spacing: .5px; text-transform: uppercase; font-size: 11px; }
+  .row { display:flex; gap: 14px; margin: 8px 0; font-size: 13px; }
+  .row span { flex:1; border-bottom: 1.5px solid #999; padding-bottom: 2px; }
+  .weather { display:flex; gap: 12px; align-items:center; font-size: 14px; margin: 6px 0 12px; }
+  .weather label { display:flex; align-items:center; gap:5px; }
+  .chk { width:16px; height:16px; border:2px solid var(--blue); border-radius:4px; display:inline-block; }
+  h2 { font-size: 14px; color: var(--blue); margin: 14px 0 6px; }
+  .draw { border: 2.5px dashed var(--tan); border-radius: 10px; height: 3.0in; display:flex;
+          align-items:flex-start; justify-content:flex-end; }
+  .draw small { color:#bbb; padding: 6px 10px; }
+  .lines { margin-top: 6px; }
+  .lines .ln { border-bottom: 1.5px solid #ccc; height: 26px; }
+  .prompt { font-size: 13px; color:#444; margin: 4px 0; }
+  .star { font-size: 13px; }
+  .star .s { color: var(--tan); letter-spacing: 3px; }
+  .print-btn { display:block; width: 220px; margin: 14px auto; padding: 10px; background: var(--green);
+               color:#fff; border:0; border-radius: 8px; font-size: 15px; cursor:pointer; }
+  @media print {
+    body { background:#fff; } .sheet { box-shadow:none; max-width:none; padding: 0.4in; }
+    .print-btn { display:none; }
+  }
+</style>
+</head>
+<body>
+  <button class="print-btn" onclick="window.print()">🖨️ Print a journal page</button>
+  <div class="sheet">
+    <header>
+      <div class="sub">Cuivre River State Park · July 2026</div>
+      <h1>📓 My Camp Nature Journal</h1>
+    </header>
+    <div class="row"><span>Name:</span><span>Day / Date:</span></div>
+    <div class="weather">
+      <strong>Weather:</strong>
+      <label><span class="chk"></span>☀️ Sunny</label>
+      <label><span class="chk"></span>⛅ Cloudy</label>
+      <label><span class="chk"></span>🌧️ Rainy</label>
+      <label><span class="chk"></span>🌡️ Hot</label>
+    </div>
+
+    <h2>✏️ Something I saw today (draw it!)</h2>
+    <div class="draw"><small>draw here</small></div>
+
+    <h2>📝 Today I...</h2>
+    <div class="prompt">The coolest thing I did:</div>
+    <div class="lines"><div class="ln"></div></div>
+    <div class="prompt">An animal or bug I saw:</div>
+    <div class="lines"><div class="ln"></div></div>
+    <div class="prompt">Something I heard, smelled, or touched:</div>
+    <div class="lines"><div class="ln"></div></div>
+
+    <h2>⭐ My day rating</h2>
+    <div class="star">Circle the stars: <span class="s">☆ ☆ ☆ ☆ ☆</span></div>
+    <div class="prompt" style="margin-top:8px;">Best part of today:</div>
+    <div class="lines"><div class="ln"></div><div class="ln"></div></div>
+  </div>
+</body>
+</html>

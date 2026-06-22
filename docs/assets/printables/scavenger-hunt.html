@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cuivre River Nature Scavenger Hunt — Printable</title>
+<style>
+  :root { --ink:#2d3339; --green:#2f5d3a; --tan:#b9935a; --blue:#2e5c8a; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; background:#f3f1ea; }
+  .sheet { max-width: 8.0in; margin: 0 auto; padding: 0.6in 0.7in; background:#fff; }
+  header { text-align:center; border-bottom: 4px solid var(--green); padding-bottom: 10px; margin-bottom: 14px; }
+  h1 { font-size: 26px; margin: 0 0 4px; color: var(--green); }
+  .sub { color: var(--tan); font-weight: 700; letter-spacing: .5px; text-transform: uppercase; font-size: 12px; }
+  .name-row { display:flex; gap: 18px; margin: 10px 0 16px; font-size: 13px; }
+  .name-row span { flex:1; border-bottom: 1.5px solid #999; padding-bottom: 2px; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px 18px; }
+  .item { display:flex; align-items:center; gap: 10px; padding: 7px 4px; border-bottom: 1px dotted #cbb; font-size: 15px; }
+  .box { flex:none; width: 22px; height: 22px; border: 2.5px solid var(--blue); border-radius: 5px; }
+  .emoji { font-size: 20px; width: 26px; text-align:center; }
+  .note { margin-top: 16px; font-size: 12.5px; color:#555; background:#f5f7f2; border-left: 4px solid var(--green); padding: 8px 12px; }
+  .rules { font-size: 12.5px; color:#444; margin-top:10px; }
+  .print-btn { display:block; width: 220px; margin: 14px auto; padding: 10px; background: var(--green);
+               color:#fff; border:0; border-radius: 8px; font-size: 15px; cursor:pointer; }
+  @media print {
+    body { background:#fff; } .sheet { box-shadow:none; max-width:none; padding: 0.4in; }
+    .print-btn { display:none; }
+    .item { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+  <button class="print-btn" onclick="window.print()">🖨️ Print this sheet</button>
+  <div class="sheet">
+    <header>
+      <div class="sub">Cuivre River State Park · July 2026</div>
+      <h1>🔎 Nature Scavenger Hunt</h1>
+      <div class="sub" style="color:#888">Can you find them all?</div>
+    </header>
+    <div class="name-row"><span>Name:</span><span>Date:</span></div>
+    <div class="grid">
+      <div class="item"><span class="box"></span><span class="emoji">🪶</span>A bird feather</div>
+      <div class="item"><span class="box"></span><span class="emoji">🌰</span>An acorn or nut</div>
+      <div class="item"><span class="box"></span><span class="emoji">🍃</span>A leaf bigger than your hand</div>
+      <div class="item"><span class="box"></span><span class="emoji">🐿️</span>A squirrel or chipmunk</div>
+      <div class="item"><span class="box"></span><span class="emoji">🦌</span>Deer tracks in the mud</div>
+      <div class="item"><span class="box"></span><span class="emoji">🍄</span>A mushroom (don't touch!)</div>
+      <div class="item"><span class="box"></span><span class="emoji">🪨</span>A smooth river rock</div>
+      <div class="item"><span class="box"></span><span class="emoji">🐢</span>A turtle on a log</div>
+      <div class="item"><span class="box"></span><span class="emoji">🕸️</span>A spider web</div>
+      <div class="item"><span class="box"></span><span class="emoji">🐦</span>A woodpecker (or hear one!)</div>
+      <div class="item"><span class="box"></span><span class="emoji">🌼</span>A wildflower</div>
+      <div class="item"><span class="box"></span><span class="emoji">🐛</span>A crawly bug</div>
+      <div class="item"><span class="box"></span><span class="emoji">🦋</span>A butterfly or dragonfly</div>
+      <div class="item"><span class="box"></span><span class="emoji">🌲</span>A pinecone</div>
+      <div class="item"><span class="box"></span><span class="emoji">✨</span>A firefly (at dusk!)</div>
+      <div class="item"><span class="box"></span><span class="emoji">🐸</span>A frog or hear one croak</div>
+      <div class="item"><span class="box"></span><span class="emoji">🦅</span>A bird flying over the lake</div>
+      <div class="item"><span class="box"></span><span class="emoji">🪵</span>A hollow or fallen log</div>
+      <div class="item"><span class="box"></span><span class="emoji">☁️</span>A cloud shaped like something</div>
+      <div class="item"><span class="box"></span><span class="emoji">🐚</span>A snail or shell by the water</div>
+    </div>
+    <div class="note"><strong>Explorer rules:</strong> Look with your eyes, leave nature where it lives.
+      Don't pick flowers or touch mushrooms, and always stay with your buddy. Let bugs and fireflies go free!</div>
+    <div class="rules">⭐ <strong>Bonus:</strong> Found everything? Draw your favorite thing you saw on the back of this page.</div>
+  </div>
+</body>
+</html>
