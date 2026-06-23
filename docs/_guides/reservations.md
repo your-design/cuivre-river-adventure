@@ -8,7 +8,7 @@ nav_order: 2
 # Reservations
 {: .no_toc }
 
-How to book campsites for four families—and the permits we'll need.
+Camping is **booked** ✅ — here's our setup, plus the permits we still need.
 {: .fs-6 .fw-300 }
 
 ---
@@ -21,40 +21,28 @@ How to book campsites for four families—and the permits we'll need.
 
 ---
 
-## Book Camping Through Missouri State Parks
+## What We Booked
 
-Cuivre River campsites are reserved online or by phone:
+✅ **Reservation is complete: two RV sites with room for tents.** The four families
+split across two adjacent sites so kids can roam between camps and we can share fires,
+canopies, and the group kitchen.
 
-- **Online:** [icampmo1.usedirect.com/MoStateParksWeb](https://icampmo1.usedirect.com/MoStateParksWeb/)
-- **Phone:** 877-422-6766 (Missouri State Parks reservations)
-- **Park office:** (636) 528-7247 for questions about specific sites
+| Site | Rigs & vehicles | Families |
+|:-----|:----------------|:---------|
+| **Site 1 (large RV)** | Large RV + **2 vehicles** | **Older Smiths** (+ 2 dogs) & **Harris** |
+| **Site 2 (tent + pod)** | 18′ square-pod travel trailer + 10–12-person tent + **2 vehicles** | **Younger Smiths** (pod) & **Zuelke** (tent) |
+
+See [our rigs and the site layout plan](/guides/camp-setup#our-sites-and-rigs) for how we'll
+position everything.
+
+{: .note }
+> **Confirm the details we'll need on arrival:** exact site numbers, check-in/out times,
+> hookup type (electric/water/sewer), and **vehicle limits per site** (we have 4 vehicles
+> plus boat/bike racks across two sites). Have confirmation numbers handy at the gate.
 
 {: .important }
-> **The Fourth of July books fast.** Our trip spans the holiday weekend, the busiest
-> camping week of the year. Reserve as early as the booking window allows and grab
-> adjacent sites in the same loop before they're gone.
-
----
-
-## Picking Sites for the Group
-
-We want **four sites close together**—ideally adjacent or in the same loop—so kids
-can move between camps and we can share one fire and canopy.
-
-Match site type to each family's rig:
-
-| Family setup | Site type to book |
-|:-------------|:------------------|
-| RV / camper with hookups | **Sewer / Electric / Water** or **Electric** |
-| Camper needing power | **Electric** (up to 50-amp on some) |
-| Tent camping | **Basic** (or electric for fans/fridge) |
-
-**Tips:**
-- In July heat, an **electric site** is worth it for a fan, a powered cooler, or
-  charging—book electric where you can.
-- Note each site's **max occupancy and vehicle limits** when booking; our group has
-  several vehicles plus boat/bike racks.
-- Ask the office which loops are closest to the **showers, beach, and amphitheater**.
+> **Booked over the Fourth — good.** Our week spans the busiest camping holiday of the
+> year, so locking in two adjacent sites early was the right call.
 
 ---
 
@@ -92,14 +80,15 @@ See the [Fishing guide](/activities/fishing) for what to bring and where to cast
 
 ---
 
-## Reservation Checklist
+## Still-To-Do Checklist
 
-- [ ] Pick dates: **July 1–7, 2026** (check-in/check-out times vary—confirm at booking)
-- [ ] Book 4 sites, clustered, matched to each family's setup
+- [x] ~~Book the sites~~ — **done: 2 RV sites (July 1–7, 2026)**
 - [ ] Save all confirmation numbers in the group chat
-- [ ] Adults buy Missouri fishing permits
-- [ ] Note shower/beach/amphitheater proximity
-- [ ] Confirm pet rules if anyone brings a dog (leashed, attended)
+- [ ] Adults buy **Missouri fishing permits** (see below)
+- [ ] Confirm **dog rules** for the Older Smiths' 2 dogs — leashed (10 ft max), attended,
+      and never left alone at the site
+- [ ] At the gate: confirm site numbers, hookups, check-out time, and **vehicle limits**
+- [ ] Ask which loop is closest to the **showers, beach, and amphitheater**
 
 ---
 

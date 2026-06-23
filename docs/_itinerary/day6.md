@@ -20,7 +20,7 @@ Choice day & the last campfire. Repeat your favorites and start the easy wind-do
 | Morning | "Greatest hits" — do your favorite thing again |
 | Midday | Beach + lunch |
 | Afternoon | Begin packing the non-essentials; clean gear |
-| Evening | Grill-out & use-it-up dinner; last big campfire |
+| Evening | Spaghetti + use-it-up grill (simple); last big campfire |
 
 ---
 
@@ -42,11 +42,13 @@ By now everyone has a "best part." Do it again:
 - Rinse and dry **kayaks, PFDs, water shoes, swimsuits** (pack them dry-ish).
 - Consolidate coolers; plan to **cook down what's left** tonight.
 
-## Evening — Use-It-Up Grill Night
+## Evening — Simple Use-It-Up Night
 
-- **Dinner: Grill-Out** (Zuelke / Younger Smiths host) — brats, remaining chicken,
-  dehydrated mashed potatoes, green beans, foil packets, finish the watermelon.
-- **Last big campfire:** extra s'mores, a story or two, a thank-you to the cooks.
+- **Dinner: Spaghetti + Clean-the-Cooler Grill** (Older Smiths host) — one-pot spaghetti
+  with make-ahead sauce, plus brats, remaining chicken, dehydrated mashed potatoes, and
+  green beans to empty the coolers. Finish the watermelon. ([Meal schedule](/meals/meal-schedule).)
+- **Last big campfire:** extra s'mores, a story or two, a thank-you to the cooks and the
+  [chore crews](/guides/camp-jobs).
 - A final **stargaze** before quiet hours.
 
 ---

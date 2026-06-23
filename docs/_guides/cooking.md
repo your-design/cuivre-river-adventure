@@ -21,30 +21,50 @@ How twelve people eat well for a week without one person doing all the dishes.
 
 ---
 
-## The System: Shared Dinners, Solo Mornings
+## The System: Shared Dinners, Crewed Mornings
 
-With four families, the simplest approach is:
+With twelve people, the simplest approach is:
 
 - **Dinners are group meals** with a **rotating host family** each night. One family
-  plans, cooks, and leads cleanup; everyone pitches in.
-- **Breakfasts and lunches are per-family** (or grab-and-go), since everyone's tastes
-  and schedules differ—especially with little kids.
+  plans and cooks; a **different** family cleans up.
+- **Breakfasts are crewed** (assigned setup/cook/cleanup teams—*guys vs. girls* and the
+  like), since the big cooked breakfasts need owners, not just a menu.
+- **Lunches are light, self-serve, or packed** to eat on the trail or at the beach.
 
-The full plan lives in the [Food Plan](/meals/): the
-[schedule](/meals/meal-schedule), the [make-ahead prep](/meals/meal-prep), the
-[shopping list](/meals/shopping-list), and each [family's preferences](/meals/family-preferences).
+Who-does-what for every meal—plus the coffee station, snack pantry, and cleanup
+schedule—lives on the **[Camp Jobs & Chores](/guides/camp-jobs)** page. The food itself
+is in the [Food Plan](/meals/): the [schedule](/meals/meal-schedule), the
+[make-ahead prep](/meals/meal-prep), the [shopping list](/meals/shopping-list), and each
+[family's preferences](/meals/family-preferences).
 
 ---
 
-## Cooking Gear & Heat Sources
+## Our Cooking Equipment
 
-- **Camp stoves** (propane) are the workhorses—fast, controllable, weather-proof.
-- **Cast-iron skillet + griddle** for eggs, bacon, pancakes, burgers, grilled cheese.
-- **One big pot** for pasta, mac & cheese, boiling corn, ramen, and dishwater.
-- **The fire/grill grate** for hot dogs, brats, foil packets, and s'mores.
-- Assign **🟩 one or two griddles/stoves to the group** so we're not hauling four sets.
+Between three rigs we have a serious camp kitchen. Know what each can do so we cook on
+the right tool and don't overload a circuit:
 
-See the [Packing kitchen list](/guides/packing-list#camp-kitchen).
+| Source | On / from | Best for |
+|:-------|:----------|:---------|
+| **RV propane stove + small oven** | Large RV (Older Smiths/Harris) | Boiling, simmering, baking, biscuits |
+| **RV outdoor kitchen + awning** | Large RV | Shaded prep & serving hub |
+| **Butane grills** | Square pod (Younger Smiths) | Quick grilling, searing, galley cooking |
+| **Electric griddles** ×2 | Younger + Older Smiths (electric sites) | Pancakes, bacon, eggs, grilled cheese, burgers |
+| **Electric air-fryers** ×2 | Younger + Older Smiths | Crisping, reheating, chicken thighs, fries, fast kid food |
+| **Group camp stoves** (propane) | Shared | Workhorse burners at Group HQ |
+| **Cast-iron + big pot** | Shared | Fire cooking, pasta, corn, mac & cheese |
+| **Fire ring / grill grate** | Shared | Hot dogs, brats, foil packets, s'mores |
+
+{: .warning }
+> **Watch the electric load.** Air-fryers and griddles are big draws. On the powered
+> sites, **don't run two high-watt appliances on the same circuit at once** (plus the
+> A/C and fans) or you'll trip the pedestal breaker. Stagger them, and lean on **butane
+> and propane** for simultaneous cooking.
+
+**Fuel check before the trip:** propane for the RV and group stoves, **butane canisters**
+for the pod grills, and the electric appliances need the powered sites. Bring spares.
+
+See the full [Packing kitchen list](/guides/packing-list#camp-kitchen).
 
 ---
 
@@ -60,6 +80,25 @@ The less you cook *at* camp, the more you enjoy camp. Before the trip:
 - **Pre-mix seasonings** and marinades in labeled bags.
 
 Step-by-step in the [Meal Prep guide](/meals/meal-prep).
+
+---
+
+## Packed & Portable Meals
+
+Some meals are better **eaten on the move**—a trail lunch, a beach picnic, or a simple
+packed lunch on the [cave day trip](/itinerary/day5) so we skip cooking in the heat.
+Build a few of these:
+
+- **Sandwich kits:** PB&J, turkey/ham, and corned-beef wraps made that morning; pack
+  with chips, fruit, and carrots in a soft cooler.
+- **Walking snacks:** string cheese, applesauce pouches, trail mix, granola bars.
+- **Beach picnic:** sandwiches + watermelon + a drink jug, in the shade by the swim beach.
+- **Cave-day lunch:** keep it **cold and simple**—premade sandwiches eaten in town or at
+  a shady stop, with **dinner out** afterward.
+
+**Pack smart:** a dedicated **day cooler/soft bag**, ice packs, plenty of **water**, and
+trash bags (pack out everything). The snack-pantry manager loads the day bag before we
+leave—see [Camp Jobs](/guides/camp-jobs#the-snack-pantry).
 
 ---
 
@@ -98,9 +137,10 @@ July is hot—**food safety matters.**
 
 ## Coffee for the Crowd
 
-Several adults run on coffee (the Younger Smiths flagged it). Bring a **percolator or
-big pour-over** and pre-measure grounds. First one up makes a pot for the early
-fishing/quiet crew.
+Several adults run on coffee (the Younger Smiths flagged it). We run a **daily coffee &
+morning-drink station** with a rotating owner—setup, stocking, and teardown details are
+on the [Camp Jobs page](/guides/camp-jobs#the-coffee-station). Bring a **percolator or
+big pour-over** and pre-measure grounds; first one up starts the pot.
 
 ---
 

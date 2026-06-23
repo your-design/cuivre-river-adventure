@@ -19,9 +19,9 @@ A loose day-by-day plan for July 1–7. A framework to adapt, not a checklist to
 |:----|:-----|:------|
 | [Day 1](/itinerary/day1) | Wed, Jul 1 | Arrival & setup |
 | [Day 2](/itinerary/day2) | Thu, Jul 2 | Settle in — lake & fishing |
-| [Day 3](/itinerary/day3) | Fri, Jul 3 | Paddle & bike day |
-| [Day 4](/itinerary/day4) | **Sat, Jul 4** | 🎆 Independence Day at camp |
-| [Day 5](/itinerary/day5) | Sun, Jul 5 | Hike & explore (or day trip) |
+| [Day 3](/itinerary/day3) | Fri, Jul 3 | Paddle & bike (+ midday supply run) |
+| [Day 4](/itinerary/day4) | **Sat, Jul 4** | 🎆 Independence Day + Troy fireworks |
+| [Day 5](/itinerary/day5) | Sun, Jul 5 | 🦇 Cave day trip (Hannibal) — dinner out |
 | [Day 6](/itinerary/day6) | Mon, Jul 6 | Choice day & last campfire |
 | [Day 7](/itinerary/day7) | Tue, Jul 7 | Pack up & head home |
 

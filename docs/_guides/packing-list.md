@@ -51,30 +51,39 @@ so we don't show up with four of everything and zero of something.
 - 🟦 Hammock
 - 🟩 String/lantern lights for the group area
 - 🟦 Battery packs + charging cables
-- 🟩 Box fan (electric sites) — July is hot
+- 🟩 **Box fans — a must** (one per sleeping space if you can; July is hot)
+- 🟩 **Kiddie pool** for kids + dogs to cool off (dump daily)
+- 🟦 Stiff **broom + dustpan** for the arrival site sweep ([why](/guides/camp-setup#arrival-clean-and-inspect-like-an-expert))
+- 🟦 Food-grade **diatomaceous earth (DE)** + cinnamon/peppermint (eco pest control)
 
 ---
 
 ## Camp Kitchen
 
+### Our appliances (bring these specific ones)
+- 🟦 **Electric griddles** ×2 — Younger Smiths & Older Smiths
+- 🟦 **Air-fryers** ×2 — Younger Smiths & Older Smiths
+- 🟦 **Butane grills + butane canisters** — Younger Smiths (pod galley)
+- 🟦 **RV propane** (stove/oven) + spare tank — Older Smiths
+- 🟩 **Group camp stove(s) + propane** for Group HQ
+
 ### Shared (🟩 split across families)
-- Camp stove(s) + fuel
 - Griddle and/or cast-iron skillet, large pot, tongs/spatula/ladle
 - 🟩 **Big water cooler / jug** (5–7 gal) + drink dispenser
-- Coolers (plan 2–3 total; one for drinks, others for food)
-- Dish tubs, biodegradable soap, sponges, dish towels
+- Coolers (plan **3–4 total**: one for drinks, one+ for food, **one "day cooler"** for packed lunches)
+- Dish tubs (2: wash + rinse), biodegradable soap, sponges, dish towels, drying rack
 - Trash bags + a few extra (heavy duty)
 - Foil (heavy duty), zip bags, plastic wrap, paper towels
 - Cutting boards (separate for raw meat), sharp knife, can opener
 - Lighter/matches, fire gloves
-- Coffee maker (percolator or pour-over) — see the [coffee crowd](/meals/family-preferences)
+- Coffee maker (percolator or pour-over) + pre-measured grounds — [coffee station](/guides/camp-jobs#the-coffee-station)
 
 ### Per family (🟦)
 - Plates, bowls, cups/mugs, utensils
 - Reusable water bottles (one+ per person)
 - Personal snacks and drinks (see [Food Plan](/meals/))
 
-See [Camp Cooking](/guides/cooking) and the [Meal Prep guide](/meals/meal-prep).
+See [Camp Cooking](/guides/cooking#our-cooking-equipment) and the [Meal Prep guide](/meals/meal-prep).
 
 ---
 
@@ -140,6 +149,18 @@ Missouri July = **hot, humid days; warm nights; afternoon thunderstorms.**
 
 ---
 
+## Dogs (Older Smiths)
+
+- 🟦 Leashes (10-ft max), a **shaded tie-out or x-pen**, stakes
+- 🟦 Food + bowls; a **water bowl that stays full** in the heat
+- 🟦 Poop bags (lots) — pack out every time
+- 🟦 Dog beds/crate; a towel for muddy paws
+- 🟦 **Tick prevention** + nightly tick checks; current **vaccination records** & tags
+- 🟦 Any meds; a calming option for fireworks night
+- See [Dogs at Camp](/guides/camp-setup#dogs-at-camp) for the rules (leashed/attended, not on the beach)
+
+---
+
 ## Tools, Documents & Extras
 
 - 🟩 Multi-tool, duct tape, zip ties, work gloves, small tool kit
@@ -174,11 +195,14 @@ Print this and tape it inside a cabinet or cooler lid:
 - [ ] Your **bikes + helmets**
 - [ ] Your **kayak + PFDs**
 - [ ] Your **fishing gear + permits**
-- [ ] Bug spray + sunscreen + personal meds
+- [ ] Your **cooking appliance(s)** — griddle / air-fryer / butane + fuel
+- [ ] **Box fan(s)** (+ kiddie pool if you've got it)
+- [ ] Bug spray + sunscreen + **DE** + personal meds
+- [ ] Dog gear (Older Smiths)
 - [ ] Your assigned **🟩 group item(s)**
 - [ ] Your part of the [grocery list](/meals/shopping-list)
 - [ ] Phone chargers / battery packs
-- [ ] Printed [kids' activity packet](/kids)
+- [ ] Printed [kids' activity packet](/kids) + [camp jobs chart](/assets/printables/camp-jobs-chart.html)
 
 ---
 

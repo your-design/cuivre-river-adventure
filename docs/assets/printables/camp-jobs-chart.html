@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Camp Jobs & Cleanup Chart — Printable</title>
+<style>
+  :root { --ink:#2d3339; --green:#2f5d3a; --tan:#b9935a; --blue:#2e5c8a; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; background:#f3f1ea; }
+  .sheet { max-width: 8.0in; margin: 0 auto; padding: 0.5in 0.6in; background:#fff; }
+  header { text-align:center; border-bottom: 4px solid var(--green); padding-bottom: 8px; margin-bottom: 10px; }
+  h1 { font-size: 23px; margin: 0 0 2px; color: var(--green); }
+  .sub { color: var(--tan); font-weight: 700; letter-spacing: .5px; text-transform: uppercase; font-size: 11px; }
+  .row { display:flex; gap: 12px; margin: 6px 0 10px; font-size: 13px; }
+  .row span { flex:1; border-bottom: 1.5px solid #999; padding-bottom: 2px; }
+  h2 { font-size: 14px; color: var(--blue); margin: 12px 0 5px; border-bottom:1.5px solid #e4ded2; padding-bottom:2px; }
+  table { width:100%; border-collapse: collapse; font-size: 12.5px; }
+  th { background:#eef3ec; color: var(--green); border:1.5px solid #b9c9b4; padding:5px; text-align:left; }
+  td { border:1.5px solid #cdd8c8; height: 30px; padding: 3px 6px; }
+  .role { width: 45%; font-weight:600; }
+  .chk { display:flex; align-items:center; gap:8px; padding:4px 2px; font-size:13px; }
+  .box { flex:none; width:16px; height:16px; border:2.2px solid var(--green); border-radius:4px; }
+  .two { display:grid; grid-template-columns:1fr 1fr; gap:0 20px; }
+  .note { margin-top: 10px; font-size: 12px; color:#444; background:#f5f7f2; border-left: 4px solid var(--green); padding: 7px 11px; }
+  .print-btn { display:block; width: 230px; margin: 12px auto; padding: 10px; background: var(--green);
+               color:#fff; border:0; border-radius: 8px; font-size: 15px; cursor:pointer; }
+  @media print {
+    body { background:#fff; } .sheet { box-shadow:none; max-width:none; padding: 0.35in; }
+    .print-btn { display:none; }
+    th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+  <button class="print-btn" onclick="window.print()">🖨️ Print the chart</button>
+  <div class="sheet">
+    <header>
+      <div class="sub">Cuivre River Camp · July 2026</div>
+      <h1>🏕️ Camp Jobs &amp; Cleanup Chart</h1>
+      <div class="sub" style="color:#888">Everyone pitches in — fill it in each evening for tomorrow</div>
+    </header>
+    <div class="row"><span>Day / Date:</span><span>Camp foreman of the day:</span></div>
+
+    <h2>Today's Roles</h2>
+    <table>
+      <tr><th class="role">Role</th><th>Who</th></tr>
+      <tr><td class="role">☕ Coffee / drink-station owner</td><td></td></tr>
+      <tr><td class="role">🍳 Breakfast crew (cook + reset)</td><td></td></tr>
+      <tr><td class="role">🍔 Dinner host (cooks)</td><td></td></tr>
+      <tr><td class="role">🧽 Dinner cleanup crew</td><td></td></tr>
+      <tr><td class="role">🍿 Snack-pantry manager (a kid)</td><td></td></tr>
+      <tr><td class="role">✔ Snack-pantry auditor (adult)</td><td></td></tr>
+      <tr><td class="role">💧 Water / ice / trash runner</td><td></td></tr>
+      <tr><td class="role">🐕 Dog duty (water, shade, pickup)</td><td></td></tr>
+    </table>
+
+    <h2>Meal Cleanup Checklist (every meal)</h2>
+    <div class="two">
+      <div class="chk"><span class="box"></span>Leftovers sealed &amp; in the cooler</div>
+      <div class="chk"><span class="box"></span>Dishes washed, rinsed, drying</div>
+      <div class="chk"><span class="box"></span>Stoves/griddles/air-fryers off &amp; wiped</div>
+      <div class="chk"><span class="box"></span>Table wiped, food in sealed bins</div>
+      <div class="chk"><span class="box"></span>Trash bagged, recycling sorted</div>
+      <div class="chk"><span class="box"></span>Micro-trash picked up</div>
+      <div class="chk"><span class="box"></span>Coffee &amp; snack stations restocked</div>
+      <div class="chk"><span class="box"></span><strong>Adult auditor signs off ✔</strong></div>
+    </div>
+
+    <h2>Before We Leave / When We Return</h2>
+    <div class="two">
+      <div class="chk"><span class="box"></span>Day bag packed: snacks, fruit, water</div>
+      <div class="chk"><span class="box"></span>Coolers closed &amp; shaded</div>
+      <div class="chk"><span class="box"></span>Food &amp; trash sealed (raccoons!)</div>
+      <div class="chk"><span class="box"></span>Restock snack bins on return</div>
+      <div class="chk"><span class="box"></span>Refill water jug, refresh ice</div>
+      <div class="chk"><span class="box"></span>Fire is cold-out if leaving</div>
+    </div>
+
+    <div class="note"><strong>House rule:</strong> anyone can call out a skipped chore — kindly, and up the chain
+      (kid → parent/crew lead). The point is to keep <strong>everyone</strong> on the team and off their phones.
+      Catch people helping and cheer that, too!</div>
+  </div>
+</body>
+</html>

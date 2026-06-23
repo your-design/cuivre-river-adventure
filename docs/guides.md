@@ -26,8 +26,9 @@ Everything to sort out before we go—and how to run a smooth camp once we're th
 
 | Guide | What's covered |
 |:------|:---------------|
-| [Camp Setup & Living](/guides/camp-setup) | Site layout, routines, weather, bugs, safety |
-| [Camp Cooking](/guides/cooking) | Stoves, fire, coordination, and the meal-prep link |
+| [Camp Setup & Living](/guides/camp-setup) | Our sites & rigs, expert arrival cleanup, layout, heat, dogs |
+| [Camp Cooking](/guides/cooking) | Stoves, griddles, air-fryers, coordination, meal-prep link |
+| [Camp Jobs & Chores](/guides/camp-jobs) | Coffee station, breakfast crews, snack pantry, cleanup schedule |
 | [Savvy Camper & RV Tips](/guides/savvy-camper) | Eco-friendly pest control, campfire cooking, knots, RV know-how |
 
 ---

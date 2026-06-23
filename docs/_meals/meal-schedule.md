@@ -23,10 +23,15 @@ Six days of breakfast, lunch, and dinner—designed from every family's favorite
 
 ## How to Read This
 
-- **Dinner** = group meal, with a **host family** who cooks and leads cleanup.
-- **Breakfast & lunch** = per-family / grab-and-go. The options listed are the shared
-  pantry everyone pulls from—make what your crew wants.
+- **Dinner** = group meal, with a **host family** who cooks; a **different** family cleans.
+- **Breakfast** = an assigned **[breakfast crew](/guides/camp-jobs#breakfast-crews)** (the
+  big cooked ones especially).
+- **Lunch** = light, self-serve, or **📦 packed** to eat on the trail/beach/road.
 - ⭐ = a make-ahead item; prep it before the trip ([Meal Prep guide](/meals/meal-prep)).
+- 🍽️ = eating **out**; 🛒 = a **supply run** (water/ice) is built into that day.
+
+Crews, the coffee station, and the snack pantry are all on
+[Camp Jobs & Chores](/guides/camp-jobs).
 
 ---
 
@@ -36,10 +41,10 @@ Six days of breakfast, lunch, and dinner—designed from every family's favorite
 |:----|:----------|:------|:--------------|
 | **Wed 7/1** | *(on the road)* | *(on the road / snacks)* | Hot dogs & brats 🌭 (Zuelke) |
 | **Thu 7/2** | Eggs, bacon, hashbrowns ⭐ | PB&J + sandwich bar | Burgers & dogs + corn (Harris) |
-| **Fri 7/3** | Cereal, yogurt, bagels, fruit | Grilled cheese + tomato soup | Taco bar / walking tacos ⭐ (Younger Smiths) |
-| **Sat 7/4** | Pancakes & bacon 🎆 ⭐ | Sandwich + chips picnic | 🎆 **BBQ feast** ⭐ (All) |
-| **Sun 7/5** | Biscuits & gravy + eggs ⭐ | PB&J + leftovers | Spaghetti & salad ⭐ (Older Smiths) |
-| **Mon 7/6** | Cinnamon rolls + fruit | Lunch-meat sandwiches | Grill-out & use-it-up (Zuelke / Younger Smiths) |
+| **Fri 7/3** 🛒 | Cereal, yogurt, bagels, fruit | Grilled cheese + tomato soup | Taco bar / walking tacos ⭐ (Younger Smiths) |
+| **Sat 7/4** | Pancakes & bacon 🎆 ⭐ | Sandwich + chips picnic | 🎆 **BBQ feast** ⭐ (All) + Troy fireworks |
+| **Sun 7/5** 🦇 | Quick grab-&-go | 📦 Packed cave-day lunch | 🍽️ **Dinner out** (cave day trip) |
+| **Mon 7/6** | Biscuits & gravy + eggs ⭐ | Lunch-meat sandwiches | Spaghetti + use-it-up grill (Older Smiths) |
 | **Tue 7/7** | Cereal / bagels (pack-up) | *(on the road)* | *(home)* |
 
 ---
@@ -68,9 +73,12 @@ Six days of breakfast, lunch, and dinner—designed from every family's favorite
 
 ---
 
-### Friday, July 3 — Taco Night
+### Friday, July 3 — Taco Night 🛒
 - **Breakfast — Quick & Cold:** cereal (fruity pebbles, honeynut cheerios), **vanilla
   yogurt cups**, **cinnamon-swirl bagels** with strawberry cream cheese, fruit; coffee
+- **🛒 Midday supply run (during the heat):** while it's hottest, a couple of adults run
+  to **Troy for water, bagged ice, and any restock** (A/C errand beats melting at camp).
+  Pair with a pharmacy/gas stop. Keep this dinner simple so the run is no stress.
 - **Lunch — Grilled Cheese** + tomato soup; baked Lays, goldfish, applesauce
 - **Dinner — Taco Bar / Walking Tacos** *(host: Younger Smiths)*
   - ⭐ **Pre-cooked seasoned meat** (Mexican-style chicken/pork/steak), reheated
@@ -85,35 +93,39 @@ Six days of breakfast, lunch, and dinner—designed from every family's favorite
 
 - **Breakfast — Festive Pancakes & Bacon** ⭐ (red-white-blue with berries if you like);
   eggs for anyone who wants them; coffee
-- **Lunch — Picnic Sandwiches & Chips:** keep it light—there's a feast tonight
-- **Dinner — 🎆 BBQ FEAST** *(all families; Older Smiths lead)*
+- **Lunch — Picnic Sandwiches & Chips:** keep it light—there's a feast tonight, and we
+  head out for fireworks after
+- **Dinner — 🎆 BBQ FEAST** *(all families; Older Smiths lead)* — eat a bit earlier so
+  we can get to the fireworks
   - ⭐ **Pulled pork** (cooked & frozen ahead, reheated) + **BBQ chicken thighs**
   - **Baked beans**, **mac & cheese**, **sweet corn on the cob**
   - **Watermelon**, garden salad, rolls/bread
   - **Dessert:** s'mores + a red-white-blue treat (berry trifle or flag cake)
-- **Evening:** campfire, naturalist program if offered. *Note: check the park's rules on
-  fireworks—personal fireworks are typically **not allowed** in state parks; plan on
-  glow sticks and a great campfire instead.*
+- **Evening:** head to the **[Troy Rotary fireworks](/itinerary/day4)** (~15 min). Personal
+  fireworks aren't allowed in the park, so bring glow sticks and enjoy the show in town.
 
 ---
 
-### Sunday, July 5 — Easy Day
-- **Breakfast — Biscuits & Gravy** ⭐ + scrambled eggs; fruit; coffee
-- **Lunch — PB&J + Leftovers** (Fourth-of-July encore: pulled-pork sandwiches!)
-- **Dinner — Spaghetti & Salad** *(host: Older Smiths)*
-  - ⭐ **Spaghetti** with meat sauce (sauce made ahead), parmesan
-  - Garden **salad**, **Hawaiian-bread** garlic bread
-  - One big pot = easy cleanup
+### Sunday, July 5 — Cave Day Trip 🦇 (dinner out)
+*Big day trip to Hannibal's [Mark Twain Cave](/day_trips/hannibal)—stay cool underground.*
+
+- **Breakfast — Grab-&-Go:** cereal, **cinnamon-swirl bagels**, yogurt, fruit; coffee
+  **to-go**. Eat fast so we beat the heat and crowds to the cave.
+- **📦 Lunch — Packed & Simple:** premade **PB&J + sandwich** kits, chips, fruit, and a
+  water jug—eaten in town or at a shady stop. (Snack-pantry manager loads the day cooler.)
+- **🍽️ Dinner — OUT:** eat in Hannibal or on the drive back (no camp cooking tonight).
+  Gives the cooks a night off and skips a hot-camp dinner.
 
 ---
 
-### Monday, July 6 — Use-It-Up Grill Night
-- **Breakfast — Cinnamon Rolls** (Pillsbury) + fruit; cereal; coffee
+### Monday, July 6 — Simple Use-It-Up Night
+- **Breakfast — Biscuits & Gravy** ⭐ + scrambled eggs; fruit; coffee (relaxed last full morning)
 - **Lunch — Lunch-Meat Sandwiches:** turkey, ham, **corned beef**; chips; veggies
-- **Dinner — Grill-Out & Clean-the-Cooler** *(host: Zuelke / Younger Smiths)*
-  - **Brats**, remaining **chicken thighs**, anything left to grill
-  - ⭐ **Dehydrated mashed potatoes** (just add boiling water), **green beans**
-  - Foil packets to use up veggies; finish the watermelon
+- **Dinner — Spaghetti + Clean-the-Cooler Grill** *(host: Older Smiths)* — deliberately simple
+  - ⭐ **Spaghetti** with make-ahead meat sauce + **Hawaiian-bread** garlic bread, salad
+  - Plus **brats / remaining chicken thighs** on the grill and ⭐ **dehydrated mashed
+    potatoes** + **green beans** to empty the coolers before departure
+  - Finish the watermelon; one big pot = easy cleanup
 
 ---
 

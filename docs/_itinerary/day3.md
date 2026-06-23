@@ -18,7 +18,7 @@ Paddle & bike day. Put the kayaks and bikes we hauled to good use.
 | Block | Plan |
 |:------|:-----|
 | Morning | Glassy-water paddle on Lake Lincoln |
-| Midday | Beach + lunch in the shade |
+| Midday | Beach + lunch; 🛒 **supply run** (water/ice) during the heat |
 | Afternoon | Mountain biking (Old Schoolhouse / Blackhawk Point) |
 | Evening | Taco night + walking tacos |
 
@@ -30,9 +30,13 @@ Paddle & bike day. Put the kayaks and bikes we hauled to good use.
   spot turtles and herons, maybe troll a line. ([Kayaking guide](/activities/kayaking).)
 - **PFDs on every kid.** Tandem-paddle the youngest.
 
-## Midday — Beach + Lunch
+## Midday — Beach + Lunch + Supply Run 🛒
 
 - Pull up at the **swim beach** to cool off; **Grilled Cheese** lunch in the shade.
+- **Beat the heat with an errand:** while it's hottest (1–3:30), a couple of adults make
+  a **[Troy supply run](/guides/drive#the-last-grocery--gas-run)** for **water, bagged
+  ice, and restock** (and a pharmacy/gas stop). An A/C errand beats melting at camp, and
+  tonight's taco dinner is simple so it's no stress.
 
 ## Afternoon — Bike
 

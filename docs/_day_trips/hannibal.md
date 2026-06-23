@@ -8,8 +8,15 @@ nav_order: 4
 # Hannibal
 {: .no_toc }
 
-About an hour north: Mark Twain's hometown and a genuinely fun cave tour—our top rainy-day pick.
+About an hour north: Mark Twain's hometown and the cave tour—**our one fully-scheduled day trip**.
 {: .fs-6 .fw-300 }
+
+---
+
+{: .important }
+> **This is the big day trip ([Day 5, Sunday July 5](/itinerary/day5)).** The cave was a
+> group must-do, and at a constant **52°F** it's the smartest place to spend the hottest
+> day—out of the heat. Plan: early start, **packed/simple lunch**, **dinner out**, home by evening.
 
 ---
 
@@ -27,25 +34,33 @@ Hannibal sits on the Mississippi and leans all the way into being the boyhood ho
 
 ## Mark Twain Cave (the kid-winner)
 
-Just outside town, the **Mark Twain Cave** offers guided walking tours through cool,
-well-lit passages—**~52°F year-round**, which makes it a *perfect* escape from July
-heat or a rainstorm.
+Just south of town (Route 79, ~2 miles from downtown), the **Mark Twain Cave Complex**
+offers guided walking tours through cool, lit passages—**a constant 52°F**, which makes
+it a *perfect* escape from July heat.
 
-- **Best for:** all ages; easy walking tour with a guide and good stories.
+- **The tour:** ~**60 minutes**, easy, level, electrically lit—good for all ages.
 - **Bring:** a light layer (it's chilly inside) and closed-toe shoes.
-- **Tip:** book/check tour times ahead in summer; it's popular.
+- **Book ahead** in summer: **(573) 231-1000** · [marktwaincave.com](https://www.marktwaincave.com/hours-prices/).
+- **Kid add-ons at the complex:** the **Cameron Cave** maze tour (~90 min) and
+  **gemstone sluicing**—both big hits with the 6–12 crowd.
 
 ---
 
-## Make a Day of It
+## Our Cave-Day Plan
 
-- **Morning:** drive up, take the **cave tour** first (beat the heat and crowds).
-- **Lunch:** downtown Hannibal.
-- **Afternoon:** Twain sites + riverfront, then head back.
+- **Early start:** grab-and-go breakfast, caravan up (~1 hr), take the **cave tour first**
+  to beat the heat and crowds.
+- **📦 Lunch:** packed and simple (sandwiches, chips, fruit) at a shady spot or a quick
+  bite in town—keep it cool and easy.
+- **Afternoon:** **Mark Twain Boyhood Home & Museum**, historic downtown, the riverfront,
+  and the gemstone sluice for the kids.
+- **🍽️ Dinner out** in Hannibal or on the drive back—**a night off from camp cooking.**
+
+Full timing on the [Day 5 itinerary](/itinerary/day5).
 
 {: .note }
-> **Rainy-day MVP.** If a storm settles over camp, Hannibal's cave + downtown is the
-> best dry, fun, all-ages backup on this list.
+> **Also our rainy-day MVP.** If a storm parks over camp another day, this same trip is
+> the best dry, fun, all-ages backup.
 
 ---
 

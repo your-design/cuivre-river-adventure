@@ -55,14 +55,19 @@ keeps any single person from cooking all week and lets each family share a favor
 |:------|:-------|:-----|
 | Wed 7/1 | Arrival cookout: hot dogs & brats | Zuelke |
 | Thu 7/2 | Burgers & dogs + corn on the cob | Harris |
-| Fri 7/3 | Taco bar / walking tacos | Younger Smiths |
-| **Sat 7/4** | **🎆 Independence Day BBQ feast** | **All (Older Smiths lead)** |
-| Sun 7/5 | Spaghetti & salad | Older Smiths |
-| Mon 7/6 | Grill-out & use-it-up night | Zuelke / Younger Smiths |
+| Fri 7/3 | Taco bar / walking tacos *(+ midday supply run)* | Younger Smiths |
+| **Sat 7/4** | **🎆 Independence Day BBQ feast** + Troy fireworks | **All (Older Smiths lead)** |
+| Sun 7/5 | 🍽️ **Dinner out** — [cave day trip](/day_trips/hannibal) | *(out)* |
+| Mon 7/6 | Spaghetti + use-it-up grill (simple) | Older Smiths |
 
 *Tue 7/7 is a pack-up breakfast and the drive home.*
 
 See the full [Meal Schedule](/meals/meal-schedule) for breakfasts, lunches, and details.
+
+**Breakfasts and chores have owners too.** Big breakfasts run on assigned crews
+(*guys vs. girls* and the like), there's a daily coffee station and a kid-run snack
+pantry, and cleanup rotates with an adult auditor—all on the
+**[Camp Jobs & Chores](/guides/camp-jobs)** page.
 
 ---
 

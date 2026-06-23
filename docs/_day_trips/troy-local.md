@@ -35,6 +35,9 @@ Troy is our **resupply and backup base**, about 10–15 minutes from the park:
 - **City parks** — Troy's community parks have **playgrounds, ball fields, pavilions,
   and a pond with ducks**—a good leg-stretch and energy-burner for the kids.
 - **Farmers market / seasonal events** — check dates; summer often has a market or fair.
+- **🎆 Troy Rotary Fireworks (July 4)** — our closest fireworks show, at the **Lincoln
+  County Fairgrounds** (1000 Elm Tree Rd). Gates **6 p.m.**, show at dark, food on site,
+  music synced on **KYRO 105.3 FM**. See the [July 4 plan](/itinerary/day4).
 
 ---
 

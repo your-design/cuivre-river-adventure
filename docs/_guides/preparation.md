@@ -99,6 +99,34 @@ Twelve people works best when a few jobs have clear owners. Suggested split—ad
 
 ---
 
+## Group Dynamics & Flexibility
+
+Twelve people, four families, two dogs, and a wide age range (a **1-year-old**, kids
+**6–12**, an **early teen**, and seven adults) will stretch any schedule—and that's
+normal. Heat, a few beers on the easy days, different bedtimes, and different
+personalities all add friction. Plan for it:
+
+- **The plan is a menu, not a mandate.** Every day has options; nobody has to do
+  everything. If the schedule and reality disagree, reality wins.
+- **Split the group freely.** Some will want **more day trips** (cave, towns, fireworks);
+  others came to **unplug at camp**. Let the adventurers go while the homebodies fish,
+  nap, and hold down camp—then regroup for dinner.
+- **Respect different rhythms.** Early risers get quiet coffee and fishing; night owls
+  get the late campfire. Stagger **kid bedtimes**, and keep the **1-year-old's** nap and
+  meal schedule sacred—everything goes smoother when the baby's rested.
+- **Build in down days.** After a big day (July 4, the cave trip), keep the next one
+  loose. Don't over-schedule.
+- **Name a daily "point person."** One adult loosely keeps the day moving so decisions
+  don't stall in a group of twelve.
+- **Heat + beer = pace yourself.** Hydrate, especially the adults on the relaxed days,
+  and keep a sober driver if anyone's heading to town or the fireworks.
+- **Assume some friction and let it go.** Tired kids melt down, plans change, someone's
+  cranky in the heat. A flexible, kind camp beats a perfectly executed one.
+
+Shared chores keep resentment low—see [Camp Jobs & Chores](/guides/camp-jobs).
+
+---
+
 ## Health & Safety Prep
 
 - **Heat & sun:** July in Missouri is hot and humid. Hats, SPF 50+, and lots of water.

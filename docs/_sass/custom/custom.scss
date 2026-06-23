@@ -25,3 +25,41 @@ img[alt^="Lake Lincoln"] {
 h2, h3 {
   scroll-margin-top: 5rem;
 }
+
+// --- Sidebar (green) readability ---------------------------------------
+// The sidebar background is dark green, so nav text must be light for
+// contrast. Scoped to .side-bar so main-content lists are unaffected.
+.side-bar {
+  .site-title,
+  .site-title:hover {
+    color: #ffffff;
+  }
+}
+
+.side-bar .nav-list .nav-list-item .nav-list-link {
+  color: #eaf1e6;            // light cream-green, high contrast on green
+}
+
+.side-bar .nav-list .nav-list-item .nav-list-link:hover {
+  color: #ffffff;
+  background-color: rgba(255, 255, 255, 0.12);
+}
+
+.side-bar .nav-list .nav-list-item .nav-list-link.active {
+  color: #ffffff;
+  font-weight: 600;
+  background-color: rgba(0, 0, 0, 0.20);
+}
+
+// Expander arrows for nested menus
+.side-bar .nav-list .nav-list-item .nav-list-expander {
+  color: #cfe0c8;
+}
+.side-bar .nav-list .nav-list-item .nav-list-expander:hover {
+  color: #ffffff;
+}
+
+// Keep the search box text dark/readable on its white field
+.search-input {
+  color: #2d3339;
+}
