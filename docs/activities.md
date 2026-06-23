@@ -11,6 +11,8 @@ has_children: true
 Paddling, biking, fishing, swimming, hiking, and wildlife—something for every age in the group.
 {: .fs-6 .fw-300 }
 
+![Kayaking on the lake at the park](/assets/images/banner-activities.png){: .page-banner }
+
 ---
 
 ## Activity Overview

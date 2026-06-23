@@ -11,6 +11,8 @@ has_children: true
 When you want a break from camp—or a rainy-day backup—these are close and family-friendly.
 {: .fs-6 .fw-300 }
 
+![A riverboat on the Mississippi near Hannibal](/assets/images/banner-day-trips.png){: .page-banner }
+
 ---
 
 ## From the Park

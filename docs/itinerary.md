@@ -11,6 +11,8 @@ has_children: true
 A loose day-by-day plan for July 1–7. A framework to adapt, not a checklist to obey.
 {: .fs-6 .fw-300 }
 
+![A lakeside campsite at dusk](/assets/images/banner-itinerary.png){: .page-banner }
+
 ---
 
 ## The Week

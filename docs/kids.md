@@ -10,6 +10,8 @@ nav_order: 7
 Boredom-busters for ages 1–12—plus free printables to bring along.
 {: .fs-6 .fw-300 }
 
+![Kids around a campfire by the lake at dusk](/assets/images/banner-kids.png){: .page-banner }
+
 ---
 
 ## Table of Contents

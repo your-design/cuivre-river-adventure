@@ -11,6 +11,8 @@ has_children: true
 Feeding twelve people for a week—built from every family's own list of favorites.
 {: .fs-6 .fw-300 }
 
+![Campfire cooking spread on a picnic table](/assets/images/banner-meals.png){: .page-banner }
+
 ---
 
 ## The Plan in One Glance
