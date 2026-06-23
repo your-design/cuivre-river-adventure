@@ -38,7 +38,7 @@ Lake Lincoln and the park's creeks hold a friendly mix of warm-water fish:
 ## Permits (adults, do this before the trip)
 
 - **Anglers 16–64 need a Missouri fishing permit.** Buy at
-  [mdc.mo.gov/buy-permits](https://mdc.mo.gov/buy-permits), the MO Fishing app, or
+  [mdc.mo.gov/fishing](https://mdc.mo.gov/fishing), the MO Fishing app, or
   Walmart in Troy.
 - **Kids under 16 fish free.**
 - A short-term permit is cheap if you'll only fish a day or two; annual if you fish often.

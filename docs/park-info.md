@@ -11,6 +11,8 @@ description: "Everything about Cuivre River State Park: campgrounds, Lake Lincol
 The "Ozarks of the North"—rugged hills, limestone bluffs, and a swimming lake an hour from St. Louis.
 {: .fs-6 .fw-300 }
 
+![Bluffs over the Cuivre River valley](/assets/images/banner-park-info.png){: .page-banner }
+
 ---
 
 ## Table of Contents

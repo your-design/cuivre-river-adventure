@@ -60,13 +60,13 @@ There is **no separate entrance fee**—Missouri State Parks are free to enter.
 
 Most adults need a **Missouri fishing permit**. Buy before the trip:
 
-- **Where:** [mdc.mo.gov/buy-permits](https://mdc.mo.gov/buy-permits), the MO Fishing app, or local vendors (Walmart in Troy).
+- **Where:** [mdc.mo.gov/fishing](https://mdc.mo.gov/fishing), the MO Fishing app, or local vendors (Walmart in Troy).
 - **Who needs one:** Generally anglers **16–64**. **Kids under 16 fish free.** Missouri
   residents **65+** have a reduced/exempt status—check current rules.
 - **Options:** A short-term (e.g., daily) permit can be cheaper if you'll only fish a
   day or two; an annual permit pays off if you fish often.
 
-Confirm the latest rules and prices on the [MDC site](https://mdc.mo.gov/permits) before you buy.
+Confirm the latest rules and prices on the [MDC site](https://mdc.mo.gov/fishing) before you buy.
 
 See the [Fishing guide](/activities/fishing) for what to bring and where to cast.
 

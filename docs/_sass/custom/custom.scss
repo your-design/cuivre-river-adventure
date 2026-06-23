@@ -16,6 +16,16 @@ img[alt^="Lake Lincoln"] {
   margin: 0.5rem 0 1rem;
 }
 
+// Page header banners (illustrated, same style as the home hero)
+.page-banner {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
+  margin: 0.25rem 0 1.25rem;
+}
+
 // Slightly warmer table header tint
 .main-content table thead th {
   background-color: #eef3ec;

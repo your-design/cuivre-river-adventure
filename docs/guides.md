@@ -11,6 +11,8 @@ has_children: true
 Everything to sort out before we go—and how to run a smooth camp once we're there.
 {: .fs-6 .fw-300 }
 
+![Camp planning gear on a picnic table](/assets/images/banner-guides.png){: .page-banner }
+
 ---
 
 ## Before the Trip

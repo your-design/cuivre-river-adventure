@@ -45,7 +45,7 @@ Twelve people across four families. A little coordination now saves a lot of cha
 ### 1 Month Out (assign it)
 - [ ] Lock the [Food Plan](/meals/): who cooks which group dinner.
 - [ ] Divide the **shared gear** (canopies, group tables, water jugs, first-aid).
-- [ ] Adults 16+ buy **Missouri fishing permits** ([MDC](https://mdc.mo.gov/buy-permits)).
+- [ ] Adults 16+ buy **Missouri fishing permits** ([MDC](https://mdc.mo.gov/fishing)).
 - [ ] Check bikes (tires, brakes), kayaks (straps, PFDs), and camp gear.
 - [ ] Start the [Packing Lists](/guides/packing-list).
 

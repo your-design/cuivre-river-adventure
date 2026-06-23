@@ -51,7 +51,7 @@ beach supervising, and a sunset by the lake.
 
 ## A Note on Permits & Safety
 
-- **Fishing:** adults 16–64 need a [Missouri permit](https://mdc.mo.gov/buy-permits); kids under 16 free.
+- **Fishing:** adults 16–64 need a [Missouri permit](https://mdc.mo.gov/fishing); kids under 16 free.
 - **Boating:** Lake Lincoln is **electric-motor-only**; **PFDs required for kids.**
 - **Swimming:** **only** at the designated beach during posted hours (8 a.m.–8 p.m.).
 - **Heat & storms:** plan active time for morning/evening; off the water at the first thunder.
