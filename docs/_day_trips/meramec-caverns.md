@@ -40,6 +40,26 @@ the country.
 
 ---
 
+## What It Costs
+
+Standard guided-tour admission (our group of 12 is just under the **15-person group-rate**
+cutoff, so plan on regular prices):
+
+| Ticket | Price |
+|:-------|:------|
+| Adult (12 and up) | **$30.50** |
+| Child (5–11) | **$16.50** |
+| Age 4 and under | **Free** |
+
+{: .important }
+> **The Older Smiths are covering every kid's cave admission.** The children's tour
+> tickets are on them—adults, just plan for your own. (Kid add-ons below, like the
+> gemstone sluice or zipline, are separate tickets—decide on the day.)
+
+*Prices subject to change—confirm when you book the tour: **(573) 468-3166**.*
+
+---
+
 ## Kid Add-Ons at the Complex
 
 The cave sits on a riverfront complex with extras the 6–12 crowd loves (each is its own

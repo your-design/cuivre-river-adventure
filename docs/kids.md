@@ -128,6 +128,27 @@ When a storm parks over camp:
 
 ---
 
+## Our Camp Rules (we all help!)
+
+A camp this big stays fun when **everybody pitches in.** These rules are easy—you've
+got this! 💪
+
+- 🎆 **No fireworks or firecrackers** at the campground—they're not allowed here. But
+  we'll watch the **big show in Troy**, and you get **glow sticks** after dark!
+- 🍽️ **Use the paper plates and cups** (the Older Smiths brought a giant stack). Toss
+  them in the trash when you're done so our camp stays clean.
+- 🥤 **Food and drinks stay *outside* the campers**—only water goes in. Open a drink?
+  **Finish it,** then put the empty in the trash.
+- 🚪 **No in-and-out the camper door!** Every time it opens, bugs sneak in and the cool
+  air sneaks out. Be **in or out**—then keep it shut.
+- 💧 **Filled your water bottle from the filter pitcher? Fill the pitcher back up** for
+  the next person.
+- 👟 **Stay on the paths**—don't walk through other families' campsites (or the neighbors').
+- 🩲 **Hang up your wet stuff**—swimsuit, towel, and shower bag go on the **wet-stuff
+  line**, not on a bed or table.
+
+---
+
 ## A Few Grown-Up Reminders
 
 - **Set boundaries on day one:** where kids can roam, the buddy system, and

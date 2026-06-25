@@ -43,6 +43,7 @@ Bring these for the grown-ups running the show. The schedules laminate well.
 | 🍽️ [Meal Schedule](/assets/printables/meal-schedule.html) | Who cooks what, each day | [Food Plan](/meals/meal-schedule) |
 | ✍️ [Task Sign-Up Sheets](/assets/printables/task-signup.html) | Claim the open meal & cleanup jobs | [Food Plan](/meals/) · [Camp Jobs](/guides/camp-jobs) |
 | 🧹 [Camp Jobs & Cleanup Chart](/assets/printables/camp-jobs-chart.html) | Who does which chore, when | [Camp Jobs](/guides/camp-jobs) |
+| 😴 [Baby Sleeping — Do Not Enter Sign](/assets/printables/baby-sleeping-sign.html) | Door sign for nap time on the RV/pod | [Camp Setup](/guides/camp-setup) |
 
 ---
 

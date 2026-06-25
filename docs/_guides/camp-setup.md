@@ -222,6 +222,31 @@ kid jobs and adult auditors—on the **[Camp Jobs & Chores](/guides/camp-jobs)**
 
 ---
 
+## A Few House Rules
+
+Not to squash anyone's fun—these are just the handful of things that keep a 12-person
+camp clean, cool, and bug-free all week. (There's a kid-friendly version on the
+[Kids at Camp](/kids#our-camp-rules-we-all-help) page.)
+
+- **No fireworks or firecrackers.** The campground prohibits them—**please don't bring
+  any.** We'll caravan to the [Troy Rotary show](/itinerary/day4) instead, with glow
+  sticks for the kids.
+- **Paper plates, bowls, and plastic utensils.** The **Older Smiths are bringing plenty
+  for everyone.** It feels wasteful, but with a group this size it's the fastest way to
+  keep the site clean and the dishwater down.
+- **Eat and drink *outside* the RVs—water is the only exception.** No food or other
+  drinks inside. If you **open a drink, finish it and toss the container**—don't leave
+  it sitting. And **no in-and-out, in-and-out** through the RV doors: every open door
+  lets bugs in and the A/C out. In or out, then keep it shut.
+- **Refill the filtered-water pitcher when you fill a bottle from it.** Top it back off
+  for the next person.
+- **Don't cut through other families' campsites**—or the neighbors'. Use the paths and
+  the open kid corridor between our two sites.
+- **Hang up your wet things.** Swimsuits, towels, **and your bath/shower kit** go on the
+  wet-stuff line—not dumped on a bed or an outdoor table.
+
+---
+
 ## Quiet Hours & Good-Neighbor Camp
 
 - **Quiet hours 10 p.m.–6 a.m.**—wind down the volume, not necessarily the fun.

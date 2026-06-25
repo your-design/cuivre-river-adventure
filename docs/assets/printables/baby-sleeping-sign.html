@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Baby Sleeping — Do Not Enter — Printable Sign</title>
+<style>
+  :root { --ink:#2d3339; --green:#2f5d3a; --tan:#b9935a; --blue:#2e5c8a; --red:#a8322d; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; background:#f3f1ea; }
+  .sheet { max-width: 8.0in; margin: 0 auto; padding: 0.5in 0.6in; background:#fff; }
+  .sign { border: 8px solid var(--red); border-radius: 18px; padding: 0.55in 0.4in;
+          text-align: center; }
+  .sub { color: var(--tan); font-weight: 700; letter-spacing: 1px; text-transform: uppercase; font-size: 13px; }
+  .emoji { font-size: 96px; line-height: 1; margin: 6px 0 4px; }
+  h1 { font-size: 58px; margin: 6px 0 2px; color: var(--green); letter-spacing: 1px; }
+  .stop { font-size: 46px; font-weight: 800; color: var(--red); margin: 10px 0 4px;
+          text-transform: uppercase; letter-spacing: 2px; }
+  .line { font-size: 22px; color:#444; margin: 14px 0 2px; }
+  .quiet { margin-top: 18px; font-size: 20px; color: var(--blue); font-weight: 700; }
+  hr { border: 0; border-top: 3px solid #e4ded2; margin: 18px 0; }
+  .print-btn { display:block; width: 240px; margin: 12px auto; padding: 10px; background: var(--green);
+               color:#fff; border:0; border-radius: 8px; font-size: 15px; cursor:pointer; }
+  @media print {
+    body { background:#fff; } .sheet { box-shadow:none; max-width:none; padding: 0.3in; }
+    .print-btn { display:none; }
+    .sign, h1, .stop, .quiet, .sub { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+  <button class="print-btn" onclick="window.print()">🖨️ Print this sign</button>
+  <div class="sheet">
+    <div class="sign">
+      <div class="sub">Cuivre River Camp · July 2026</div>
+      <div class="emoji">😴🍼</div>
+      <h1>Baby Sleeping</h1>
+      <div class="stop">Please Do Not Enter</div>
+      <hr>
+      <div class="line">Nap in progress—we'll be back soon.</div>
+      <div class="line">Please knock <strong>softly</strong> only if it's urgent.</div>
+      <div class="quiet">🤫 Quiet, please — voices &amp; doors down low</div>
+    </div>
+  </div>
+</body>
+</html>
