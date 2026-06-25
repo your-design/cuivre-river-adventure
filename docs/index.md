@@ -115,6 +115,7 @@ get lost in (the good way).
 
 **Keeping kids happy**
 - [Kids at Camp](/kids) — boredom-busters plus **free printables** to bring along
+- [Printables](/printables) — every print-ready sheet (schedules, sign-ups, kids' activities) in one place
 
 **Beyond the park**
 - [Day Trips](/day-trips/) — Meramec Caverns, St. Charles, St. Louis, and local stops
