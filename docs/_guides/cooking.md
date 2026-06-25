@@ -2,7 +2,7 @@
 layout: default
 title: Camp Cooking
 parent: Plan & Prepare
-nav_order: 6
+nav_order: 5
 ---
 
 # Camp Cooking

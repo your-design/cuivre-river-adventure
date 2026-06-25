@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kids' Camp Sign-Up Chart — Printable</title>
+<style>
+  :root { --ink:#2d3339; --green:#2f5d3a; --tan:#b9935a; --blue:#2e5c8a; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; background:#f3f1ea; }
+  .sheet { max-width: 8.0in; margin: 0 auto; padding: 0.5in 0.6in; background:#fff; }
+  header { text-align:center; border-bottom: 4px solid var(--tan); padding-bottom: 8px; margin-bottom: 10px; }
+  h1 { font-size: 24px; margin: 0 0 2px; color: var(--green); }
+  .sub { color: var(--tan); font-weight: 700; letter-spacing: .5px; text-transform: uppercase; font-size: 11px; }
+  h2 { font-size: 15px; color: var(--blue); margin: 14px 0 5px; border-bottom:1.5px solid #e4ded2; padding-bottom:2px; }
+  table { width:100%; border-collapse: collapse; font-size: 12.5px; }
+  th { background:#eef3ec; color: var(--green); border:1.5px solid #b9c9b4; padding:5px; text-align:left; }
+  td { border:1.5px solid #cdd8c8; height: 30px; padding: 3px 6px; }
+  .job { width: 42%; font-weight:600; }
+  .star { color: var(--tan); }
+  .note { margin-top: 12px; font-size: 12px; color:#444; background:#f5f7f2; border-left: 4px solid var(--green); padding: 8px 12px; }
+  .print-btn { display:block; width: 240px; margin: 12px auto; padding: 10px; background: var(--green);
+               color:#fff; border:0; border-radius: 8px; font-size: 15px; cursor:pointer; }
+  @media print {
+    body { background:#fff; } .sheet { box-shadow:none; max-width:none; padding: 0.35in; }
+    .print-btn { display:none; }
+    th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+  <button class="print-btn" onclick="window.print()">🖨️ Print the kids' chart</button>
+  <div class="sheet">
+    <header>
+      <div class="sub">Cuivre River Camp · July 2026</div>
+      <h1>⭐ Kids' Camp Sign-Up Chart</h1>
+      <div class="sub" style="color:#888">Pick a job and an adventure each day — write your name!</div>
+    </header>
+
+    <h2>🛠️ Camp Jobs — Sign Up for One a Day</h2>
+    <table>
+      <tr><th class="job">Job</th><th>Mon-style: who's got it today?</th></tr>
+      <tr><td class="job">🪵 Firewood crew (stack &amp; count)</td><td></td></tr>
+      <tr><td class="job">💧 Water runner (refill the jug)</td><td></td></tr>
+      <tr><td class="job">🍽️ Table setter (plates &amp; napkins)</td><td></td></tr>
+      <tr><td class="job">🗑️ Trash patrol (micro-trash!)</td><td></td></tr>
+      <tr><td class="job">⛺ Tent-zipper monitor (bug patrol)</td><td></td></tr>
+      <tr><td class="job">🍿 Snack-pantry helper (with an adult)</td><td></td></tr>
+      <tr><td class="job">🐕 Dog helper (water &amp; shade checks)</td><td></td></tr>
+      <tr><td class="job">👋 Camp greeter (say hi to neighbors)</td><td></td></tr>
+    </table>
+
+    <h2>🌲 Adventures — Pick What You'll Try</h2>
+    <table>
+      <tr><th class="job">Adventure</th><th>I want to do this! (name)</th></tr>
+      <tr><td class="job">🎣 Catch a fish off the bank</td><td></td></tr>
+      <tr><td class="job">🛶 Tandem kayak around the shore</td><td></td></tr>
+      <tr><td class="job">🚵 Ride the easy bike trail</td><td></td></tr>
+      <tr><td class="job">🔎 Finish the scavenger hunt</td><td></td></tr>
+      <tr><td class="job">🦇 Meramec cave day (Sun)</td><td></td></tr>
+      <tr><td class="job">🔥 Lead the s'mores at the fire</td><td></td></tr>
+      <tr><td class="job">🏖️ Build the best sandcastle</td><td></td></tr>
+      <tr><td class="job">✨ Catch &amp; release a firefly</td><td></td></tr>
+    </table>
+
+    <h2>🏆 My Points This Week</h2>
+    <table>
+      <tr><th style="width:34%">Name</th><th>Stars earned (one ⭐ per finished job)</th></tr>
+      <tr><td></td><td></td></tr>
+      <tr><td></td><td></td></tr>
+      <tr><td></td><td></td></tr>
+      <tr><td></td><td></td></tr>
+      <tr><td></td><td></td></tr>
+    </table>
+
+    <div class="note"><strong>How it works:</strong> sign up for <strong>one job</strong> and <strong>one adventure</strong>
+      each day. Finish your job and an adult gives you a ⭐. Most stars by Tuesday wins first dibs on the s'mores! 🌟</div>
+  </div>
+</body>
+</html>

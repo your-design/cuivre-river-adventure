@@ -2,7 +2,7 @@
 layout: default
 title: Packing Lists
 parent: Plan & Prepare
-nav_order: 4
+nav_order: 3
 ---
 
 # Packing Lists
@@ -25,10 +25,12 @@ By category, plus a per-family checklist so nobody double-packs (or forgets the 
 
 Some things every family brings **for itself** (clothes, sleep gear, toiletries).
 Other big items only need **one or two for the whole group** (canopies, water jugs,
-group first-aid). Split the shared list at your [planning meeting](/guides/preparation)
-so we don't show up with four of everything and zero of something.
+group first-aid). **Nothing here is pre-assigned** — this is the **full list, and each
+family brings what it already has.** Skim the 🟩 items, **claim what you own** in the
+group chat (so we don't show up with four canopies and zero water jugs), and flag any gap
+nobody can cover.
 
-🟦 = bring your own · 🟩 = assign to ONE family for the group
+🟦 = bring your own · 🟩 = group item (only need 1–2 — **claim it if you've got one**)
 
 ---
 
@@ -199,10 +201,10 @@ Print this and tape it inside a cabinet or cooler lid:
 - [ ] **Box fan(s)** (+ kiddie pool if you've got it)
 - [ ] Bug spray + sunscreen + **DE** + personal meds
 - [ ] Dog gear (Older Smiths)
-- [ ] Your assigned **🟩 group item(s)**
-- [ ] Your part of the [grocery list](/meals/shopping-list)
+- [ ] Any **🟩 group item(s) you claimed**
+- [ ] Your part of the [food list](/meals/shopping-list) (+ **1 loaf of bread** & **1–2 large chip bags**)
 - [ ] Phone chargers / battery packs
-- [ ] Printed [kids' activity packet](/kids) + [camp jobs chart](/assets/printables/camp-jobs-chart.html)
+- [ ] Printed [kids' activity packet](/kids) + [camp printables](/assets/printables/camp-jobs-chart.html)
 
 ---
 

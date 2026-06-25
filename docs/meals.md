@@ -17,17 +17,25 @@ Feeding twelve people for a week—built from every family's own list of favorit
 
 ## The Plan in One Glance
 
-- **Dinners are shared group meals** with a **rotating host family** each night.
-- **Breakfasts and lunches are per-family** and mostly grab-and-go (faster, flexible,
-  kid-friendly).
-- **Saturday, July 4 is the big one**—an Independence Day BBQ feast everyone pitches into.
+- **Dinners are shared group meals** — one **host family** brings the food *and* cooks
+  the whole dinner; **two assigned people** (from other families) clean up.
+- **Breakfasts:** **6 total — 3 hot, 3 cold.** Hot ones (Thu, Sat, Mon) have a buy/cook
+  crew and a separate cleanup crew; cold ones (Fri, Sun, Tue) are **per-family** (everyone
+  brings their own cold items).
+- **Lunches are per-family and self-serve** every day — sandwiches, grilled cheese, mac &
+  cheese, or leftovers. Each family **fixes and cleans up its own.**
+- **Saturday, July 4** is the big BBQ (Older Smiths host); **Sunday** is **pizza out** on
+  the [Meramec Caverns cave day](/day_trips/meramec-caverns).
 
 | Page | What's on it |
 |:-----|:-------------|
-| [Meal Schedule](/meals/meal-schedule) | Day-by-day breakfast / lunch / dinner with hosts |
+| [Meal Schedule](/meals/meal-schedule) | Day-by-day breakfast / lunch / dinner with who cooks & cleans |
 | [Make-Ahead Meal Prep](/meals/meal-prep) | What to cook & freeze before the trip, by family |
-| [Master Shopping List](/meals/shopping-list) | One consolidated list, organized to split up |
+| [Master Food List](/meals/shopping-list) | One consolidated shopping list, organized to split up |
 | [Family Preferences](/meals/family-preferences) | Each family's food list from the idea book |
+
+🖨️ **Print & laminate:** the [Meal Schedule sheet](/assets/printables/meal-schedule.html)
+and the [Task Sign-Up sheets](/assets/printables/task-signup.html) for the jobs still open.
 
 ---
 
@@ -53,23 +61,26 @@ Full lists on the [Family Preferences](/meals/family-preferences) page.
 Each night one family **plans, cooks, and leads cleanup** (with everyone helping). It
 keeps any single person from cooking all week and lets each family share a favorite.
 
-| Night | Dinner | Host |
-|:------|:-------|:-----|
-| Wed 7/1 | Arrival cookout: hot dogs & brats | Zuelke |
+| Night | Dinner | Host (brings + cooks) |
+|:------|:-------|:----------------------|
+| Wed 7/1 | Arrival cookout: brats & hot dogs *(+ Older Smiths' 3-bean medley)* | Zuelke |
 | Thu 7/2 | Burgers & dogs + corn on the cob | Harris |
-| Fri 7/3 | Taco bar / walking tacos *(+ midday supply run)* | Younger Smiths |
-| **Sat 7/4** | **🎆 Independence Day BBQ feast** + Troy fireworks | **All (Older Smiths lead)** |
-| Sun 7/5 | 🍽️ **Dinner out** — [cave day trip](/day_trips/hannibal) | *(out)* |
-| Mon 7/6 | Spaghetti + use-it-up grill (simple) | Older Smiths |
+| Fri 7/3 | Taco bar / walking tacos | Younger Smiths |
+| **Sat 7/4** | **🎆 Pulled pork + BBQ chicken thighs, baked beans, pasta salad** + Troy fireworks | **Older Smiths** |
+| Sun 7/5 | 🍕 **Pizza out** — [Meramec Caverns cave day](/day_trips/meramec-caverns) | *(out)* |
+| Mon 7/6 | Spaghetti, green beans, salad | Older Smiths |
 
-*Tue 7/7 is a pack-up breakfast and the drive home.*
+*Each night, **two assigned people** (from families that aren't hosting) handle cleanup —
+fill those in on the [Task Sign-Up sheet](/assets/printables/task-signup.html). Tue 7/7
+is a pack-up cold breakfast and the drive home.*
 
-See the full [Meal Schedule](/meals/meal-schedule) for breakfasts, lunches, and details.
+**Dessert runs all week:** everyone brings a dessert item (cookies, etc.); the Older
+Smiths bake **brownies** and bring **Rice Krispie treats for the fire** plus **Little
+Debbie** snacks; **s'mores bar** one or two nights.
 
-**Breakfasts and chores have owners too.** Big breakfasts run on assigned crews
-(*guys vs. girls* and the like), there's a daily coffee station and a kid-run snack
-pantry, and cleanup rotates with an adult auditor—all on the
-**[Camp Jobs & Chores](/guides/camp-jobs)** page.
+**Breakfasts and chores have owners too.** The 3 hot breakfasts have a buy/cook crew and
+a separate cleanup crew; there's a daily coffee station and a kid-run snack pantry—all on
+the **[Camp Jobs & Chores](/guides/camp-jobs)** page.
 
 ---
 
@@ -81,4 +92,4 @@ pantry, and cleanup rotates with an adult auditor—all on the
 ---
 
 [See the Meal Schedule →](/meals/meal-schedule){: .btn .btn-primary }
-[Jump to the Shopping List →](/meals/shopping-list){: .btn }
+[Jump to the Food List →](/meals/shopping-list){: .btn }

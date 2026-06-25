@@ -36,35 +36,40 @@ The less you cook at camp, the more you enjoy camp. Here's what to prep before w
 
 ## Prep by Host / Family
 
-### Younger Smiths — Pre-Seasoned Meats (Taco Night ⭐)
+### Younger Smiths — Taco Meat (Fri) + Sat Breakfast ⭐
 The headliner idea from their list: **vacuum-seal pre-cooked meats in their sauce**, then
 just finish the last 10–20% at camp after thawing.
 
 - Cook & season chicken, pork, and/or steak **Mexican-style** for Friday's taco bar.
 - Vacuum-seal (or heavy freezer bags), **freeze flat**, label "Taco meat — thaw by Fri."
 - At camp: thaw in the cooler, reheat in a skillet, finish with fresh spices/lime.
-- Same trick works for their other cuisines (tikka masala, Korean, Italian) if they want
-  an extra easy dinner.
-- Also bring: **dehydrated mashed potatoes** (shelf-stable; boiling water only) for Mon.
+- **Sat breakfast (you cook):** pre-mix **pancake & waffle dry** into labeled bags (just
+  add wet at camp); **par-cook the bacon** to keep the morning fast.
 
-### Older Smiths — Pulled Pork & Spaghetti Sauce (July 4 + Sun ⭐)
-- **Pulled pork:** slow-cook at home, cool, **freeze in flat bags**. Reheat Saturday for
-  the feast (and Sunday lunch sandwiches). Label "Pulled pork — thaw by Sat."
-- **Spaghetti meat sauce:** make ahead, freeze. Sunday = boil pasta, reheat sauce, done.
-- Pre-make a **dry rub** for the BBQ chicken thighs; bag the thighs to marinate.
+### Older Smiths — BBQ, Spaghetti, 3-Bean Medley & Desserts ⭐
+- **Pulled pork (Sat):** slow-cook at home, cool, **freeze in flat bags**. Reheat Saturday
+  for the BBQ. Label "Pulled pork — thaw by Sat."
+- **BBQ chicken thighs (Sat):** pre-make a **dry rub**; bag the thighs to marinate.
+- **Spaghetti meat sauce (Mon):** make ahead, freeze. Monday = boil pasta, reheat sauce, done.
+- **3-bean medley (Wed):** assemble ahead so it just heats at the arrival cookout.
+- **Desserts:** bake **brownies** and make **Rice Krispie treats** ahead; pack **Little
+  Debbie** snacks.
+- **Mon breakfast (you cook):** bring biscuits + gravy fixings, eggs, hashbrowns, and the
+  kids' **bagged donuts**.
 
-### Harris — Burger Patties & Breakfast (Thu ⭐)
+### Harris — Burger Patties (Thu Dinner) + Thu Breakfast ⭐
 - **Pre-form hamburger patties** (parchment between them), freeze. They thaw to grill
   Thursday and double as cooler ice.
-- **Par-cook bacon** at home (bake, drain, refrigerate) so camp breakfast is fast and
-  less greasy-fire drama.
-- Portion the kids' **cereal, yogurt, bagel** supplies in an easy-grab bin.
+- **Thu breakfast (you + Zuelke cook):** **par-cook the bacon** at home (bake, drain,
+  refrigerate) so camp breakfast is fast and less greasy-fire drama.
+- Portion each family's **cold-breakfast** supplies (cereal, yogurt, bagels) in easy-grab bins.
 
-### Zuelke — Cookout & Breakfast (Wed + Thu)
-- Bring **brats & hot dogs** frozen (thaw for Wed/ Mon grills).
-- Pre-shred **hashbrowns** or buy frozen; pre-crack/whisk eggs into a sealed bottle for
-  fast scrambles (keep cold).
-- Wash & bag the **sweet corn**, **carrots**, and **honeycrisp apples**.
+### Zuelke — Wed Cookout + Thu Breakfast
+- Bring **brats & hot dogs** frozen (thaw for the Wed grill).
+- **Thu breakfast (you + Harris cook):** pre-shred **hashbrowns** or buy frozen;
+  **pre-crack/whisk the 19 eggs** into a sealed bottle for fast scrambles (keep cold);
+  bring the **cinnamon rolls (4 pkg)**.
+- Wash & bag the **sweet corn**, **carrots**, and **apples**.
 
 ---
 
@@ -99,12 +104,13 @@ Full cooler strategy: [Camp Cooking](/guides/cooking#cooler-strategy-food-safety
 
 | Thaw by | Item |
 |:--------|:-----|
-| Wed 7/1 | Brats & hot dogs (some) |
-| Thu 7/2 | Burger patties, bacon |
+| Wed 7/1 | Brats & hot dogs |
+| Thu 7/2 | Burger patties; bacon (Thu hot breakfast) |
 | Fri 7/3 | Taco meat |
-| Sat 7/4 | Pulled pork, BBQ chicken thighs, pancake batter fixings |
-| Sun 7/5 | Spaghetti sauce |
-| Mon 7/6 | Remaining brats/chicken |
+| Sat 7/4 | Pulled pork, BBQ chicken thighs; bacon (Sat hot breakfast) |
+| Mon 7/6 | Spaghetti meat sauce |
+
+*(Sunday is **pizza out** on the cave day—nothing to thaw.)*
 
 Move tomorrow's protein from freezer-cold to the regular cooler the night before so it
 thaws safely (in the fridge-cold cooler, never on the counter).
@@ -112,4 +118,4 @@ thaws safely (in the fridge-cold cooler, never on the counter).
 ---
 
 [Back: Meal Schedule](/meals/meal-schedule){: .btn }
-[Next: Master Shopping List →](/meals/shopping-list){: .btn .btn-primary }
+[Next: Master Food List →](/meals/shopping-list){: .btn .btn-primary }

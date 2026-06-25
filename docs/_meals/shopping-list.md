@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Master Shopping List
+title: Master Food List
 parent: Food Plan
 nav_order: 3
 ---
 
-# Master Shopping List
+# Master Food List
 {: .no_toc }
 
-One consolidated list for the week, built from every family's idea-book favorites.
+One consolidated shopping list for the week—built from every family's favorites and the camp food review.
 {: .fs-6 .fw-300 }
 
 ---
@@ -24,137 +24,132 @@ One consolidated list for the week, built from every family's idea-book favorite
 ## How to Use This List
 
 - Quantities assume **~12 people (7 adults, 5 kids) for 6 days**. Adjust to taste.
-- **Split it up:** assign each category (or each dinner) to a family so no one shops
-  for everything. The [meal-prep page](/meals/meal-prep) shows who's cooking what.
-- **Buy shelf-stable & frozen items at home**; buy **fresh/cold and ice near the end of
-  the drive** (Wentzville or Troy) so it spends the least time warm. See
-  [The Drive](/guides/drive#the-last-grocery--gas-run).
+- **It's already split by job.** Each dinner host buys their own dinner; each hot-breakfast
+  crew buys that breakfast (see the [Meal Schedule](/meals/meal-schedule)). The
+  **per-family** and **sign-up** items are flagged below.
+- **Buy shelf-stable & frozen at home**; buy **fresh/cold and ice near the end of the
+  drive** (Wentzville or Troy). See [The Drive](/guides/drive#the-last-grocery--gas-run).
 - ✅ Print this page and check items off.
 
----
-
-## Proteins & Meat
-
-- [ ] Hot dogs — 3–4 packs ⭐
-- [ ] **Brats** — 2–3 packs ⭐
-- [ ] Hamburger (pre-formed patties) — ~4 lbs ⭐
-- [ ] Bacon — 2–3 lbs ⭐ (par-cook ahead)
-- [ ] **Chicken thighs** — ~5 lbs (BBQ Sat + grill Mon)
-- [ ] Pork for **pulled pork** — ~5–6 lb shoulder/butt ⭐ (cook & freeze)
-- [ ] **Taco meat** (chicken/pork/steak, pre-seasoned) ⭐ (Younger Smiths prep)
-- [ ] Ground beef for **spaghetti sauce** — ~2 lbs ⭐ (or make full sauce ahead)
-- [ ] Lunch meat: **turkey**, **ham**, **corned beef** — 1–2 lbs each
-- [ ] Tuna — a few cans (egg/tuna sandwiches)
-- [ ] Spam — 1–2 cans (Younger Smiths)
-- [ ] String cheese (mozzarella) — 2 big bags
-- [ ] Shredded cheese (cheddar/Mexican) — 2–3 bags
-- [ ] Sliced cheese (for burgers/grilled cheese) — 2 packs
-- [ ] Eggs — 4–5 dozen
-- [ ] Cream cheese (strawberry) — 2 tubs
+{: .important }
+> **Every family brings, no matter what:** **one loaf of bread** + **one or two *large*
+> bags of chips to share** + **their own cold-breakfast items** (cereal, milk, yogurt,
+> bagels, fruit). Bring **chip clips** so big bags don't go stale.
 
 ---
 
-## Bread, Buns & Grains
+## Breakfast (the 3 hot ones)
 
-- [ ] Hot dog buns — 4 packs
-- [ ] Hamburger buns — 3 packs
-- [ ] Brat buns — 2 packs (or use hot dog buns)
-- [ ] Sandwich bread — 3–4 loaves
-- [ ] **Hawaiian rolls/bread** — 2 packs
-- [ ] **Cinnamon-swirl bagels** — 2 packs
-- [ ] Tortillas (flour) — 2–3 packs
-- [ ] Tortilla/Fritos & Doritos single bags (walking tacos) — 1 box each
-- [ ] **Rice** — large bag (Younger Smiths use it "almost every meal")
-- [ ] Spaghetti / pasta — 2–3 boxes
-- [ ] **Mac & cheese** — 6+ boxes (or family-size)
-- [ ] Ramen — a few packs
-- [ ] **Dehydrated mashed potato flakes** — 1 large box
-- [ ] Pancake mix — 1 box (or pre-mix dry ⭐)
-- [ ] Biscuits (canned) + gravy mix — for Sun ⭐
-- [ ] **Pillsbury cinnamon rolls** — 2 tubes
+**Thu — Zuelke & Harris buy:**
+- [ ] Eggs — **19** (2/adult, 1/child)
+- [ ] Bacon — **2 packs**
+- [ ] Large hashbrowns — 1–2 bags
+- [ ] **Pillsbury cinnamon rolls — 4 packs**
 
----
+**Sat — Younger Smiths buy:**
+- [ ] Pancake mix + syrup
+- [ ] Waffle mix (or frozen waffles)
+- [ ] Bacon — 1–2 packs
+- [ ] Eggs — **~19**
+- [ ] Berries (optional, red-white-blue)
 
-## Cereal & Breakfast
+**Mon — Older Smiths buy:**
+- [ ] Biscuits (canned) + gravy mix/sausage
+- [ ] Eggs — **~19**
+- [ ] Large hashbrowns — 1–2 bags
+- [ ] **Bagged donuts** (for the kids)
 
-- [ ] **Fruity Pebbles** — 1 box
-- [ ] **Honey Nut Cheerios** — 1 box
-- [ ] Cheerios (plain) — 1 box
-- [ ] **Malt-O-Meal** (bag) — 1
-- [ ] **Vanilla yogurt cups** — 1–2 big packs
-- [ ] Frozen hashbrowns — 2 bags
-- [ ] Syrup, butter/margarine
+**Cold breakfasts (Fri/Sun/Tue) — each family brings its own:** cereal, **2% milk**,
+**vanilla yogurt**, bagels + cream cheese, fruit. *(Milk/yogurt restock on the Day-1 Troy
+Walmart run.)*
 
 ---
 
-## Fruit & Vegetables
+## Lunch (per family + shared staples)
 
-- [ ] **Watermelon** — 2 (Wed + July 4 + Mon)
-- [ ] **Honeycrisp apples** — 1 bag
-- [ ] Bananas — 2 bunches
-- [ ] Grapes — 2–3 lbs
+**Each family brings:** **1 loaf of bread** · **1–2 large bags of chips** · their own
+favorite sandwich/lunch extras.
+
+**Shared staples — sign up (ideally something you already have):**
+- [ ] Peanut butter — **smooth**, 2 jars (no chunks)
+- [ ] Jelly — **grape** AND **strawberry**
+- [ ] Deli **turkey**, deli **ham**, deli **corned beef** — 1–2 lbs each
+- [ ] Sandwich **cheeses** (sliced) — 2–3 packs
+- [ ] **Tuna** — a few cans (tuna salad)
+- [ ] Eggs for **hard-boiling** (a quick egg-cooker is coming)
+- [ ] **Fruit** (apples, bananas, grapes), **celery**, **baby carrots**
+- [ ] Mac & cheese — 6+ boxes · tomato soup (grilled-cheese day)
+
+---
+
+## Dinners (each host buys their own)
+
+**Wed — Zuelke:** brats (2–3 pkg), hot dogs (3–4 pkg), buns, ketchup/mustard/relish ·
+*Older Smiths: **3-bean medley** (cans + fixings)*
+
+**Thu — Harris:** hamburger patties (~4 lbs) ⭐, hot dogs, buns, **sweet corn (18–24 ears)**,
+veggie tray & dip
+
+**Fri — Younger Smiths:** taco meat (chicken/pork/steak, pre-seasoned) ⭐, **rice**, flour
+tortillas, single-bag Fritos/Doritos (walking tacos), shredded cheese, lettuce, tomato,
+onion, salsa, sour cream
+
+**Sat (July 4) — Older Smiths:** pork for **pulled pork** (~5–6 lb) ⭐, **BBQ chicken
+thighs** (~5 lbs), BBQ sauce + rub, **baked beans** (3–4 large cans), **pasta salad**
+(pasta + dressing + mix-ins), rolls
+
+**Mon — Older Smiths:** spaghetti/pasta (2–3 boxes), ground beef for sauce (~2 lbs) ⭐ or
+jarred sauce (3), parmesan, **green beans** (2–3 cans or fresh), **bagged salad** + dressing,
+garlic bread
+
+**Sun:** 🍕 **pizza out** — nothing to buy.
+
+---
+
+## Desserts (all week)
+
+- [ ] **Everyone:** a dessert item to share (cookies, etc.)
+- [ ] **Older Smiths:** brownie mix (bake ahead), **Rice Krispie treats** (cereal +
+      marshmallows + butter), **Little Debbie** snacks
+- [ ] **S'mores:** marshmallows, graham crackers, chocolate bars — **buy extra** (1–2 nights)
+
+---
+
+## Fruit & Vegetables (shared)
+
+- [ ] **Watermelon** — 2
+- [ ] Apples, bananas, grapes — keep stocked
+- [ ] Baby carrots — 2 bags · Celery — 1–2 bunches
 - [ ] Cinnamon applesauce / pouches — 2 boxes
-- [ ] **Sweet corn on the cob** — 18–24 ears
-- [ ] Baby carrots — 2 bags
-- [ ] Celery — 1–2 bunches
-- [ ] Broccoli — 1–2 heads (Harris)
-- [ ] Green beans — 2–3 cans or fresh
-- [ ] Peas — 1 bag frozen (Harris kids)
-- [ ] Salad greens / bagged salad — 2–3 bags
-- [ ] Salad toppings: tomato, cucumber, dressing
-- [ ] Taco veg: lettuce, tomato, onion, jalapeño
-- [ ] Potatoes (foil packets, optional)
+- [ ] *(Dinner veg — corn, taco veg, green beans, salad — are with each host above)*
 
 ---
 
-## Pantry, Condiments & Sauces
+## Pantry & Condiments (shared / sign-up)
 
-- [ ] **Peanut butter** — creamy/smooth, 2 jars (no chunks!)
-- [ ] **Jelly** — grape AND strawberry
-- [ ] **Nutella** — 1 jar
 - [ ] Ketchup, mustard, relish, mayo
-- [ ] BBQ sauce — 2 bottles
-- [ ] Pasta/spaghetti sauce — 3 jars (if not made ahead)
-- [ ] Salsa, sour cream
-- [ ] Baked beans — 3–4 large cans
-- [ ] Taco seasoning, BBQ rub, salt/pepper, garlic, oil
-- [ ] Parmesan cheese
+- [ ] Salt/pepper, garlic, cooking oil, cooking spray/butter
+- [ ] Taco seasoning, BBQ rub
 - [ ] Coffee + filters; creamer/sugar
-- [ ] Cooking spray / butter
+- [ ] Parmesan cheese
 
 ---
 
-## Snacks
+## Snacks & Drinks (shared)
 
-- [ ] **Variety chip pack** (the Zuelke + Harris staple)
-- [ ] Baked Lays
-- [ ] Cheetos
-- [ ] Doritos (nacho cheese)
-- [ ] **Goldfish**
-- [ ] **Cheez-Its**
-- [ ] Trail mix / granola bars
-- [ ] Marshmallows, graham crackers, chocolate bars (**s'mores** — buy extra!)
-
----
-
-## Drinks
-
+- [ ] The shared **large chip bags** (each family brings 1–2) + **chip clips**
+- [ ] Applesauce pouches, string cheese, trail mix / granola bars, goldfish/Cheez-Its
 - [ ] **Water** — several cases + jugs for the dispenser
-- [ ] **2% milk** — 3–4 gallons (use early; goes fast)
-- [ ] Sprite — 1–2 12-packs
-- [ ] Dr Pepper — 1–2 12-packs
-- [ ] Other soda to taste
-- [ ] **Beer** (adults) — bring your own preference
-- [ ] Juice boxes / kids' drinks (optional)
-- [ ] Bagged ice — buy near the park + a mid-week refill
+- [ ] **2% milk** — 3–4 gallons (use early) · juice boxes (kids)
+- [ ] Soda to taste · **beer** (adults, BYO)
+- [ ] **Bagged ice** — buy near the park + a mid-week refill
 
 ---
 
 ## Non-Food (don't forget!)
 
-- [ ] Paper plates, bowls, cups, napkins
-- [ ] Plastic utensils (or bring reusable)
-- [ ] **Heavy-duty foil** (packets, grilling) + plastic wrap + zip bags
+- [ ] Paper plates, bowls, cups, napkins · plastic utensils
+- [ ] **Chip clips**, **heavy-duty foil**, plastic wrap, zip bags
 - [ ] Paper towels (lots) + trash bags
 - [ ] Biodegradable dish soap + sponges
 - [ ] Hand sanitizer + baby wipes
@@ -164,17 +159,26 @@ One consolidated list for the week, built from every family's idea-book favorite
 
 ---
 
-## Suggested Split
+## Who Buys What (at a glance)
 
 | Family | Owns shopping for |
 |:-------|:------------------|
-| **Zuelke** | Wed cookout (dogs/brats/buns), breakfast meats, corn, drinks |
-| **Harris** | Burger night, cereal/breakfast, kid snacks, fruit |
-| **Younger Smiths** | Taco night, rice/tortillas, mashed-potato night, coffee |
-| **Older Smiths** | Pulled pork + BBQ + sides (July 4), spaghetti night, salad |
-| **Shared/split** | Water, ice, paper goods, foil, condiments, s'mores |
+| **Zuelke** | Wed dinner (brats/dogs); **Thu hot breakfast** (with Harris); drinks share |
+| **Harris** | Thu dinner (burgers/dogs/corn); **Thu hot breakfast** (with Zuelke) |
+| **Younger Smiths** | Fri dinner (taco bar); **Sat hot breakfast** (pancakes/waffles/bacon/eggs) |
+| **Older Smiths** | Sat & Mon dinners (BBQ + spaghetti); **Mon hot breakfast**; 3-bean medley; desserts (brownies, Rice Krispie, Little Debbie) |
+| **Every family** | 1 loaf of bread · 1–2 large chip bags · own cold breakfast |
+| **Sign-up / shared** | Lunch staples, water, ice, paper goods, condiments, s'mores |
 
 Settle up costs however the group prefers (split evenly, or each owns their categories).
+
+---
+
+## Decisions Not Yet Made
+
+- [ ] **Lunch-staple owners** (PB, jellies, deli meats, cheeses, tuna, fruit, celery, carrots)
+- [ ] **S'mores nights** (which 1–2)
+- [ ] **Sunday pizza** spot
 
 ---
 

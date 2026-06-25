@@ -20,7 +20,6 @@ Everything to sort out before we go—and how to run a smooth camp once we're th
 | Guide | What's covered |
 |:------|:---------------|
 | [Pre-Trip Game Plan](/guides/preparation) | Timeline, who-does-what, group coordination |
-| [Reservations](/guides/reservations) | Booking sites for four families, permits, passes |
 | [The Drive from Columbia](/guides/drive) | Route, stops, and the last grocery run |
 | [Packing Lists](/guides/packing-list) | Gear by category, plus a per-family checklist |
 
@@ -43,7 +42,6 @@ Everything to sort out before we go—and how to run a smooth camp once we're th
 |:--------|:-------|
 | Park office | (636) 528-7247 |
 | Naturalist / programs | (636) 528-7427 |
-| Camping reservations | [icampmo1.usedirect.com](https://icampmo1.usedirect.com/MoStateParksWeb/) |
 | Nearest hospital | Mercy Hospital Lincoln, Troy (~10 min) |
 | Emergency | 911 |
 

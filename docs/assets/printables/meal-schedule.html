@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Meal Schedule — Printable</title>
+<style>
+  :root { --ink:#2d3339; --green:#2f5d3a; --tan:#b9935a; --blue:#2e5c8a; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; background:#f3f1ea; }
+  .sheet { max-width: 8.0in; margin: 0 auto; padding: 0.5in 0.55in; background:#fff; }
+  header { text-align:center; border-bottom: 4px solid var(--tan); padding-bottom: 8px; margin-bottom: 10px; }
+  h1 { font-size: 22px; margin: 0 0 2px; color: var(--green); }
+  .sub { color: var(--tan); font-weight: 700; letter-spacing: .5px; text-transform: uppercase; font-size: 11px; }
+  h2 { font-size: 14px; color: var(--blue); margin: 13px 0 5px; border-bottom:1.5px solid #e4ded2; padding-bottom:2px; }
+  table { width:100%; border-collapse: collapse; font-size: 11px; }
+  th { background:#eef3ec; color: var(--green); border:1.5px solid #b9c9b4; padding:5px; text-align:left; }
+  td { border:1.5px solid #cdd8c8; padding: 4px 5px; vertical-align: top; }
+  .day { font-weight:700; color: var(--green); white-space:nowrap; }
+  .hot { color:#b5451f; font-weight:700; }
+  .cold { color: var(--blue); font-weight:700; }
+  .note { margin-top: 10px; font-size: 11.5px; color:#444; background:#f5f7f2; border-left: 4px solid var(--green); padding: 7px 11px; }
+  .legend { font-size: 11px; color:#555; margin: 4px 0 0; }
+  .print-btn { display:block; width: 230px; margin: 12px auto; padding: 10px; background: var(--green);
+               color:#fff; border:0; border-radius: 8px; font-size: 15px; cursor:pointer; }
+  @media print {
+    body { background:#fff; } .sheet { box-shadow:none; max-width:none; padding: 0.3in; }
+    .print-btn { display:none; }
+    th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+  <button class="print-btn" onclick="window.print()">🖨️ Print the meal schedule</button>
+  <div class="sheet">
+    <header>
+      <div class="sub">Cuivre River Camp · July 2026</div>
+      <h1>🍽️ Meal Schedule</h1>
+      <div class="sub" style="color:#888">6 breakfasts (3 hot 🔥 / 3 cold ❄️) · self-serve lunches · group dinners</div>
+    </header>
+
+    <h2>Breakfast &amp; Dinner — Who Cooks &amp; Cleans</h2>
+    <table>
+      <tr>
+        <th style="width:11%">Day</th>
+        <th style="width:30%">Breakfast</th>
+        <th style="width:18%">B'fast cook / clean</th>
+        <th style="width:25%">Dinner (host cooks)</th>
+        <th style="width:16%">Dinner cleanup</th>
+      </tr>
+      <tr><td class="day">Wed 7/1</td><td><em>on the road</em></td><td>—</td><td>Brats &amp; hot dogs <em>(+ Older Smiths 3-bean medley)</em></td><td><strong>Zuelke</strong> / ____ &amp; ____</td></tr>
+      <tr><td class="day">Thu 7/2</td><td><span class="hot">🔥 HOT:</span> eggs (19), bacon, hashbrowns, cinnamon rolls</td><td>Cook: Zuelke &amp; Harris<br>Clean: Y. &amp; O. Smiths</td><td>Burgers &amp; dogs + corn</td><td><strong>Harris</strong> / ____ &amp; ____</td></tr>
+      <tr><td class="day">Fri 7/3</td><td><span class="cold">❄️ COLD:</span> own items</td><td>each family</td><td>Taco bar / walking tacos</td><td><strong>Y. Smiths</strong> / ____ &amp; ____</td></tr>
+      <tr><td class="day">Sat 7/4 🎆</td><td><span class="hot">🔥 HOT:</span> pancakes, waffles, bacon, eggs</td><td>Cook: Younger Smiths<br>Clean: Zuelke &amp; Harris</td><td>BBQ: pulled pork + chicken thighs, baked beans, pasta salad</td><td><strong>O. Smiths</strong> / ____ &amp; ____</td></tr>
+      <tr><td class="day">Sun 7/5 🦇</td><td><span class="cold">❄️ COLD:</span> own items (grab-&amp;-go)</td><td>each family</td><td>🍕 Pizza out (cave day)</td><td>—</td></tr>
+      <tr><td class="day">Mon 7/6</td><td><span class="hot">🔥 HOT:</span> biscuits &amp; gravy, eggs, hashbrowns, donuts</td><td>Cook: Older Smiths<br>Clean: Younger Smiths</td><td>Spaghetti, green beans, salad</td><td><strong>O. Smiths</strong> / ____ &amp; ____</td></tr>
+      <tr><td class="day">Tue 7/7</td><td><span class="cold">❄️ COLD:</span> pack-up</td><td>everyone</td><td><em>home</em></td><td>—</td></tr>
+    </table>
+    <p class="legend"><strong>Egg rule:</strong> 2 per adult + 1 per child = <strong>19 eggs</strong> per egg meal. <strong>Fill in the blanks</strong> ( ____ &amp; ____ ) with the 2 people on cleanup.</p>
+
+    <h2>Lunch — Every Day, Self-Serve</h2>
+    <table>
+      <tr><th style="width:50%">The deal</th><th>Each family brings</th></tr>
+      <tr>
+        <td>Options daily: <strong>sandwiches · grilled cheese · mac &amp; cheese · leftovers</strong>. Every family fixes &amp; cleans up its own. <strong>2 set out, 2 put away.</strong> Out for the day? Pack your own. <strong>Cave day = pack your own family lunch.</strong></td>
+        <td><strong>1 loaf of bread</strong> + <strong>1–2 large bags of chips</strong> to share (bring chip clips!) + your own favorite lunch extras.</td>
+      </tr>
+    </table>
+
+    <div class="note"><strong>Dessert all week:</strong> everyone brings a dessert item (cookies, etc.).
+      Older Smiths: brownies, Rice Krispie treats over the fire, Little Debbies. <strong>S'mores bar</strong> one or two nights.
+      &nbsp; <strong>Shared lunch staples to sign up for:</strong> smooth PB · grape &amp; strawberry jelly · deli turkey/ham/corned beef · cheeses · tuna · hard-boiled eggs · fruit · celery · baby carrots.</div>
+  </div>
+</body>
+</html>

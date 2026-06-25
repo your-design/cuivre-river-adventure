@@ -2,7 +2,7 @@
 layout: default
 title: Savvy Camper & RV Tips
 parent: Plan & Prepare
-nav_order: 7
+nav_order: 6
 ---
 
 # Savvy Camper & RV Tips

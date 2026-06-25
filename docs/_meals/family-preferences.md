@@ -89,12 +89,14 @@ anchors the everyday breakfasts and kid snacks.
 - Chips
 - *Dinner out one night (maybe pizza — Backroads Pizza & Grill or a local spot)*
 
-**Best fit in the plan:** leads the **July 4 BBQ** (pulled pork + chicken + beans) and
-hosts **Spaghetti Night (Sun)**.
+**Best fit in the plan:** hosts the **July 4 BBQ** (pulled pork + chicken + baked beans +
+pasta salad) and **Monday spaghetti** (green beans + salad); also brings the **3-bean
+medley** (Wed) and the **desserts** (brownies, Rice Krispie treats, Little Debbie).
 
 {: .note }
-> They flagged a **pizza night out**. A good option is a mid-week dinner in **Troy**
-> (~10–15 min away) to give the cooks a night off—see [Day Trips](/day-trips/).
+> Their **pizza night out** is now the plan for **Sunday**, the
+> [Meramec Caverns cave day](/day_trips/meramec-caverns)—pizza on the drive back gives the
+> cooks a night off.
 
 ---
 
@@ -116,7 +118,7 @@ Italian**, etc. (See [Meal Prep](/meals/meal-prep).)
 - Coffee · water · milk · soda · beer
 
 **Best fit in the plan:** hosts **Taco Night (Fri)** with the pre-seasoned meats and
-brings the **dehydrated mashed potatoes** for Monday's grill-out.
+cooks the **Saturday hot breakfast** (pancakes, waffles, bacon & eggs).
 
 ---
 
@@ -135,5 +137,5 @@ These show up on almost everyone's list—stock plenty:
 
 ---
 
-[Back: Shopping List](/meals/shopping-list){: .btn }
+[Back: Master Food List](/meals/shopping-list){: .btn }
 [Back to Food Plan](/meals/){: .btn .btn-primary }

@@ -43,9 +43,9 @@ flat farmland around it. It's one of Missouri's largest state parks, built in th
 | **Emergency** | 911 |
 
 {: .note }
-> **No entrance fee, but reservations cost money.** Camping is reserved and paid per
-> site per night. Fishing requires a Missouri permit for most adults. See
-> [Reservations](/guides/reservations) and [Fishing](/activities/fishing).
+> **No entrance fee, but camping isn't free.** Our sites are **booked and paid ✅**.
+> Fishing still requires a Missouri permit for most adults—see
+> [Fishing](/activities/fishing#permits-adults-do-this-before-the-trip).
 
 ---
 
@@ -110,7 +110,7 @@ trails, and a special-use area.
 (so we're covered for July). Vault toilets stay open year-round. RVs up to about 65
 feet can be accommodated on full-hookup sites.
 
-See [Reservations](/guides/reservations) for booking strategy for our four families.
+Our two adjacent sites are **booked** for all four families—see [Camp Setup](/guides/camp-setup#our-sites-and-rigs) for the layout.
 
 ---
 
@@ -178,7 +178,6 @@ for a kid-friendly spotting list.
 |:--------|:-------|
 | Park office | (636) 528-7247 |
 | Naturalist / programs | (636) 528-7427 |
-| Camping reservations | [icampmo1.usedirect.com](https://icampmo1.usedirect.com/MoStateParksWeb/) |
 | Missouri State Parks | [mostateparks.com](https://mostateparks.com/park/cuivre-river-state-park) |
 | Emergency | 911 |
 

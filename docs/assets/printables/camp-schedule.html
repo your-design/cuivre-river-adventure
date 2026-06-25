@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Camp Schedule — Printable</title>
+<style>
+  :root { --ink:#2d3339; --green:#2f5d3a; --tan:#b9935a; --blue:#2e5c8a; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; background:#f3f1ea; }
+  .sheet { max-width: 8.0in; margin: 0 auto; padding: 0.5in 0.6in; background:#fff; }
+  header { text-align:center; border-bottom: 4px solid var(--green); padding-bottom: 8px; margin-bottom: 10px; }
+  h1 { font-size: 23px; margin: 0 0 2px; color: var(--green); }
+  .sub { color: var(--tan); font-weight: 700; letter-spacing: .5px; text-transform: uppercase; font-size: 11px; }
+  h2 { font-size: 14px; color: var(--blue); margin: 14px 0 5px; border-bottom:1.5px solid #e4ded2; padding-bottom:2px; }
+  table { width:100%; border-collapse: collapse; font-size: 12px; margin-bottom: 4px; }
+  th { background:#eef3ec; color: var(--green); border:1.5px solid #b9c9b4; padding:5px; text-align:left; }
+  td { border:1.5px solid #cdd8c8; padding: 4px 6px; vertical-align: top; }
+  .day { font-weight:700; color: var(--green); white-space:nowrap; }
+  .star { color: var(--tan); font-weight:700; }
+  .note { margin-top: 10px; font-size: 12px; color:#444; background:#f5f7f2; border-left: 4px solid var(--green); padding: 7px 11px; }
+  .print-btn { display:block; width: 230px; margin: 12px auto; padding: 10px; background: var(--green);
+               color:#fff; border:0; border-radius: 8px; font-size: 15px; cursor:pointer; }
+  @media print {
+    body { background:#fff; } .sheet { box-shadow:none; max-width:none; padding: 0.35in; }
+    .print-btn { display:none; }
+    th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+  <button class="print-btn" onclick="window.print()">🖨️ Print the schedule</button>
+  <div class="sheet">
+    <header>
+      <div class="sub">Cuivre River Family Adventure · Troy, MO</div>
+      <h1>🏕️ Camp Schedule — July 1–7, 2026</h1>
+      <div class="sub" style="color:#888">Four families · twelve people · one great week</div>
+    </header>
+
+    <h2>The Week at a Glance</h2>
+    <table>
+      <tr><th style="width:18%">Day</th><th>Theme</th><th style="width:34%">Dinner (host)</th></tr>
+      <tr><td class="day">Wed 7/1</td><td>Arrival &amp; setup</td><td>Brats &amp; hot dogs 🌭 (Zuelke)</td></tr>
+      <tr><td class="day">Thu 7/2</td><td>Settle in — lake &amp; fishing</td><td>Burgers &amp; dogs + corn (Harris)</td></tr>
+      <tr><td class="day">Fri 7/3</td><td>Paddle &amp; bike (+ supply run 🛒)</td><td>Taco bar (Younger Smiths)</td></tr>
+      <tr><td class="day">Sat 7/4 🎆</td><td>Independence Day + Troy fireworks</td><td>BBQ: pulled pork &amp; chicken (Older Smiths)</td></tr>
+      <tr><td class="day">Sun 7/5 🦇</td><td>Cave day — Meramec Caverns</td><td>🍕 Pizza out</td></tr>
+      <tr><td class="day">Mon 7/6</td><td>Choice day &amp; last campfire</td><td>Spaghetti + green beans + salad (Older Smiths)</td></tr>
+      <tr><td class="day">Tue 7/7</td><td>Pack up &amp; head home</td><td>—</td></tr>
+    </table>
+
+    <h2>Daily Rhythm (a loose template)</h2>
+    <table>
+      <tr><th style="width:26%">Time</th><th>What's happening</th></tr>
+      <tr><td class="day">6–8 a.m.</td><td>Coffee, quiet, early fishing</td></tr>
+      <tr><td class="day">8–9</td><td>Breakfast</td></tr>
+      <tr><td class="day">9–12</td><td>Morning activity — paddle / bike / hike / beach</td></tr>
+      <tr><td class="day">12–1</td><td>Lunch (self-serve, each family)</td></tr>
+      <tr><td class="day">1–3:30</td><td>Heat-of-day rest, shade, creek wading, naps</td></tr>
+      <tr><td class="day">3:30–6</td><td>Afternoon activity</td></tr>
+      <tr><td class="day">6–7:30</td><td>Group dinner (host cooks · 2 people clean)</td></tr>
+      <tr><td class="day">7:30–10</td><td>Campfire, naturalist program, stargazing, s'mores</td></tr>
+      <tr><td class="day">10 p.m.</td><td>Quiet hours</td></tr>
+    </table>
+
+    <div class="note"><strong>Two rules that make it work:</strong> be active in the cool hours
+      (morning &amp; evening), rest in the shade midday — and get <strong>off the water at the first
+      thunder</strong>. The plan is a menu, not a mandate: split up freely and regroup for dinner.</div>
+  </div>
+</body>
+</html>

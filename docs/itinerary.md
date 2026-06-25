@@ -13,6 +13,8 @@ A loose day-by-day plan for July 1–7. A framework to adapt, not a checklist to
 
 ![A lakeside campsite at dusk](/assets/images/banner-itinerary.png){: .page-banner }
 
+🖨️ [Print the laminate-ready Camp Schedule](/assets/printables/camp-schedule.html) (week-at-a-glance + daily rhythm).
+
 ---
 
 ## The Week
@@ -23,7 +25,7 @@ A loose day-by-day plan for July 1–7. A framework to adapt, not a checklist to
 | [Day 2](/itinerary/day2) | Thu, Jul 2 | Settle in — lake & fishing |
 | [Day 3](/itinerary/day3) | Fri, Jul 3 | Paddle & bike (+ midday supply run) |
 | [Day 4](/itinerary/day4) | **Sat, Jul 4** | 🎆 Independence Day + Troy fireworks |
-| [Day 5](/itinerary/day5) | Sun, Jul 5 | 🦇 Cave day trip (Hannibal) — dinner out |
+| [Day 5](/itinerary/day5) | Sun, Jul 5 | 🦇 Cave day trip (Meramec Caverns) — pizza out |
 | [Day 6](/itinerary/day6) | Mon, Jul 6 | Choice day & last campfire |
 | [Day 7](/itinerary/day7) | Tue, Jul 7 | Pack up & head home |
 

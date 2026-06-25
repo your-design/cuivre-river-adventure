@@ -2,7 +2,7 @@
 layout: default
 title: Camp Setup & Living
 parent: Plan & Prepare
-nav_order: 5
+nav_order: 4
 ---
 
 # Camp Setup & Living
@@ -23,7 +23,7 @@ Two sites, three rigs, twelve people, two dogs—run as one camp. Plus heat, sto
 
 ## Our Sites and Rigs
 
-We're on **two adjacent RV sites with room for tents** ([reservations](/guides/reservations#what-we-booked)).
+We're on **two adjacent RV sites with room for tents** (booked ✅ for all four families).
 Three different camping styles, so each has its own quirks:
 
 | Rig | Who | Highlights | Cooking |

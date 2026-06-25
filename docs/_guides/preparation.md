@@ -36,8 +36,8 @@ Twelve people across four families. A little coordination now saves a lot of cha
 
 ## Countdown Timeline
 
-### Now – 3 Months Out (book it)
-- [ ] **Reserve campsites** as a group—try to cluster sites together. See [Reservations](/guides/reservations).
+### Done early (already handled ✅)
+- [x] ~~**Reserve campsites** as a group~~ — **booked: two adjacent sites, July 1–7.**
 - [ ] Confirm who's bringing **kayaks/canoes**, **bikes**, and how many of each.
 - [ ] Confirm trailer/RV vs. tent for each family.
 - [ ] Set up a shared group chat or thread for decisions.
@@ -72,7 +72,6 @@ Twelve people works best when a few jobs have clear owners. Suggested split—ad
 
 | Role | Possible owner | Job |
 |:-----|:---------------|:----|
-| **Reservations lead** | One adult | Books and coordinates the sites |
 | **Food/grocery lead** | One adult | Owns the [shopping list](/meals/shopping-list) and dinner schedule |
 | **Gear lead** | One adult | Tracks shared canopies, tables, water, tools |
 | **Water lead** | A paddler | Coordinates kayaks, PFDs, beach plan |
@@ -138,4 +137,4 @@ Shared chores keep resentment low—see [Camp Jobs & Chores](/guides/camp-jobs).
 
 ---
 
-[Next: Reservations →](/guides/reservations){: .btn .btn-primary }
+[Next: The Drive →](/guides/drive){: .btn .btn-primary }

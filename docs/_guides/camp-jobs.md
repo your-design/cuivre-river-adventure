@@ -2,7 +2,7 @@
 layout: default
 title: Camp Jobs & Chores
 parent: Plan & Prepare
-nav_order: 8
+nav_order: 7
 ---
 
 # Camp Jobs & Chores
@@ -30,8 +30,9 @@ The goals:
 - **Teens and kids stay involved**—real jobs, away from screens, part of the team.
 - **It's fun, not a lecture**—crews, rotations, and a little friendly competition.
 
-🖨️ Print the **[Camp Jobs & Cleanup Chart](/assets/printables/camp-jobs-chart.html)**
-and tape it to the Group HQ table so everyone can see the day's crews.
+🖨️ Print the **[Camp Jobs & Cleanup Chart](/assets/printables/camp-jobs-chart.html)** and
+the **[Task Sign-Up sheets](/assets/printables/task-signup.html)** (for the jobs nobody's
+claimed yet), and tape them to the Group HQ table so everyone can see the day's crews.
 
 ---
 
@@ -71,26 +72,24 @@ Several adults run on coffee, and a stocked morning station sets the tone for th
 
 ## Breakfast Crews
 
-The [meal schedule](/meals/meal-schedule) has the menus (including the big cooked
-breakfasts). Each breakfast needs **owners for setup, cooking, and cleanup**—not just a
-menu. Assign a **crew per morning**:
+There are **6 breakfasts: 3 hot, 3 cold.** The hot ones have **fixed crews from the food
+plan**—one crew **buys + cooks**, a different crew **cleans up**. The cold ones are
+**per-family** (everyone brings their own). See the [meal schedule](/meals/meal-schedule).
 
-- **Make it a game:** *Guys vs. Girls*, *Smiths vs. The Field*, kids-as-sous-chefs,
-  or a simple family rotation. Mix it up daily.
-- **A crew owns the whole morning:** fire up the griddles, cook, plate the kids first,
-  then **wash, dry, and reset** the kitchen.
+- **A cooking crew owns the whole morning:** fire up the griddles, cook, plate the kids
+  first, then hand off to the cleanup crew.
 - **Pair a parent with kids** so little hands have real jobs (see [Kid Jobs](#kid-jobs-by-age)).
 
-| Morning | Suggested crew |
-|:--------|:---------------|
-| Thu 7/2 — big breakfast | Crew A (e.g., the "Guys") |
-| Fri 7/3 — quick/cold | Whoever's up + kids |
-| Sat 7/4 — pancakes & bacon | Crew B (e.g., the "Girls") |
-| Sun 7/5 — biscuits & gravy | Crew A |
-| Mon 7/6 — cinnamon rolls | Kids + an auditor |
-| Tue 7/7 — pack-up | Everyone (eat down leftovers) |
+| Morning | Buy + cook | Cleanup |
+|:--------|:-----------|:--------|
+| **Thu 7/2** 🔥 eggs/bacon/hashbrowns/cinnamon rolls | Zuelke & Harris | Younger & Older Smiths |
+| Fri 7/3 ❄️ cold | *each family (own items)* | each family |
+| **Sat 7/4** 🔥 pancakes/waffles/bacon/eggs | Younger Smiths | Zuelke & Harris |
+| Sun 7/5 ❄️ cold (cave day) | *each family (pack lunches)* | each family |
+| **Mon 7/6** 🔥 biscuits & gravy/eggs/hashbrowns | Older Smiths | Younger Smiths |
+| Tue 7/7 ❄️ cold pack-up | *everyone (eat down leftovers)* | everyone |
 
-*Swap crews however you like—just decide the night before.*
+*On the Sat & Mon Smiths-cook mornings, all four families can pitch in if needed.*
 
 ---
 
@@ -129,11 +128,11 @@ ground or in the bushes.**
 - [ ] Coffee/snack stations restocked for next time
 - [ ] **Adult auditor signs off** ✔
 
-| Meal | Cooks (host) | Cleanup crew |
-|:-----|:-------------|:-------------|
-| Breakfast | Breakfast crew of the day | The other crew |
-| Lunch | Self-serve / packed | Each family clears its own |
-| Dinner | [Host family](/meals/meal-schedule#week-at-a-glance) | A different family |
+| Meal | Cooks | Cleanup |
+|:-----|:------|:--------|
+| Breakfast (hot) | Assigned cook crew | The assigned cleanup crew |
+| Lunch | Self-serve, each family its own | 2 set out · 2 put away ([sign up](/assets/printables/task-signup.html)) |
+| Dinner | [Host family](/meals/meal-schedule#week-at-a-glance) brings + cooks | **2 assigned people** ([sign up](/assets/printables/task-signup.html)) |
 
 ---
 
@@ -171,14 +170,17 @@ Real jobs build real campers. Pair younger kids with an adult auditor.
 ## Daily Roles at a Glance
 
 Assign these each evening for the next day (write them on the
-[printable chart](/assets/printables/camp-jobs-chart.html)):
+[Camp Jobs chart](/assets/printables/camp-jobs-chart.html) or the
+[Task Sign-Up sheet](/assets/printables/task-signup.html)):
 
 | Role | Who |
 |:-----|:----|
 | Coffee/drink station owner | _________ |
-| Breakfast crew | _________ |
-| Dinner host | _________ |
-| Dinner cleanup crew | _________ |
+| Breakfast crew (hot days) | _________ |
+| Lunch set-out (2) | _________ |
+| Lunch put-away (2) | _________ |
+| Dinner host (brings + cooks) | _________ |
+| Dinner cleanup (2 people) | _________ |
 | Snack-pantry manager (kid) | _________ |
 | Snack-pantry auditor (adult) | _________ |
 | Water/ice & trash runner | _________ |

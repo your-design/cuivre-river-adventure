@@ -102,7 +102,6 @@ get lost in (the good way).
 
 **Before we go**
 - [Pre-Trip Game Plan](/guides/preparation) — timeline and who-does-what
-- [Reservations](/guides/reservations) — campsites and permits
 - [Packing Lists](/guides/packing-list) — gear by category and by family
 - [Food Plan](/meals/) — meal schedule, prep, and the master shopping list
 
@@ -118,16 +117,16 @@ get lost in (the good way).
 - [Kids at Camp](/kids) — boredom-busters plus **free printables** to bring along
 
 **Beyond the park**
-- [Day Trips](/day-trips/) — Hannibal, St. Charles, St. Louis, and local stops
+- [Day Trips](/day-trips/) — Meramec Caverns, St. Charles, St. Louis, and local stops
 
 </div>
 
 ---
 
 {: .note }
-> **Reservations:** Cuivre River's 68-site campground books up for July—especially the
-> Fourth. Reserve early through [Missouri State Parks](https://icampmo1.usedirect.com/MoStateParksWeb/)
-> and try to group our sites together. See the [Reservation guide](/guides/reservations).
+> **Campsites are booked ✅** — two adjacent sites for all four families, July 1–7. All
+> that's left before we go is the [Food Plan](/meals/), [packing](/guides/packing-list),
+> and adults' [fishing permits](/activities/fishing#permits-adults-do-this-before-the-trip).
 
 ---
 

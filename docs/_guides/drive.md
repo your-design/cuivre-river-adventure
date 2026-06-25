@@ -2,7 +2,7 @@
 layout: default
 title: The Drive from Columbia
 parent: Plan & Prepare
-nav_order: 3
+nav_order: 2
 ---
 
 # The Drive from Columbia
@@ -63,7 +63,7 @@ perishables spend the least time in the car:
 - **Gas up in Troy**—it's the last easy fuel before the park.
 - Grab **bagged ice** here to refresh the coolers right before camp.
 
-See the [Shopping List](/meals/shopping-list) for what to buy and the
+See the [Master Food List](/meals/shopping-list) for what to buy and the
 [Meal Prep guide](/meals/meal-prep) for what to bring already cooked or frozen.
 
 ---
@@ -102,5 +102,5 @@ For lots more, see [Kids at Camp](/kids).
 
 ---
 
-[Back: Reservations](/guides/reservations){: .btn }
+[Back: Game Plan](/guides/preparation){: .btn }
 [Next: Packing Lists →](/guides/packing-list){: .btn .btn-primary }

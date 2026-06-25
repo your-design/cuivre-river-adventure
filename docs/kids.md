@@ -35,6 +35,7 @@ rides, and rainy afternoons.
 | 📓 [Camp Nature Journal](/assets/printables/nature-journal.html) | Draw-and-write page for each day |
 | 🎣 [Fishing Log](/assets/printables/fishing-log.html) | Record every catch (and the one that got away) |
 | 🎒 [Kid's Own Packing List](/assets/printables/kids-packing-list.html) | Let kids pack their own bag |
+| ⭐ [Kids' Camp Sign-Up Chart](/assets/printables/kids-signup.html) | Claim a job and an adventure each day (with a star chart) |
 
 {: .note }
 > **Tip:** print a few copies of the scavenger hunt and bingo so each kid (or family)
@@ -113,7 +114,7 @@ When a storm parks over camp:
 - The **printables** above (bingo, journal, scavenger hunt)
 - Flashlight shadow puppets, story-telling
 - Coloring and camp-craft supplies
-- A drive to a [rainy-day day trip](/day-trips/) (Hannibal's cave, St. Louis museums)
+- A drive to a [rainy-day day trip](/day-trips/) (Meramec Caverns, St. Louis museums)
 
 ---
 

@@ -45,4 +45,4 @@ Easy, shaded, stroller-friendly walking; a nice low-key outing for mixed ages.
 ---
 
 [Back: Winfield](/day_trips/winfield){: .btn }
-[Next: Hannibal →](/day_trips/hannibal){: .btn .btn-primary }
+[Next: Meramec Caverns →](/day_trips/meramec-caverns){: .btn .btn-primary }

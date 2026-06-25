@@ -52,5 +52,5 @@ It's a longer drive, so **choose one main thing** and keep it relaxed:
 
 ---
 
-[Back: Hannibal](/day_trips/hannibal){: .btn }
+[Back: Meramec Caverns](/day_trips/meramec-caverns){: .btn }
 [Back to Day Trips](/day-trips/){: .btn .btn-primary }
