@@ -1,0 +1,226 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Master Shopping List — Printable</title>
+<style>
+  :root { --ink:#2d3339; --green:#2f5d3a; --tan:#b9935a; --blue:#2e5c8a; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+         color: var(--ink); margin: 0; background:#f3f1ea; }
+  .sheet { max-width: 8.0in; margin: 0 auto; padding: 0.5in 0.6in; background:#fff; }
+  header { text-align:center; border-bottom: 4px solid var(--green); padding-bottom: 8px; margin-bottom: 10px; }
+  h1 { font-size: 22px; margin: 0 0 2px; color: var(--green); }
+  .sub { color: var(--tan); font-weight: 700; letter-spacing: .5px; text-transform: uppercase; font-size: 11px; }
+  h2 { font-size: 14px; color: var(--green); margin: 16px 0 5px; border-bottom:1.5px solid #e4ded2; padding-bottom:2px; }
+  h2 .aisle { color:#999; font-weight:600; font-size:11px; text-transform:uppercase; letter-spacing:.5px; }
+  table { width:100%; border-collapse: collapse; font-size: 11.5px; }
+  th { background:#eef3ea; color: var(--green); border:1.5px solid #bcccb4; padding:5px; text-align:left; }
+  td { border:1.5px solid #d2dccb; height: 24px; padding: 3px 6px; vertical-align:top; }
+  .item { width: 44%; font-weight:600; }
+  .qty { width: 22%; color:#555; font-weight:400; }
+  .who { width: 34%; }
+  .owner { color: var(--blue); font-weight:700; font-size:10.5px; white-space:nowrap; }
+  .intro { font-size: 12px; color:#444; background:#f5f7f2; border-left: 4px solid var(--green); padding: 8px 12px; margin: 4px 0 6px; }
+  .legend { font-size: 11px; color:#555; margin: 6px 0 2px; }
+  .legend b { color: var(--blue); }
+  .note { margin-top: 8px; font-size: 11.5px; color:#444; background:#fbf7ee; border-left: 4px solid var(--tan); padding: 7px 11px; }
+  .cols { column-count: 1; }
+  .pagebreak { page-break-before: always; }
+  table, h2 { page-break-inside: avoid; }
+  .print-btn { display:block; width: 260px; margin: 12px auto; padding: 10px; background: var(--green);
+               color:#fff; border:0; border-radius: 8px; font-size: 15px; cursor:pointer; }
+  @media print {
+    body { background:#fff; } .sheet { box-shadow:none; max-width:none; padding: 0.3in; }
+    .print-btn { display:none; }
+    th { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+  <button class="print-btn" onclick="window.print()">🖨️ Print the shopping list</button>
+  <div class="sheet">
+    <header>
+      <div class="sub">Cuivre River / Lincoln State Park · July 1–7, 2026</div>
+      <h1>🛒 Master Shopping List &amp; Sign-Up</h1>
+      <div class="sub" style="color:#888">12 people · 7 adults &amp; 5 kids · 6 days</div>
+    </header>
+
+    <div class="intro">
+      <strong>How this works:</strong> gather the adults, go down the list, and write your name in the
+      <strong>“Who’s bringing it”</strong> column for whatever you’ll buy and pack. Then everyone shops
+      their claimed items at <strong>Walmart or any grocery store</strong> and brings them. Items are
+      grouped by store aisle so a run is quick.
+    </div>
+    <div class="legend">
+      <b>(Family)</b> = already owns this in the meal plan — confirm or hand it off. &nbsp;
+      ⭐ = good to <b>cook/freeze ahead</b>. &nbsp;
+      🧊 = <b>buy cold/fresh near the park</b> (Wentzville or Troy), not at home.
+    </div>
+
+    <h2>🥩 Meat &amp; Seafood <span class="aisle">— buy at home (frozen) / restock 🧊</span></h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Brats</td><td class="qty">2–3 pkg <span class="owner">(Zuelke)</span></td><td></td></tr>
+      <tr><td class="item">Hot dogs</td><td class="qty">6–8 pkg total (Wed + Thu)</td><td></td></tr>
+      <tr><td class="item">Hamburger patties ⭐</td><td class="qty">~4 lbs <span class="owner">(Harris)</span></td><td></td></tr>
+      <tr><td class="item">Bacon</td><td class="qty">3–5 packs (breakfasts)</td><td></td></tr>
+      <tr><td class="item">Taco meat — chicken/pork/steak, pre-seasoned ⭐</td><td class="qty"><span class="owner">(Younger Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Pork shoulder/butt — pulled pork ⭐</td><td class="qty">~5–6 lb <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">BBQ chicken thighs ⭐</td><td class="qty">~5 lbs <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Ground beef — spaghetti sauce ⭐</td><td class="qty">~2 lbs <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Breakfast sausage (gravy)</td><td class="qty">1 lb <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Deli turkey · ham · corned beef</td><td class="qty">1–2 lbs each 🧊</td><td></td></tr>
+      <tr><td class="item">Tuna (canned)</td><td class="qty">a few cans</td><td></td></tr>
+    </table>
+
+    <h2>🥬 Produce <span class="aisle">— buy fresh near the park 🧊</span></h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Sweet corn (on the cob)</td><td class="qty">18–24 ears <span class="owner">(Harris)</span></td><td></td></tr>
+      <tr><td class="item">Lettuce · tomato · onion (taco bar)</td><td class="qty"><span class="owner">(Younger Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Bagged salad + green beans (fresh)</td><td class="qty"><span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Veggie tray &amp; dip</td><td class="qty">1 <span class="owner">(Harris)</span></td><td></td></tr>
+      <tr><td class="item">Watermelon</td><td class="qty">2</td><td></td></tr>
+      <tr><td class="item">Apples · bananas · grapes</td><td class="qty">keep stocked</td><td></td></tr>
+      <tr><td class="item">Baby carrots</td><td class="qty">2 bags</td><td></td></tr>
+      <tr><td class="item">Celery</td><td class="qty">1–2 bunches</td><td></td></tr>
+      <tr><td class="item">Berries (red/white/blue, optional)</td><td class="qty">Sat breakfast</td><td></td></tr>
+    </table>
+
+    <h2>🥛 Dairy &amp; Eggs <span class="aisle">— restock cold near the park 🧊</span></h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Eggs</td><td class="qty">~5–6 dozen (3 hot bkfsts + boiling)</td><td></td></tr>
+      <tr><td class="item">2% milk</td><td class="qty">3–4 gallons (use early)</td><td></td></tr>
+      <tr><td class="item">Vanilla yogurt</td><td class="qty">cold breakfast — per family</td><td></td></tr>
+      <tr><td class="item">Shredded cheese (taco)</td><td class="qty"><span class="owner">(Younger Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Sour cream (taco)</td><td class="qty"><span class="owner">(Younger Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Sliced sandwich cheese</td><td class="qty">2–3 packs</td><td></td></tr>
+      <tr><td class="item">String cheese</td><td class="qty">1–2 bags (kids)</td><td></td></tr>
+      <tr><td class="item">Cream cheese (bagels)</td><td class="qty">per family</td><td></td></tr>
+      <tr><td class="item">Butter</td><td class="qty">cooking + Rice Krispie treats</td><td></td></tr>
+      <tr><td class="item">Parmesan cheese</td><td class="qty">1</td><td></td></tr>
+      <tr><td class="item">Pillsbury cinnamon rolls</td><td class="qty">4 packs <span class="owner">(Zuelke/Harris)</span></td><td></td></tr>
+      <tr><td class="item">Canned biscuits (gravy)</td><td class="qty"><span class="owner">(Older Smiths)</span></td><td></td></tr>
+    </table>
+
+    <h2>🍞 Bread &amp; Bakery</h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Sandwich bread</td><td class="qty"><strong>1 loaf per family</strong></td><td></td></tr>
+      <tr><td class="item">Hamburger &amp; hot dog buns</td><td class="qty">Wed + Thu dinners</td><td></td></tr>
+      <tr><td class="item">Flour tortillas (taco bar)</td><td class="qty"><span class="owner">(Younger Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Dinner rolls</td><td class="qty">Sat BBQ <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Garlic bread</td><td class="qty">Mon <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Bagels</td><td class="qty">cold breakfast — per family</td><td></td></tr>
+      <tr><td class="item">Bagged donuts (kids)</td><td class="qty">Mon breakfast <span class="owner">(Older Smiths)</span></td><td></td></tr>
+    </table>
+
+    <div class="pagebreak"></div>
+
+    <h2>🥫 Pantry &amp; Dry Goods <span class="aisle">— buy at home, shelf-stable</span></h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Peanut butter (smooth)</td><td class="qty">2 jars</td><td></td></tr>
+      <tr><td class="item">Jelly — grape AND strawberry</td><td class="qty">1 each</td><td></td></tr>
+      <tr><td class="item">Mac &amp; cheese</td><td class="qty">6+ boxes</td><td></td></tr>
+      <tr><td class="item">Tomato soup (grilled-cheese day)</td><td class="qty">2–3 cans</td><td></td></tr>
+      <tr><td class="item">Rice (taco bar)</td><td class="qty"><span class="owner">(Younger Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Salsa (taco bar)</td><td class="qty"><span class="owner">(Younger Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Baked beans (large cans)</td><td class="qty">3–4 <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">3-bean medley — beans + fixings</td><td class="qty">Wed <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Pasta salad — pasta + dressing + mix-ins</td><td class="qty">Sat <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Spaghetti / pasta</td><td class="qty">2–3 boxes <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Jarred pasta sauce</td><td class="qty">3 jars <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Green beans (canned)</td><td class="qty">2–3 cans</td><td></td></tr>
+      <tr><td class="item">Pancake mix + syrup</td><td class="qty"><span class="owner">(Younger Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Waffle mix (or frozen waffles)</td><td class="qty"><span class="owner">(Younger Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Sausage gravy mix</td><td class="qty">Mon <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">BBQ sauce + rub</td><td class="qty"><span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Taco seasoning</td><td class="qty">if not pre-seasoned</td><td></td></tr>
+      <tr><td class="item">Cooking oil · spray · salt · pepper · garlic</td><td class="qty">camp kitchen staples</td><td></td></tr>
+      <tr><td class="item">Coffee + filters · creamer · sugar</td><td class="qty">daily coffee station</td><td></td></tr>
+      <tr><td class="item">Cinnamon applesauce / pouches</td><td class="qty">2 boxes</td><td></td></tr>
+    </table>
+
+    <h2>🧊 Frozen</h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Hashbrowns (bags)</td><td class="qty">2–4 bags (Thu + Mon bkfst)</td><td></td></tr>
+      <tr><td class="item">Frozen waffles (if not mix)</td><td class="qty">Sat breakfast</td><td></td></tr>
+    </table>
+
+    <h2>🍪 Desserts &amp; Snacks</h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Large bags of chips (to share)</td><td class="qty"><strong>1–2 per family</strong> + chip clips</td><td></td></tr>
+      <tr><td class="item">Fritos / Doritos — single bags (walking tacos)</td><td class="qty"><span class="owner">(Younger Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Marshmallows · graham crackers · chocolate bars (s’mores)</td><td class="qty">buy extra — 1–2 nights</td><td></td></tr>
+      <tr><td class="item">Brownie mix ⭐</td><td class="qty">bake ahead <span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Rice Krispie treats (cereal + marshmallows + butter)</td><td class="qty"><span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">Little Debbie snacks</td><td class="qty"><span class="owner">(Older Smiths)</span></td><td></td></tr>
+      <tr><td class="item">A dessert item to share</td><td class="qty"><strong>everyone brings one</strong> (cookies, etc.)</td><td></td></tr>
+      <tr><td class="item">Trail mix · granola bars</td><td class="qty">kid snack pantry</td><td></td></tr>
+      <tr><td class="item">Goldfish · Cheez-Its</td><td class="qty">kid snack pantry</td><td></td></tr>
+      <tr><td class="item">Applesauce pouches · string cheese</td><td class="qty">kid snacks</td><td></td></tr>
+    </table>
+
+    <h2>🧴 Condiments</h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Ketchup · mustard · relish · mayo</td><td class="qty">1 each</td><td></td></tr>
+      <tr><td class="item">Salad dressing</td><td class="qty">1–2</td><td></td></tr>
+    </table>
+
+    <div class="pagebreak"></div>
+
+    <h2>🥤 Beverages &amp; Ice</h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Bottled water — cases</td><td class="qty">several cases</td><td></td></tr>
+      <tr><td class="item">Water jugs (for the dispenser)</td><td class="qty">1–2 large</td><td></td></tr>
+      <tr><td class="item">2% milk</td><td class="qty">see Dairy (use early)</td><td></td></tr>
+      <tr><td class="item">Juice boxes (kids)</td><td class="qty">1–2 boxes</td><td></td></tr>
+      <tr><td class="item">Soda</td><td class="qty">to taste</td><td></td></tr>
+      <tr><td class="item">Beer (adults — BYO)</td><td class="qty">BYO</td><td></td></tr>
+      <tr><td class="item">Bagged ice 🧊</td><td class="qty"><strong>buy near park + mid-week refill</strong></td><td></td></tr>
+    </table>
+
+    <h2>🧻 Paper Goods &amp; Non-Food</h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Paper plates · bowls · cups · napkins</td><td class="qty">lots</td><td></td></tr>
+      <tr><td class="item">Plastic utensils</td><td class="qty">lots</td><td></td></tr>
+      <tr><td class="item">Chip clips</td><td class="qty">several</td><td></td></tr>
+      <tr><td class="item">Heavy-duty foil · plastic wrap · zip bags</td><td class="qty">all sizes</td><td></td></tr>
+      <tr><td class="item">Paper towels</td><td class="qty">lots</td><td></td></tr>
+      <tr><td class="item">Trash bags</td><td class="qty">1 box</td><td></td></tr>
+      <tr><td class="item">Biodegradable dish soap + sponges</td><td class="qty">1–2</td><td></td></tr>
+      <tr><td class="item">Hand sanitizer + baby wipes</td><td class="qty">1–2 each</td><td></td></tr>
+      <tr><td class="item">Aluminum trays / foil pans</td><td class="qty">serving + baked beans</td><td></td></tr>
+      <tr><td class="item">Tablecloths + clips (windy tables)</td><td class="qty">2–3</td><td></td></tr>
+    </table>
+
+    <h2>🔥 Grill &amp; Fire Supplies</h2>
+    <table>
+      <tr><th class="item">Item</th><th class="qty">Qty / notes</th><th class="who">Who’s bringing it</th></tr>
+      <tr><td class="item">Charcoal and/or propane</td><td class="qty">for the grills</td><td></td></tr>
+      <tr><td class="item">Fire starters / lighter / matches</td><td class="qty">1–2</td><td></td></tr>
+      <tr><td class="item">Firewood</td><td class="qty">buy locally — don’t move firewood</td><td></td></tr>
+    </table>
+
+    <div class="note">
+      <strong>Two-trip rule for the cooler:</strong> buy everything <strong>shelf-stable and frozen at home</strong>,
+      then make one stop in <strong>Wentzville or Troy</strong> for anything marked 🧊 (fresh meat, deli, dairy,
+      produce) and for <strong>bagged ice</strong> so it’s cold when you arrive. Plan a <strong>mid-week ice refill</strong> in Troy.
+    </div>
+    <div class="note" style="border-left-color:var(--green)">
+      <strong>Don’t need to claim:</strong> Sunday is the <strong>cave day — pizza out</strong> (nothing to buy), and
+      lunches are <strong>per-family / self-serve</strong> all week. Settle up costs however the group prefers —
+      split evenly, or each owns their categories.
+    </div>
+  </div>
+</body>
+</html>

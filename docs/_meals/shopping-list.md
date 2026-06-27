@@ -29,7 +29,9 @@ One consolidated shopping list for the week—built from every family's favorite
   **per-family** and **sign-up** items are flagged below.
 - **Buy shelf-stable & frozen at home**; buy **fresh/cold and ice near the end of the
   drive** (Wentzville or Troy). See [The Drive](/guides/drive#the-last-grocery--gas-run).
-- ✅ Print this page and check items off.
+- ✅ 🖨️ **Print the [Shopping List & Sign-Up sheet](/assets/printables/shopping-list.html)** — it's
+  this same list, grouped by store aisle with a *"who's bringing it"* column. Gather the adults,
+  claim items, then everyone shops their picks at Walmart or a grocery store.
 
 {: .important }
 > **Every family brings, no matter what:** **one loaf of bread** + **one or two *large*
