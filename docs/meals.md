@@ -31,7 +31,7 @@ Feeding twelve people for a week—built from every family's own list of favorit
 |:-----|:-------------|
 | [Meal Schedule](/meals/meal-schedule) | Day-by-day breakfast / lunch / dinner with who cooks & cleans |
 | [Make-Ahead Meal Prep](/meals/meal-prep) | What to cook & freeze before the trip, by family |
-| [Master Food List](/meals/shopping-list) | One consolidated shopping list, organized to split up |
+| [Master Food List](/meals/shopping-list) | The final shopping list — by store aisle, then who's bringing each item |
 | [Family Preferences](/meals/family-preferences) | Each family's food list from the idea book |
 
 🖨️ **Print & laminate:** the [Meal Schedule sheet](/assets/printables/meal-schedule.html)

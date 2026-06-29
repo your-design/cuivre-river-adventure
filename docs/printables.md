@@ -41,7 +41,7 @@ Bring these for the grown-ups running the show. The schedules laminate well.
 |:----------|:-----------|:--------|
 | 🏕️ [Camp Schedule](/assets/printables/camp-schedule.html) | Week-at-a-glance + daily rhythm, July 1–7 | [Itinerary](/itinerary/) |
 | 🍽️ [Meal Schedule](/assets/printables/meal-schedule.html) | Who cooks what, each day | [Food Plan](/meals/meal-schedule) |
-| 🛒 [Master Shopping List & Sign-Up](/assets/printables/shopping-list.html) | Every food & supply item, by store aisle, with a "who's bringing it" column to claim | [Food Plan](/meals/shopping-list) |
+| 🛒 [Master Shopping List (Final)](/assets/printables/shopping-list.html) | Every food & supply item, by store aisle then family, with each family's claims filled in | [Food Plan](/meals/shopping-list) |
 | ✍️ [Task Sign-Up Sheets](/assets/printables/task-signup.html) | Claim the open meal & cleanup jobs | [Food Plan](/meals/) · [Camp Jobs](/guides/camp-jobs) |
 | 🧹 [Camp Jobs & Cleanup Chart](/assets/printables/camp-jobs-chart.html) | Who does which chore, when | [Camp Jobs](/guides/camp-jobs) |
 | 😴 [Baby Sleeping — Do Not Enter Sign](/assets/printables/baby-sleeping-sign.html) | Door sign for nap time on the RV/pod | [Camp Setup](/guides/camp-setup) |
