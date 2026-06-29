@@ -43,6 +43,26 @@ rides, and rainy afternoons.
 
 ---
 
+## 🎨 Trip-Themed Activity Packs (new!)
+
+We made a whole set of puzzle and coloring pages **about *our* trip** — campfires, the
+canoe, Cuivre River critters, and the Fourth of July. The art is **black-and-white line
+art** designed for the **colored pencils and watercolors** we picked up, so everyone can
+join in on a rainy afternoon or quiet evening.
+
+| Pack | What's inside |
+|:-----|:--------------|
+| 🔤 [Camp Word Searches](/assets/printables/kids/word-search-pack.html) | **5 word searches** — Campsite, On the Water, Missouri Critters, On the Trail, Fourth of July (answer key included) |
+| ✏️ [Camp Crosswords](/assets/printables/kids/crossword-pack.html) | **5 crosswords** with kid-friendly clues — Camp Basics, Water & Fishing, Forest Animals, Cuivre River Adventure, Summer Cookout (answer key included) |
+| 🖍️ [Camp Coloring Pages](/assets/printables/kids/coloring-pages.html) | **10 coloring pages** — tent & campfire, canoe, deer, raccoon, owl, the big catch, turtle, s'mores, fireworks, cave explorer |
+
+{: .note }
+> **Watercolor tip:** for the coloring pages, print on **cardstock or thicker paper** so
+> the paint doesn't buckle. Plain paper is perfect for crayons and colored pencils.
+> Answer keys for the puzzles are on the **last page** of each pack — keep those with a grown-up!
+
+---
+
 ## Anytime Boredom-Busters
 
 Stuff to do that needs little or no gear:

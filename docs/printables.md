@@ -61,6 +61,14 @@ markers, a pencil box, and a clipboard.
 | 🎣 [Fishing Log](/assets/printables/fishing-log.html) | Record every catch (and the one that got away) | [Kids at Camp](/kids) · [Fishing](/activities/fishing) |
 | 🎒 [Kid's Own Packing List](/assets/printables/kids-packing-list.html) | Let kids pack their own bag | [Kids at Camp](/kids) |
 | ⭐ [Kids' Camp Sign-Up Chart](/assets/printables/kids-signup.html) | Claim a job and an adventure each day (with a star chart) | [Kids at Camp](/kids) |
+| 🔤 [Camp Word Searches (×5)](/assets/printables/kids/word-search-pack.html) | 5 trip-themed word searches + answer key | [Kids at Camp](/kids) |
+| ✏️ [Camp Crosswords (×5)](/assets/printables/kids/crossword-pack.html) | 5 trip-themed crosswords with clues + answer key | [Kids at Camp](/kids) |
+| 🖍️ [Camp Coloring Pages (×10)](/assets/printables/kids/coloring-pages.html) | 10 line-art coloring pages for pencils & watercolors | [Kids at Camp](/kids) |
+
+{: .note }
+> The word searches, crosswords, and coloring pages were **custom-made for this trip** —
+> camp, river, Missouri critters, and the Fourth of July. Print coloring pages on cardstock
+> if you're painting with watercolors.
 
 ---
 
