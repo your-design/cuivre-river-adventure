@@ -53,6 +53,7 @@ join in on a rainy afternoon or quiet evening.
 | Pack | What's inside |
 |:-----|:--------------|
 | 🔤 [Camp Word Searches](/assets/printables/kids/word-search-pack.html) | **5 word searches** — Campsite, On the Water, Missouri Critters, On the Trail, Fourth of July (answer key included) |
+| 🔠 [Camp Word Searches — Advanced](/assets/printables/kids/word-search-pack-advanced.html) | **Same 5 themes, harder** — big 25×25 grids with 25 words each (answer key included) |
 | ✏️ [Camp Crosswords](/assets/printables/kids/crossword-pack.html) | **5 crosswords** with kid-friendly clues — Camp Basics, Water & Fishing, Forest Animals, Cuivre River Adventure, Summer Cookout (answer key included) |
 | 🖍️ [Camp Coloring Pages](/assets/printables/kids/coloring-pages.html) | **10 coloring pages** — tent & campfire, canoe, deer, raccoon, owl, the big catch, turtle, s'mores, fireworks, cave explorer |
 
